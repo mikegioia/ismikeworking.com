@@ -7,7 +7,7 @@
  * and not write any files. Set this argument to 0 to actually
  * save the files and run silently.
  *
- * Usage: generate.php "/path/to/www" "today|YYYY-MM-DD" [dryRun]
+ * Usage: generate.php "/path/to/www" "today|YYYY-MM-DD" [dryRun] [user:group]
  */
 
 // Set up maximum error reporting and UTC time
@@ -17,7 +17,7 @@ ini_set( 'display_errors', 1 );
 date_default_timezone_set( 'UTC' );
 
 $dryRun = TRUE;
-$usage = "Usage: generate.php '/path/to/www' 'today|YYYY-MM-DD' [dryRun=1]";
+$usage = "Usage: generate.php '/path/to/www' 'today|YYYY-MM-DD' [dryRun=1] [user:group]";
 
 // Data for the template
 $data = (object) [
@@ -123,7 +123,7 @@ foreach ( $days as $day ):
                 formatTime( $day->start ),
                 formatTime( $day->end ) )
             : "";
-        $data->reason = $day->text;
+        $data->reason = "Why? ". $day->text;
         funFact( $day, $data, $funFacts );
         goto generate;
     endif;
@@ -133,7 +133,11 @@ endforeach;
 // 2a. Active premier league weekend
 // 2b. Italian class on friday
 // 2c. Non-PL weekend in the summer
+
 // 3. Show the default working message
+$data->when = "Yes";
+$data->isWorking = TRUE;
+$data->reason = "Full werk day today.";
 
 // Jump point to generate the files
 generate: {
@@ -144,7 +148,16 @@ generate: {
         exit;
     endif;
 
-    mkdir( $argv[ 1 ] ."/archive", 0755, TRUE );
+    @mkdir( $argv[ 1 ] ."/archive", 0755, TRUE );
     file_put_contents( $argv[ 1 ] ."/index.html", $html );
     file_put_contents( $argv[ 1 ] ."/archive/$dateKey.html", $html );
+
+    // Check for any chown arguments on these files
+    if ( isset( $argv[ 4 ] ) ):
+        $p = explode( ":", $argv[ 4 ] );
+        chown(  $argv[ 1 ] ."/index.html", $p[ 0 ] );
+        chgrp(  $argv[ 1 ] ."/index.html", $p[ 1 ] );
+        chown(  $argv[ 1 ] ."/archive/$dateKey.html", $p[ 0 ] );
+        chgrp(  $argv[ 1 ] ."/archive/$dateKey.html", $p[ 1 ] );
+    endif;
 }

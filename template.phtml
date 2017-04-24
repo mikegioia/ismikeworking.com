@@ -39,7 +39,7 @@
     <body>
         <h2>Is Mike Working Today?</h2>
         <h1 class="<?php echo ( $isWorking ) ? 'working' : 'not-working'; ?>"><?php echo $when; ?></h1>
-        <h3>Why? <?php echo $reason; ?></h3>
+        <h3><?php echo $reason; ?></h3>
     <?php
     if ( $funFact->isActive ): ?>
         <p>
