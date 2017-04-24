@@ -1,0 +1,19 @@
+{
+    "premierLeague": {
+        "start": "2016-08-19",
+        "end": "2017-05-21",
+        "days": [
+            0, 6
+        ],
+        "when": "NO WAY",
+        "reason": "THIS WEEKEND IS AN ACTIVE PREMIER LEAGUE GAME WEEK. ALL HANDS ARE ON DECK FOR THE ENTIRE TWO DAYS."
+    },
+    "italianClass": {
+        "days": [
+            5
+        ],
+        "when": "Not from 12:00 pm EST and on",
+        "reason": "Mike has Italian class at 6pm",
+        "funfact": 2
+    }
+}

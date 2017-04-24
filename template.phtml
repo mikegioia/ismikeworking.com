@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>Is Mike Working Today?</title>
+        <style>
+            h1 {
+                margin:4rem 0;
+                font-size: 4rem;
+                padding: 0 1rem;
+                text-align: center;
+            }
+            h1.working {
+                color: green;
+            }
+            h1.not-working {
+                color: red;
+            }
+            h2 {
+                font-size: 2rem;
+                margin-top: 2rem;
+                text-align: center;
+            }
+            h3 {
+                font-size: 2rem;
+                max-width: 50rem;
+                margin: 3rem auto;
+                text-align: center;
+            }
+            p {
+                margin: 0 auto;
+                max-width: 50rem;
+                text-align: center;
+                font-size: 1.75rem;
+            }
+            center {
+                margin-top: 4rem;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Is Mike Working Today?</h2>
+        <h1 class="<?php echo ( $isWorking ) ? 'working' : 'not-working'; ?>"><?php echo $when; ?></h1>
+        <h3>Why? <?php echo $reason; ?></h3>
+    <?php
+    if ( $funFact->isActive ): ?>
+        <p>
+            <strong>Fun Fact #<?php echo $funFact->id; ?></strong>: <?php echo $funFact->text; ?>
+        </p>
+    <?php
+    endif; ?>
+
+        <center>
+            <small>Last updated: <?php echo date( "l F j, Y \a\\t H:i a", $timestamp ); ?></small>
+        </center>
+    </body>
+</html>
