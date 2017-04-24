@@ -10,7 +10,7 @@ For example, this would write `index.html` and `archive/2017-04-24.html`
 (today's date):
 
 ```
-$> php generate.php "/var/www/example/org/www-data" "today" 0
+$> php generate.php "/var/www/example.org/www-data" "today" 0
 ```
 
 The last argument, `dryRun`, can be 1 or 0, and it defaults to 1. When
@@ -19,3 +19,11 @@ files.
 
 The second argument can be "today" or a date string in the format
 "YYYY-MM-DD".
+
+If you want to just see the HTML for today:
+
+```
+$> php generate.php .
+```
+
+The default arguments will render the HTML to the console for today.
