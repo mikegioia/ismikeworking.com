@@ -1,0 +1,56 @@
+1. Liverpool playing
+  -> NO WAY!
+  -> Liverpool are currently playing (beating) X!!!
+  -> Put it on TV now!!!
+2. Big team vs. Big team (LFC, United, Spurs, Arsenal, City, Chelsea)
+  -> NOPE
+  -> Team A is playing Team B and Mike is definitely watching that!
+3. Big team vs any other team
+  -> NO
+  -> Team A is playing and Mike is watching that!
+4. Any PL game
+  -> No
+  -> Premier League games are currently being played!
+6. CL Final
+  -> Nothing today
+  -> Champions League final and that's an all day affair!
+7. CL Top 8 game
+  -> Nope
+  -> Team A is playing Team B in the ROUND of the CL!
+8. Any other CL Game
+  -> No
+  -> Champions League games are currently being played
+9. Europa League Final
+  -> Nope
+  -> Europa League final is on and Mike is definitely watching that!
+10a. Steve Irwin's Birthday (February 22)
+  -> No
+  -> It's Steve Irwin's Birthday, which Mike observes outdoors
+10b. World Wildlife Day (March 3)
+  -> No
+  -> It's World Wildlife Day, which Mike observes at a state or national park
+10c. Earth Day (April 22)
+  -> No
+  -> It's Earth Day, which Mike observes by planting trees outside
+10d. National Honey Bee Day (August 22)
+  -> No
+  -> It's Narional Honey Bee Day, which Mike observes outdoors in the garden
+10e. Steve Irwin Day (November 15)
+  -> No
+  -> It's Steve Irwin Day, which Mike observes by repeat-watching his final documentary (link)
+11. Weekend (good weather)
+  -> No
+  -> It's the weekend, and it's [weather forecast]
+12. Weekday
+  -> Yes
+  -> Full werk day today
+13. Weekend (bad weather)
+  -> Probably
+  -> It's a weekend but it's [weather forecast] and Mike is probably jammin
+
+
+Other tournaments to add:
+
+1. World Cup
+2. Womens World Cup
+3. Euro Cup
