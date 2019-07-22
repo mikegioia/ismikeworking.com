@@ -140,7 +140,7 @@ class Compiler
             'status' => $this->status,
             'reason' => $this->reason,
             'severity' => $this->severity,
-            'timestamp' => $dt->format('l F j, Y \a\\t H:i a')
+            'timestamp' => $dt->format('l F j, Y \a\\t g:i a')
         ]);
 
         include $tplPath;
