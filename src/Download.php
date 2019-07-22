@@ -25,36 +25,13 @@ class Download
      */
     public function run(string $folder)
     {
-        $slug = $this->getSlug();
+        $slug = Common::getSlug();
 
         foreach (self::LEAGUES as $name => $id) {
             $data = $this->getData($id, $slug);
 
             $this->storeData($data, $folder, $slug, $name);
         }
-    }
-
-    /**
-     * Returns the current season slug. If we're in July -> December, use the
-     * current and next years. If we're in January -> June, use the preview and
-     * current years.
-     *
-     * @return string
-     */
-    private function getSlug()
-    {
-        $dt = new DateTime;
-        $year = intval($dt->format('Y'));
-        $month = intval($dt->format('n'));
-
-        // Last 2 digits of the years
-        $curYear = substr($year, -2);
-        $nextYear = substr($year + 1, -2);
-        $lastYear = substr($year - 1, -2);
-
-        return $month >= 7
-            ? $curYear.$nextYear
-            : $lastYear.$curYear;
     }
 
     /**
@@ -105,6 +82,11 @@ class Download
 
         file_put_contents($folder.'/original/'.$filename, $json);
 
+        // Save a backup
+        $dateFolder = (new DateTime)->format('Ymd');
+        @mkdir($folder.'/backup/'.$dateFolder, 0755, true);
+        file_put_contents($folder.'/backup/'.$dateFolder.'/'.$filename, $json);
+
         // Process the events and store them in a different format
         $events = $this->getEvents($data->events);
         $json = $this->getCleanJson($events);
@@ -134,7 +116,11 @@ class Download
                 'title' => $event->strEvent,
                 'home' => $event->strHomeTeam,
                 'away' => $event->strAwayTeam,
-                'timestamp' => $dt->getTimestamp()
+                'timestamp' => $dt->getTimestamp(),
+                'about' => trim(sprintf('%s %s',
+                    $event->strDescriptionEN ?? '',
+                    $event->strFilename ?? ''
+                ))
             ];
         }
 

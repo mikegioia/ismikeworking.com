@@ -7,6 +7,7 @@
  * not that often for the Premier League.
  */
 
+require 'src/Common.php';
 require 'src/Download.php';
 
 if (! function_exists('curl_version')) {
@@ -14,5 +15,5 @@ if (! function_exists('curl_version')) {
     exit(1);
 }
 
-// Save all files to /data
+// Save all files to data/
 (new Download)->run(__DIR__.'/data');
