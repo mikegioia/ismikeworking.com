@@ -106,30 +106,56 @@ class Compiler
      * priority to use when compiling the message. The highest
      * number will be used.
      *
-     * @param string $folder Path to store the event files
+     * @param string $dataFolder Path to store the event files
+     * @param string $webFolder Path to store web files
+     * @param string $tplPath Path to template file
      */
-    public function run(string $folder)
+    public function run(string $dataFolder, string $webFolder, string $tplPath)
     {
         $slug = Common::getSlug();
 
-        $this->premierLeague($slug, $folder);
-        $this->championsLeague($slug, $folder);
-        $this->europaLeague($slug, $folder);
+        $this->premierLeague($slug, $dataFolder);
+        $this->championsLeague($slug, $dataFolder);
+        $this->europaLeague($slug, $dataFolder);
         $this->holidays();
         $this->computedHolidays();
         $this->workDays();
 
         // Writes the HTML file
-        $this->write();
+        $this->write($webFolder, $tplPath);
     }
 
     /**
      * Writes the HTML file to the web folder and the archive.
+     *
+     * @param string $webFolder Path to store web files
+     * @param string $tplPath Path to template file
      */
-    private function write()
+    private function write(string $webFolder, string $tplPath)
     {
-        print_r($this);
-        //
+        $dt = (new DateTime);
+
+        ob_start();
+        extract([
+            'status' => $this->status,
+            'reason' => $this->reason,
+            'severity' => $this->severity,
+            'timestamp' => $dt->format('l F j, Y \a\\t H:i a')
+        ]);
+
+        include $tplPath;
+
+        $html = ob_get_clean();
+
+        // Write out the web file for today
+        file_put_contents($webFolder.'/index.html', $html);
+
+        // Write the same file to the archive
+        $dateFolders = $dt->format('Y/m');
+        $day = $dt->format('d');
+
+        @mkdir($webFolder.'/archive/'.$dateFolders, 0755, true);
+        file_put_contents($webFolder.'/archive/'.$dateFolders.'/'.$day.'.html', $html);
     }
 
     /**

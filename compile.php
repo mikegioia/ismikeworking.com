@@ -16,4 +16,8 @@ require 'src/Compiler.php';
 date_default_timezone_set('America/New_York');
 
 // Write a new file to web/
-(new Compiler)->run(__DIR__.'/data');
+(new Compiler)->run(
+    __DIR__.'/data',
+    __DIR__.'/web',
+    __DIR__.'/template.phtml'
+);
