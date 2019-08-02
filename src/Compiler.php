@@ -58,19 +58,19 @@ class Compiler
             'status' => 'No',
             'title' => "Steve Irwin's Birthday",
             'severity' => self::SEVERITY_NO,
-            'reason' => "It's Steve Irwin's Birthday, which Mike observes outdoors"
+            'reason' => "It's Steve Irwin's Birthday, which Mike observes outdoors!"
         ],
         '03-03' => [
             'status' => 'No',
             'title' => 'World Wildlife Day',
             'severity' => self::SEVERITY_NO,
-            'reason' => "It's World Wildlife Day, which Mike observes at a state or national park"
+            'reason' => "It's World Wildlife Day, which Mike observes at a state or national park!"
         ],
         '04-22' => [
             'status' => 'No',
             'title' => 'Earth Day',
             'severity' => self::SEVERITY_NO,
-            'reason' => "It's Earth Day, which Mike observes by planting trees outside"
+            'reason' => "It's Earth Day, which Mike observes by planting trees outside!"
         ],
         '08-20' => [
             'status' => 'No way!',
@@ -423,9 +423,9 @@ class Compiler
 
         if (! $this->priority || $priority > $this->priority) {
             $this->priority = $priority;
+            $this->severity = $severity;
             $this->reason = $message['reason'];
             $this->status = $message['status'];
-            $this->severity = $message['severity'];
         }
 
         $this->reasons[] = $message['reason'];
