@@ -12,8 +12,10 @@
 require 'src/Common.php';
 require 'src/Compiler.php';
 
+define('TIMEZONE', 'America/New_York');
+
 // Set the timezone to the server
-date_default_timezone_set('America/New_York');
+date_default_timezone_set(TIMEZONE);
 
 // Write a new file to web/
 (new Compiler)->run(

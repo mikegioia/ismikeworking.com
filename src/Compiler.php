@@ -133,7 +133,7 @@ class Compiler
      */
     private function write(string $webFolder, string $tplPath)
     {
-        $dt = (new DateTime);
+        $dt = new DateTime;
 
         ob_start();
         extract([
@@ -474,6 +474,8 @@ class Compiler
     private function getEventDate(stdClass $event)
     {
         $dt = new DateTime($event->date.' '.$event->time);
+
+        $dt->setTimezone(new DateTimeZone(TIMEZONE));
 
         return $dt->format('g:i a');
     }
