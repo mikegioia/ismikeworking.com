@@ -128,5 +128,575 @@
     "away": "Slovan Bratislava ",
     "timestamp": 1563390900,
     "about": "Qualifier UEFA Champions League 2019-07-17 Sutjeska vs Slovan Bratislava"
+  },
+  {
+    "id": "608284",
+    "date": "2019-07-23",
+    "time": "18:00:00",
+    "title": "Viktoria Plzen vs Olympiakos",
+    "home": "Viktoria Plzen",
+    "away": "Olympiakos",
+    "timestamp": 1563904800,
+    "about": "UEFA Champions League 2019-07-23 Viktoria Plzen vs Olympiakos"
+  },
+  {
+    "id": "608286",
+    "date": "2019-07-23",
+    "time": "19:00:00",
+    "title": "TNS vs FC Copenhagen",
+    "home": "TNS",
+    "away": "FC Copenhagen",
+    "timestamp": 1563908400,
+    "about": "UEFA Champions League 2019-07-23 TNS vs FC Copenhagen"
+  },
+  {
+    "id": "608303",
+    "date": "2019-07-24",
+    "time": "18:00:00",
+    "title": "BATE Borisov vs Rosenborg",
+    "home": "BATE Borisov",
+    "away": "Rosenborg",
+    "timestamp": 1563991200,
+    "about": "UEFA Champions League 2019-07-24 BATE Borisov vs Rosenborg"
+  },
+  {
+    "id": "608304",
+    "date": "2019-07-24",
+    "time": "19:00:00",
+    "title": "CFR Cluj-Napoca vs Maccabi Tel Aviv",
+    "home": "CFR Cluj-Napoca",
+    "away": "Maccabi Tel Aviv",
+    "timestamp": 1563994800,
+    "about": "UEFA Champions League 2019-07-24 CFR Cluj-Napoca vs Maccabi Tel Aviv"
+  },
+  {
+    "id": "608305",
+    "date": "2019-07-24",
+    "time": "19:15:00",
+    "title": "NK Maribor vs AIK",
+    "home": "NK Maribor",
+    "away": "AIK",
+    "timestamp": 1563995700,
+    "about": "UEFA Champions League 2019-07-24 NK Maribor vs AIK"
+  },
+  {
+    "id": "608306",
+    "date": "2019-07-24",
+    "time": "19:00:00",
+    "title": "Ferencvaros vs Valletta ",
+    "home": "Ferencvaros",
+    "away": "Valletta ",
+    "timestamp": 1563994800,
+    "about": "UEFA Champions League 2019-07-24 Ferencvaros vs Valletta"
+  },
+  {
+    "id": "608307",
+    "date": "2019-07-24",
+    "time": "19:45:00",
+    "title": "Dundalk vs Qarabag FK",
+    "home": "Dundalk",
+    "away": "Qarabag FK",
+    "timestamp": 1563997500,
+    "about": "UEFA Champions League 2019-07-24 Dundalk vs Qarabag FK"
+  },
+  {
+    "id": "608308",
+    "date": "2019-07-24",
+    "time": "19:45:00",
+    "title": "Celtic vs Nomme Kalju",
+    "home": "Celtic",
+    "away": "Nomme Kalju",
+    "timestamp": 1563997500,
+    "about": "UEFA Champions League 2019-07-24 Celtic vs Nomme Kalju"
+  },
+  {
+    "id": "608309",
+    "date": "2019-07-24",
+    "time": "19:45:00",
+    "title": "Crvena Zvezda vs HJK Helsinki",
+    "home": "Crvena Zvezda",
+    "away": "HJK Helsinki",
+    "timestamp": 1563997500,
+    "about": "UEFA Champions League 2019-07-24 Crvena Zvezda vs HJK Helsinki"
+  },
+  {
+    "id": "609262",
+    "date": "2019-07-31",
+    "time": "17:00:00",
+    "title": "HJK Helsinki vs Crvena Zvezda",
+    "home": "HJK Helsinki",
+    "away": "Crvena Zvezda",
+    "timestamp": 1564592400,
+    "about": "UEFA Champions League 2019-07-31 HJK Helsinki vs Crvena Zvezda"
+  },
+  {
+    "id": "609263",
+    "date": "2019-07-31",
+    "time": "18:00:00",
+    "title": "AIK vs NK Maribor",
+    "home": "AIK",
+    "away": "NK Maribor",
+    "timestamp": 1564596000,
+    "about": "UEFA Champions League 2019-07-31 AIK vs NK Maribor"
+  },
+  {
+    "id": "609264",
+    "date": "2019-07-31",
+    "time": "18:00:00",
+    "title": "Rosenborg vs BATE Borisov",
+    "home": "Rosenborg",
+    "away": "BATE Borisov",
+    "timestamp": 1564596000,
+    "about": "UEFA Champions League 2019-07-31 Rosenborg vs BATE Borisov"
+  },
+  {
+    "id": "609267",
+    "date": "2019-07-31",
+    "time": "18:45:00",
+    "title": "FC Copenhagen vs TNS",
+    "home": "FC Copenhagen",
+    "away": "TNS",
+    "timestamp": 1564598700,
+    "about": "UEFA Champions League 2019-07-31 FC Copenhagen vs TNS"
+  },
+  {
+    "id": "610411",
+    "date": "2019-08-06",
+    "time": "18:00:00",
+    "title": "PAOK vs Ajax",
+    "home": "PAOK",
+    "away": "Ajax",
+    "timestamp": 1565114400,
+    "about": "UEFA Champions League 2019-08-06 PAOK vs Ajax"
+  },
+  {
+    "id": "610412",
+    "date": "2019-08-06",
+    "time": "18:00:00",
+    "title": "Apoel Nicosia vs Qarabag FK",
+    "home": "Apoel Nicosia",
+    "away": "Qarabag FK",
+    "timestamp": 1565114400,
+    "about": "UEFA Champions League 2019-08-06 Apoel Nicosia vs Qarabag FK"
+  },
+  {
+    "id": "610413",
+    "date": "2019-08-06",
+    "time": "19:00:00",
+    "title": "Dinamo Zagreb vs Ferencvaros",
+    "home": "Dinamo Zagreb",
+    "away": "Ferencvaros",
+    "timestamp": 1565118000,
+    "about": "UEFA Champions League 2019-08-06 Dinamo Zagreb vs Ferencvaros"
+  },
+  {
+    "id": "610414",
+    "date": "2019-08-06",
+    "time": "19:30:00",
+    "title": "Club Brugge vs Dynamo Kiev",
+    "home": "Club Brugge",
+    "away": "Dynamo Kiev",
+    "timestamp": 1565119800,
+    "about": "UEFA Champions League 2019-08-06 Club Brugge vs Dynamo Kiev"
+  },
+  {
+    "id": "610415",
+    "date": "2019-08-06",
+    "time": "19:45:00",
+    "title": "Crvena Zvezda vs FC Copenhagen",
+    "home": "Crvena Zvezda",
+    "away": "FC Copenhagen",
+    "timestamp": 1565120700,
+    "about": "UEFA Champions League 2019-08-06 Crvena Zvezda vs FC Copenhagen"
+  },
+  {
+    "id": "610424",
+    "date": "2019-08-07",
+    "time": "18:45:00",
+    "title": "Istanbul Basaksehir vs Olympiakos",
+    "home": "Istanbul Basaksehir",
+    "away": "Olympiakos",
+    "timestamp": 1565203500,
+    "about": "UEFA Champions League 2019-08-07 Istanbul Basaksehir vs Olympiakos"
+  },
+  {
+    "id": "610425",
+    "date": "2019-08-07",
+    "time": "19:00:00",
+    "title": "CFR Cluj-Napoca vs Celtic",
+    "home": "CFR Cluj-Napoca",
+    "away": "Celtic",
+    "timestamp": 1565204400,
+    "about": "UEFA Champions League 2019-08-07 CFR Cluj-Napoca vs Celtic"
+  },
+  {
+    "id": "610426",
+    "date": "2019-08-07",
+    "time": "19:15:00",
+    "title": "NK Maribor vs Rosenborg",
+    "home": "NK Maribor",
+    "away": "Rosenborg",
+    "timestamp": 1565205300,
+    "about": "UEFA Champions League 2019-08-07 NK Maribor vs Rosenborg"
+  },
+  {
+    "id": "610428",
+    "date": "2019-08-07",
+    "time": "18:00:00",
+    "title": "FC Krasnodar vs FC Porto",
+    "home": "FC Krasnodar",
+    "away": "FC Porto",
+    "timestamp": 1565200800,
+    "about": "UEFA Champions League 2019-08-07 FC Krasnodar vs FC Porto"
+  },
+  {
+    "id": "610904",
+    "date": "2019-08-13",
+    "time": "19:45:00",
+    "title": "Celtic vs CFR Cluj-Napoca",
+    "home": "Celtic",
+    "away": "CFR Cluj-Napoca",
+    "timestamp": 1565725500,
+    "about": "UEFA Champions League 2019-08-13 Celtic vs CFR Cluj-Napoca"
+  },
+  {
+    "id": "610905",
+    "date": "2019-08-13",
+    "time": "18:00:00",
+    "title": "Rosenborg vs NK Maribor",
+    "home": "Rosenborg",
+    "away": "NK Maribor",
+    "timestamp": 1565719200,
+    "about": "UEFA Champions League 2019-08-13 Rosenborg vs NK Maribor"
+  },
+  {
+    "id": "610906",
+    "date": "2019-08-13",
+    "time": "17:30:00",
+    "title": "Qarabag FK vs Apoel Nicosia",
+    "home": "Qarabag FK",
+    "away": "Apoel Nicosia",
+    "timestamp": 1565717400,
+    "about": "UEFA Champions League 2019-08-13 Qarabag FK vs Apoel Nicosia"
+  },
+  {
+    "id": "610907",
+    "date": "2019-08-13",
+    "time": "18:30:00",
+    "title": "Dynamo Kiev vs Club Brugge",
+    "home": "Dynamo Kiev",
+    "away": "Club Brugge",
+    "timestamp": 1565721000,
+    "about": "UEFA Champions League 2019-08-13 Dynamo Kiev vs Club Brugge"
+  },
+  {
+    "id": "610908",
+    "date": "2019-08-13",
+    "time": "19:00:00",
+    "title": "Ferencvaros vs Dinamo Zagreb",
+    "home": "Ferencvaros",
+    "away": "Dinamo Zagreb",
+    "timestamp": 1565722800,
+    "about": "UEFA Champions League 2019-08-13 Ferencvaros vs Dinamo Zagreb"
+  },
+  {
+    "id": "610909",
+    "date": "2019-08-13",
+    "time": "19:00:00",
+    "title": "FC Copenhagen vs Crvena Zvezda",
+    "home": "FC Copenhagen",
+    "away": "Crvena Zvezda",
+    "timestamp": 1565722800,
+    "about": "UEFA Champions League 2019-08-13 FC Copenhagen vs Crvena Zvezda"
+  },
+  {
+    "id": "610910",
+    "date": "2019-08-13",
+    "time": "19:30:00",
+    "title": "Ajax vs PAOK",
+    "home": "Ajax",
+    "away": "PAOK",
+    "timestamp": 1565724600,
+    "about": "UEFA Champions League 2019-08-13 Ajax vs PAOK"
+  },
+  {
+    "id": "610911",
+    "date": "2019-08-13",
+    "time": "19:30:00",
+    "title": "Olympiakos vs Istanbul Basaksehir",
+    "home": "Olympiakos",
+    "away": "Istanbul Basaksehir",
+    "timestamp": 1565724600,
+    "about": "UEFA Champions League 2019-08-13 Olympiakos vs Istanbul Basaksehir"
+  },
+  {
+    "id": "610912",
+    "date": "2019-08-13",
+    "time": "20:00:00",
+    "title": "FC Porto vs Kuban Krasnodar",
+    "home": "FC Porto",
+    "away": "Kuban Krasnodar",
+    "timestamp": 1565726400,
+    "about": "UEFA Champions League 2019-08-13 FC Porto vs Kuban Krasnodar"
+  },
+  {
+    "id": "611369",
+    "date": "2019-08-20",
+    "time": "20:00:00",
+    "title": "Apoel Nicosia vs Ajax",
+    "home": "Apoel Nicosia",
+    "away": "Ajax",
+    "timestamp": 1566331200,
+    "about": "UEFA Champions League 2019-08-20 Apoel Nicosia vs Ajax"
+  },
+  {
+    "id": "611370",
+    "date": "2019-08-20",
+    "time": "20:00:00",
+    "title": "CFR Cluj-Napoca vs Slavia Prague",
+    "home": "CFR Cluj-Napoca",
+    "away": "Slavia Prague",
+    "timestamp": 1566331200,
+    "about": "UEFA Champions League 2019-08-20 CFR Cluj-Napoca vs Slavia Prague"
+  },
+  {
+    "id": "611372",
+    "date": "2019-08-21",
+    "time": "20:00:00",
+    "title": "Dinamo Zagreb vs Rosenborg",
+    "home": "Dinamo Zagreb",
+    "away": "Rosenborg",
+    "timestamp": 1566417600,
+    "about": "UEFA Champions League 2019-08-21 Dinamo Zagreb vs Rosenborg"
+  },
+  {
+    "id": "611373",
+    "date": "2019-08-21",
+    "time": "20:00:00",
+    "title": "Olympiakos vs FC Krasnodar",
+    "home": "Olympiakos",
+    "away": "FC Krasnodar",
+    "timestamp": 1566417600,
+    "about": "UEFA Champions League 2019-08-21 Olympiakos vs FC Krasnodar"
+  },
+  {
+    "id": "611374",
+    "date": "2019-08-21",
+    "time": "20:00:00",
+    "title": "Young Boys vs Crvena Zvezda",
+    "home": "Young Boys",
+    "away": "Crvena Zvezda",
+    "timestamp": 1566417600,
+    "about": "UEFA Champions League 2019-08-21 Young Boys vs Crvena Zvezda"
+  },
+  {
+    "id": "611479",
+    "date": "2019-08-27",
+    "time": "20:00:00",
+    "title": "Rosenborg vs Dinamo Zagreb",
+    "home": "Rosenborg",
+    "away": "Dinamo Zagreb",
+    "timestamp": 1566936000,
+    "about": "UEFA Champions League 2019-08-27 Rosenborg vs Dinamo Zagreb"
+  },
+  {
+    "id": "611518",
+    "date": "2019-08-27",
+    "time": "20:00:00",
+    "title": "Crvena Zvezda vs Young Boys",
+    "home": "Crvena Zvezda",
+    "away": "Young Boys",
+    "timestamp": 1566936000,
+    "about": "UEFA Champions League 2019-08-27 Crvena Zvezda vs Young Boys"
+  },
+  {
+    "id": "611519",
+    "date": "2019-08-27",
+    "time": "20:00:00",
+    "title": "FC Krasnodar vs Olympiakos",
+    "home": "FC Krasnodar",
+    "away": "Olympiakos",
+    "timestamp": 1566936000,
+    "about": "UEFA Champions League 2019-08-27 FC Krasnodar vs Olympiakos"
+  },
+  {
+    "id": "611528",
+    "date": "2019-08-28",
+    "time": "20:00:00",
+    "title": "Ajax vs Apoel Nicosia",
+    "home": "Ajax",
+    "away": "Apoel Nicosia",
+    "timestamp": 1567022400,
+    "about": "UEFA Champions League 2019-08-28 Ajax vs Apoel Nicosia"
+  },
+  {
+    "id": "611529",
+    "date": "2019-08-28",
+    "time": "20:00:00",
+    "title": "Slavia Prague vs CFR Cluj-Napoca",
+    "home": "Slavia Prague",
+    "away": "CFR Cluj-Napoca",
+    "timestamp": 1567022400,
+    "about": "UEFA Champions League 2019-08-28 Slavia Prague vs CFR Cluj-Napoca"
+  },
+  {
+    "id": "612970",
+    "date": "2019-09-17",
+    "time": "17:55:00",
+    "title": "Inter vs Slavia Prague",
+    "home": "Inter",
+    "away": "Slavia Prague",
+    "timestamp": 1568742900,
+    "about": "UEFA Champions League 2019-09-17 Inter vs Slavia Prague"
+  },
+  {
+    "id": "612971",
+    "date": "2019-09-17",
+    "time": "17:55:00",
+    "title": "Lyon vs Zenit St Petersburg",
+    "home": "Lyon",
+    "away": "Zenit St Petersburg",
+    "timestamp": 1568742900,
+    "about": "UEFA Champions League 2019-09-17 Lyon vs Zenit St Petersburg"
+  },
+  {
+    "id": "612972",
+    "date": "2019-09-17",
+    "time": "20:00:00",
+    "title": "Napoli vs Liverpool",
+    "home": "Napoli",
+    "away": "Liverpool",
+    "timestamp": 1568750400,
+    "about": "UEFA Champions League 2019-09-17 Napoli vs Liverpool"
+  },
+  {
+    "id": "612973",
+    "date": "2019-09-17",
+    "time": "20:00:00",
+    "title": "SV Salzburg vs Genk",
+    "home": "SV Salzburg",
+    "away": "Genk",
+    "timestamp": 1568750400,
+    "about": "UEFA Champions League 2019-09-17 SV Salzburg vs Genk"
+  },
+  {
+    "id": "612974",
+    "date": "2019-09-17",
+    "time": "20:00:00",
+    "title": "Dortmund vs Barcelona",
+    "home": "Dortmund",
+    "away": "Barcelona",
+    "timestamp": 1568750400,
+    "about": "UEFA Champions League 2019-09-17 Dortmund vs Barcelona"
+  },
+  {
+    "id": "612975",
+    "date": "2019-09-17",
+    "time": "20:00:00",
+    "title": "Benfica  vs RasenBallsport Leipzig",
+    "home": "Benfica ",
+    "away": "RasenBallsport Leipzig",
+    "timestamp": 1568750400,
+    "about": "UEFA Champions League 2019-09-17 Benfica  vs RasenBallsport Leipzig"
+  },
+  {
+    "id": "612976",
+    "date": "2019-09-17",
+    "time": "20:00:00",
+    "title": "Chelsea vs Valencia",
+    "home": "Chelsea",
+    "away": "Valencia",
+    "timestamp": 1568750400,
+    "about": "UEFA Champions League 2019-09-17 Chelsea vs Valencia"
+  },
+  {
+    "id": "612977",
+    "date": "2019-09-17",
+    "time": "20:00:00",
+    "title": "Ajax vs Lille",
+    "home": "Ajax",
+    "away": "Lille",
+    "timestamp": 1568750400,
+    "about": "UEFA Champions League 2019-09-17 Ajax vs Lille"
+  },
+  {
+    "id": "612978",
+    "date": "2019-09-18",
+    "time": "17:55:00",
+    "title": "Club Brugge vs Galatasaray",
+    "home": "Club Brugge",
+    "away": "Galatasaray",
+    "timestamp": 1568829300,
+    "about": "UEFA Champions League 2019-09-18 Club Brugge vs Galatasaray"
+  },
+  {
+    "id": "612979",
+    "date": "2019-09-18",
+    "time": "17:55:00",
+    "title": "Olympiakos vs Tottenham",
+    "home": "Olympiakos",
+    "away": "Tottenham",
+    "timestamp": 1568829300,
+    "about": "UEFA Champions League 2019-09-18 Olympiakos vs Tottenham"
+  },
+  {
+    "id": "612980",
+    "date": "2019-09-18",
+    "time": "20:00:00",
+    "title": "Paris SG vs Real Madrid",
+    "home": "Paris SG",
+    "away": "Real Madrid",
+    "timestamp": 1568836800,
+    "about": "UEFA Champions League 2019-09-18 Paris SG vs Real Madrid"
+  },
+  {
+    "id": "612981",
+    "date": "2019-09-18",
+    "time": "20:00:00",
+    "title": "Bayern Munich vs Crvena Zvezda",
+    "home": "Bayern Munich",
+    "away": "Crvena Zvezda",
+    "timestamp": 1568836800,
+    "about": "UEFA Champions League 2019-09-18 Bayern Munich vs Crvena Zvezda"
+  },
+  {
+    "id": "612982",
+    "date": "2019-09-18",
+    "time": "20:00:00",
+    "title": "Dinamo Zagreb vs Atalanta",
+    "home": "Dinamo Zagreb",
+    "away": "Atalanta",
+    "timestamp": 1568836800,
+    "about": "UEFA Champions League 2019-09-18 Dinamo Zagreb vs Atalanta"
+  },
+  {
+    "id": "612983",
+    "date": "2019-09-18",
+    "time": "20:00:00",
+    "title": "Shakhtar Donetsk vs Man City",
+    "home": "Shakhtar Donetsk",
+    "away": "Man City",
+    "timestamp": 1568836800,
+    "about": "UEFA Champions League 2019-09-18 Shakhtar Donetsk vs Man City"
+  },
+  {
+    "id": "612984",
+    "date": "2019-09-18",
+    "time": "20:00:00",
+    "title": "Leverkusen vs Lok. Moscow",
+    "home": "Leverkusen",
+    "away": "Lok. Moscow",
+    "timestamp": 1568836800,
+    "about": "UEFA Champions League 2019-09-18 Leverkusen vs Lok. Moscow"
+  },
+  {
+    "id": "612985",
+    "date": "2019-09-18",
+    "time": "20:00:00",
+    "title": "Ath Madrid vs Juventus",
+    "home": "Ath Madrid",
+    "away": "Juventus",
+    "timestamp": 1568836800,
+    "about": "UEFA Champions League 2019-09-18 Ath Madrid vs Juventus"
   }
 ]
