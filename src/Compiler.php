@@ -84,6 +84,12 @@ class Compiler
             'severity' => self::SEVERITY_NO,
             'reason' => "It's Narional Honey Bee Day, which Mike observes outdoors in the garden"
         ],
+        '09-12' => [
+            'status' => 'No',
+            'title' => "Ashley's Birthday",
+            'severity' => self::SEVERITY_NO,
+            'reason' => "It's Ashley's birthday today!"
+        ],
         '11-15' => [
             'status' => 'No',
             'title' => 'Steve Irwin Day',
@@ -310,7 +316,7 @@ class Compiler
             ]);
         } elseif ($month >= 4 && $month <= 5) {
             $this->setMessage([
-                'status' => 'Nope',
+                'status' => 'Nope!',
                 'priority' => self::PRIORITY_MEDIUM,
                 'reason' => "Late tournament Champions League games are being played today!"
             ]);
