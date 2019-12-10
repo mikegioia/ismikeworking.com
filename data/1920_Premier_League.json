@@ -2,7 +2,7 @@
   {
     "id": "602129",
     "date": "2019-08-09",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Liverpool vs Norwich",
     "home": "Liverpool",
     "away": "Norwich",
@@ -12,7 +12,7 @@
   {
     "id": "602130",
     "date": "2019-08-10",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "West Ham vs Man City",
     "home": "West Ham",
     "away": "Man City",
@@ -22,7 +22,7 @@
   {
     "id": "602131",
     "date": "2019-08-10",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Bournemouth vs Sheffield United",
     "home": "Bournemouth",
     "away": "Sheffield United",
@@ -32,7 +32,7 @@
   {
     "id": "602132",
     "date": "2019-08-10",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Burnley vs Southampton",
     "home": "Burnley",
     "away": "Southampton",
@@ -42,7 +42,7 @@
   {
     "id": "602133",
     "date": "2019-08-10",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Crystal Palace vs Everton",
     "home": "Crystal Palace",
     "away": "Everton",
@@ -52,7 +52,7 @@
   {
     "id": "602135",
     "date": "2019-08-10",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs Brighton",
     "home": "Watford",
     "away": "Brighton",
@@ -62,7 +62,7 @@
   {
     "id": "602136",
     "date": "2019-08-10",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Tottenham vs Aston Villa",
     "home": "Tottenham",
     "away": "Aston Villa",
@@ -72,7 +72,7 @@
   {
     "id": "602134",
     "date": "2019-08-11",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Leicester vs Wolves",
     "home": "Leicester",
     "away": "Wolves",
@@ -82,7 +82,7 @@
   {
     "id": "602137",
     "date": "2019-08-11",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Newcastle vs Arsenal",
     "home": "Newcastle",
     "away": "Arsenal",
@@ -92,7 +92,7 @@
   {
     "id": "602138",
     "date": "2019-08-11",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Man United vs Chelsea",
     "home": "Man United",
     "away": "Chelsea",
@@ -102,7 +102,7 @@
   {
     "id": "602139",
     "date": "2019-08-17",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Man City vs Tottenham",
     "home": "Man City",
     "away": "Tottenham",
@@ -112,7 +112,7 @@
   {
     "id": "602140",
     "date": "2019-08-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Norwich vs Newcastle",
     "home": "Norwich",
     "away": "Newcastle",
@@ -122,7 +122,7 @@
   {
     "id": "602141",
     "date": "2019-08-17",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Arsenal vs Burnley",
     "home": "Arsenal",
     "away": "Burnley",
@@ -132,7 +132,7 @@
   {
     "id": "602143",
     "date": "2019-08-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Aston Villa vs Bournemouth",
     "home": "Aston Villa",
     "away": "Bournemouth",
@@ -142,7 +142,7 @@
   {
     "id": "602144",
     "date": "2019-08-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Southampton vs Liverpool",
     "home": "Southampton",
     "away": "Liverpool",
@@ -152,7 +152,7 @@
   {
     "id": "602145",
     "date": "2019-08-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs West Ham",
     "home": "Brighton",
     "away": "West Ham",
@@ -162,7 +162,7 @@
   {
     "id": "602148",
     "date": "2019-08-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Everton vs Watford",
     "home": "Everton",
     "away": "Watford",
@@ -172,7 +172,7 @@
   {
     "id": "602142",
     "date": "2019-08-18",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Sheffield United vs Crystal Palace",
     "home": "Sheffield United",
     "away": "Crystal Palace",
@@ -182,7 +182,7 @@
   {
     "id": "602147",
     "date": "2019-08-18",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Chelsea vs Leicester",
     "home": "Chelsea",
     "away": "Leicester",
@@ -192,7 +192,7 @@
   {
     "id": "602146",
     "date": "2019-08-19",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Wolves vs Man United",
     "home": "Wolves",
     "away": "Man United",
@@ -202,7 +202,7 @@
   {
     "id": "602157",
     "date": "2019-08-23",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Aston Villa vs Everton",
     "home": "Aston Villa",
     "away": "Everton",
@@ -212,7 +212,7 @@
   {
     "id": "602150",
     "date": "2019-08-24",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs West Ham",
     "home": "Watford",
     "away": "West Ham",
@@ -222,7 +222,7 @@
   {
     "id": "602151",
     "date": "2019-08-24",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs Southampton",
     "home": "Brighton",
     "away": "Southampton",
@@ -232,7 +232,7 @@
   {
     "id": "602153",
     "date": "2019-08-24",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Liverpool vs Arsenal",
     "home": "Liverpool",
     "away": "Arsenal",
@@ -242,7 +242,7 @@
   {
     "id": "602154",
     "date": "2019-08-24",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man United vs Crystal Palace",
     "home": "Man United",
     "away": "Crystal Palace",
@@ -252,7 +252,7 @@
   {
     "id": "602155",
     "date": "2019-08-24",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Norwich vs Chelsea",
     "home": "Norwich",
     "away": "Chelsea",
@@ -262,7 +262,7 @@
   {
     "id": "602156",
     "date": "2019-08-24",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Sheffield United vs Leicester",
     "home": "Sheffield United",
     "away": "Leicester",
@@ -272,7 +272,7 @@
   {
     "id": "602149",
     "date": "2019-08-25",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Bournemouth vs Man City",
     "home": "Bournemouth",
     "away": "Man City",
@@ -282,7 +282,7 @@
   {
     "id": "602152",
     "date": "2019-08-25",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Wolves vs Burnley",
     "home": "Wolves",
     "away": "Burnley",
@@ -292,7 +292,7 @@
   {
     "id": "602158",
     "date": "2019-08-25",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Tottenham vs Newcastle",
     "home": "Tottenham",
     "away": "Newcastle",
@@ -302,7 +302,7 @@
   {
     "id": "602160",
     "date": "2019-08-31",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Leicester vs Bournemouth",
     "home": "Leicester",
     "away": "Bournemouth",
@@ -312,7 +312,7 @@
   {
     "id": "602161",
     "date": "2019-08-31",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man City vs Brighton",
     "home": "Man City",
     "away": "Brighton",
@@ -322,7 +322,7 @@
   {
     "id": "602163",
     "date": "2019-08-31",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Newcastle vs Watford",
     "home": "Newcastle",
     "away": "Watford",
@@ -332,7 +332,7 @@
   {
     "id": "602164",
     "date": "2019-08-31",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Burnley vs Liverpool",
     "home": "Burnley",
     "away": "Liverpool",
@@ -342,7 +342,7 @@
   {
     "id": "602165",
     "date": "2019-08-31",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Southampton vs Man United",
     "home": "Southampton",
     "away": "Man United",
@@ -352,7 +352,7 @@
   {
     "id": "602166",
     "date": "2019-08-31",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Chelsea vs Sheffield United",
     "home": "Chelsea",
     "away": "Sheffield United",
@@ -362,7 +362,7 @@
   {
     "id": "602167",
     "date": "2019-08-31",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "West Ham vs Norwich",
     "home": "West Ham",
     "away": "Norwich",
@@ -372,7 +372,7 @@
   {
     "id": "602168",
     "date": "2019-08-31",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Crystal Palace vs Aston Villa",
     "home": "Crystal Palace",
     "away": "Aston Villa",
@@ -382,7 +382,7 @@
   {
     "id": "602159",
     "date": "2019-09-01",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Everton vs Wolves",
     "home": "Everton",
     "away": "Wolves",
@@ -392,7 +392,7 @@
   {
     "id": "602162",
     "date": "2019-09-01",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Arsenal vs Tottenham",
     "home": "Arsenal",
     "away": "Tottenham",
@@ -402,7 +402,7 @@
   {
     "id": "602170",
     "date": "2019-09-14",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Wolves vs Chelsea",
     "home": "Wolves",
     "away": "Chelsea",
@@ -412,7 +412,7 @@
   {
     "id": "602171",
     "date": "2019-09-14",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Liverpool vs Newcastle",
     "home": "Liverpool",
     "away": "Newcastle",
@@ -422,7 +422,7 @@
   {
     "id": "602172",
     "date": "2019-09-14",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man United vs Leicester",
     "home": "Man United",
     "away": "Leicester",
@@ -432,7 +432,7 @@
   {
     "id": "602173",
     "date": "2019-09-14",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Norwich vs Man City",
     "home": "Norwich",
     "away": "Man City",
@@ -442,7 +442,7 @@
   {
     "id": "602174",
     "date": "2019-09-14",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Sheffield United vs Southampton",
     "home": "Sheffield United",
     "away": "Southampton",
@@ -452,7 +452,7 @@
   {
     "id": "602175",
     "date": "2019-09-14",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Tottenham vs Crystal Palace",
     "home": "Tottenham",
     "away": "Crystal Palace",
@@ -462,7 +462,7 @@
   {
     "id": "602178",
     "date": "2019-09-14",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs Burnley",
     "home": "Brighton",
     "away": "Burnley",
@@ -472,7 +472,7 @@
   {
     "id": "602176",
     "date": "2019-09-15",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Bournemouth vs Everton",
     "home": "Bournemouth",
     "away": "Everton",
@@ -482,7 +482,7 @@
   {
     "id": "602177",
     "date": "2019-09-15",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Watford vs Arsenal",
     "home": "Watford",
     "away": "Arsenal",
@@ -492,7 +492,7 @@
   {
     "id": "602169",
     "date": "2019-09-16",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Aston Villa vs West Ham",
     "home": "Aston Villa",
     "away": "West Ham",
@@ -502,7 +502,7 @@
   {
     "id": "602184",
     "date": "2019-09-20",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Southampton vs Bournemouth",
     "home": "Southampton",
     "away": "Bournemouth",
@@ -512,7 +512,7 @@
   {
     "id": "602179",
     "date": "2019-09-21",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Leicester vs Tottenham",
     "home": "Leicester",
     "away": "Tottenham",
@@ -522,7 +522,7 @@
   {
     "id": "602180",
     "date": "2019-09-21",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man City vs Watford",
     "home": "Man City",
     "away": "Watford",
@@ -532,7 +532,7 @@
   {
     "id": "602182",
     "date": "2019-09-21",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Newcastle vs Brighton",
     "home": "Newcastle",
     "away": "Brighton",
@@ -542,7 +542,7 @@
   {
     "id": "602183",
     "date": "2019-09-21",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Burnley vs Norwich",
     "home": "Burnley",
     "away": "Norwich",
@@ -552,7 +552,7 @@
   {
     "id": "602188",
     "date": "2019-09-21",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Everton vs Sheffield United",
     "home": "Everton",
     "away": "Sheffield United",
@@ -562,7 +562,7 @@
   {
     "id": "602181",
     "date": "2019-09-22",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Arsenal vs Aston Villa",
     "home": "Arsenal",
     "away": "Aston Villa",
@@ -572,7 +572,7 @@
   {
     "id": "602185",
     "date": "2019-09-22",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Chelsea vs Liverpool",
     "home": "Chelsea",
     "away": "Liverpool",
@@ -582,7 +582,7 @@
   {
     "id": "602186",
     "date": "2019-09-22",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "West Ham vs Man United",
     "home": "West Ham",
     "away": "Man United",
@@ -592,7 +592,7 @@
   {
     "id": "602187",
     "date": "2019-09-22",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Crystal Palace vs Wolves",
     "home": "Crystal Palace",
     "away": "Wolves",
@@ -602,7 +602,7 @@
   {
     "id": "602189",
     "date": "2019-09-28",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Tottenham vs Southampton",
     "home": "Tottenham",
     "away": "Southampton",
@@ -612,7 +612,7 @@
   {
     "id": "602190",
     "date": "2019-09-28",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Chelsea vs Brighton",
     "home": "Chelsea",
     "away": "Brighton",
@@ -622,7 +622,7 @@
   {
     "id": "602191",
     "date": "2019-09-28",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Wolves vs Watford",
     "home": "Wolves",
     "away": "Watford",
@@ -632,7 +632,7 @@
   {
     "id": "602192",
     "date": "2019-09-28",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Crystal Palace vs Norwich",
     "home": "Crystal Palace",
     "away": "Norwich",
@@ -642,7 +642,7 @@
   {
     "id": "602193",
     "date": "2019-09-28",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Everton vs Man City",
     "home": "Everton",
     "away": "Man City",
@@ -652,7 +652,7 @@
   {
     "id": "602196",
     "date": "2019-09-28",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Aston Villa vs Burnley",
     "home": "Aston Villa",
     "away": "Burnley",
@@ -662,7 +662,7 @@
   {
     "id": "602197",
     "date": "2019-09-28",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Sheffield United vs Liverpool",
     "home": "Sheffield United",
     "away": "Liverpool",
@@ -672,7 +672,7 @@
   {
     "id": "602198",
     "date": "2019-09-28",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Bournemouth vs West Ham",
     "home": "Bournemouth",
     "away": "West Ham",
@@ -682,7 +682,7 @@
   {
     "id": "602194",
     "date": "2019-09-29",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Leicester vs Newcastle",
     "home": "Leicester",
     "away": "Newcastle",
@@ -692,7 +692,7 @@
   {
     "id": "602195",
     "date": "2019-09-30",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Man United vs Arsenal",
     "home": "Man United",
     "away": "Arsenal",
@@ -702,7 +702,7 @@
   {
     "id": "602200",
     "date": "2019-10-05",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Norwich vs Aston Villa",
     "home": "Norwich",
     "away": "Aston Villa",
@@ -712,7 +712,7 @@
   {
     "id": "602203",
     "date": "2019-10-05",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Brighton vs Tottenham",
     "home": "Brighton",
     "away": "Tottenham",
@@ -722,7 +722,7 @@
   {
     "id": "602204",
     "date": "2019-10-05",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs Sheffield United",
     "home": "Watford",
     "away": "Sheffield United",
@@ -732,7 +732,7 @@
   {
     "id": "602205",
     "date": "2019-10-05",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Burnley vs Everton",
     "home": "Burnley",
     "away": "Everton",
@@ -742,7 +742,7 @@
   {
     "id": "602206",
     "date": "2019-10-05",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "West Ham vs Crystal Palace",
     "home": "West Ham",
     "away": "Crystal Palace",
@@ -752,7 +752,7 @@
   {
     "id": "602207",
     "date": "2019-10-05",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Liverpool vs Leicester",
     "home": "Liverpool",
     "away": "Leicester",
@@ -762,7 +762,7 @@
   {
     "id": "602199",
     "date": "2019-10-06",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Newcastle vs Man United",
     "home": "Newcastle",
     "away": "Man United",
@@ -772,7 +772,7 @@
   {
     "id": "602201",
     "date": "2019-10-06",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Arsenal vs Bournemouth",
     "home": "Arsenal",
     "away": "Bournemouth",
@@ -782,7 +782,7 @@
   {
     "id": "602202",
     "date": "2019-10-06",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Southampton vs Chelsea",
     "home": "Southampton",
     "away": "Chelsea",
@@ -792,7 +792,7 @@
   {
     "id": "602208",
     "date": "2019-10-06",
-    "time": "13:00:00+00:00",
+    "time": "13:00:00",
     "title": "Man City vs Wolves",
     "home": "Man City",
     "away": "Wolves",
@@ -802,7 +802,7 @@
   {
     "id": "602209",
     "date": "2019-10-19",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Bournemouth vs Norwich",
     "home": "Bournemouth",
     "away": "Norwich",
@@ -812,7 +812,7 @@
   {
     "id": "602210",
     "date": "2019-10-19",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Everton vs West Ham",
     "home": "Everton",
     "away": "West Ham",
@@ -822,7 +822,7 @@
   {
     "id": "602211",
     "date": "2019-10-19",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Leicester vs Burnley",
     "home": "Leicester",
     "away": "Burnley",
@@ -832,7 +832,7 @@
   {
     "id": "602214",
     "date": "2019-10-19",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Tottenham vs Watford",
     "home": "Tottenham",
     "away": "Watford",
@@ -842,7 +842,7 @@
   {
     "id": "602215",
     "date": "2019-10-19",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Chelsea vs Newcastle",
     "home": "Chelsea",
     "away": "Newcastle",
@@ -852,7 +852,7 @@
   {
     "id": "602216",
     "date": "2019-10-19",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Aston Villa vs Brighton",
     "home": "Aston Villa",
     "away": "Brighton",
@@ -862,7 +862,7 @@
   {
     "id": "602217",
     "date": "2019-10-19",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Wolves vs Southampton",
     "home": "Wolves",
     "away": "Southampton",
@@ -872,7 +872,7 @@
   {
     "id": "602218",
     "date": "2019-10-19",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Crystal Palace vs Man City",
     "home": "Crystal Palace",
     "away": "Man City",
@@ -882,7 +882,7 @@
   {
     "id": "602212",
     "date": "2019-10-20",
-    "time": "15:30:00+00:00",
+    "time": "15:30:00",
     "title": "Man United vs Liverpool",
     "home": "Man United",
     "away": "Liverpool",
@@ -892,7 +892,7 @@
   {
     "id": "602213",
     "date": "2019-10-21",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Sheffield United vs Arsenal",
     "home": "Sheffield United",
     "away": "Arsenal",
@@ -902,7 +902,7 @@
   {
     "id": "602221",
     "date": "2019-10-25",
-    "time": "19:00:00+00:00",
+    "time": "19:00:00",
     "title": "Southampton vs Leicester",
     "home": "Southampton",
     "away": "Leicester",
@@ -912,7 +912,7 @@
   {
     "id": "602222",
     "date": "2019-10-26",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs Everton",
     "home": "Brighton",
     "away": "Everton",
@@ -922,7 +922,7 @@
   {
     "id": "602223",
     "date": "2019-10-26",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs Bournemouth",
     "home": "Watford",
     "away": "Bournemouth",
@@ -932,7 +932,7 @@
   {
     "id": "602224",
     "date": "2019-10-26",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Burnley vs Chelsea",
     "home": "Burnley",
     "away": "Chelsea",
@@ -942,7 +942,7 @@
   {
     "id": "602225",
     "date": "2019-10-26",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "West Ham vs Sheffield United",
     "home": "West Ham",
     "away": "Sheffield United",
@@ -952,7 +952,7 @@
   {
     "id": "602227",
     "date": "2019-10-26",
-    "time": "11:30:00+00:00",
+    "time": "11:30:00",
     "title": "Man City vs Aston Villa",
     "home": "Man City",
     "away": "Aston Villa",
@@ -962,7 +962,7 @@
   {
     "id": "602219",
     "date": "2019-10-27",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Norwich vs Man United",
     "home": "Norwich",
     "away": "Man United",
@@ -972,7 +972,7 @@
   {
     "id": "602220",
     "date": "2019-10-27",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Arsenal vs Crystal Palace",
     "home": "Arsenal",
     "away": "Crystal Palace",
@@ -982,7 +982,7 @@
   {
     "id": "602226",
     "date": "2019-10-27",
-    "time": "16:30:00+00:00",
+    "time": "16:30:00",
     "title": "Liverpool vs Tottenham",
     "home": "Liverpool",
     "away": "Tottenham",
@@ -992,7 +992,7 @@
   {
     "id": "602228",
     "date": "2019-10-27",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Newcastle vs Wolves",
     "home": "Newcastle",
     "away": "Wolves",
@@ -1002,7 +1002,7 @@
   {
     "id": "602229",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "West Ham vs Newcastle",
     "home": "West Ham",
     "away": "Newcastle",
@@ -1012,7 +1012,7 @@
   {
     "id": "602230",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Brighton vs Norwich",
     "home": "Brighton",
     "away": "Norwich",
@@ -1020,29 +1020,9 @@
     "about": "English Premier League 2019-11-02 Brighton vs Norwich"
   },
   {
-    "id": "602231",
-    "date": "2019-11-02",
-    "time": "15:00:00+00:00",
-    "title": "Crystal Palace vs Leicester",
-    "home": "Crystal Palace",
-    "away": "Leicester",
-    "timestamp": 1572706800,
-    "about": "English Premier League 2019-11-02 Crystal Palace vs Leicester"
-  },
-  {
-    "id": "602232",
-    "date": "2019-11-02",
-    "time": "15:00:00+00:00",
-    "title": "Everton vs Tottenham",
-    "home": "Everton",
-    "away": "Tottenham",
-    "timestamp": 1572706800,
-    "about": "English Premier League 2019-11-02 Everton vs Tottenham"
-  },
-  {
     "id": "602233",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man City vs Southampton",
     "home": "Man City",
     "away": "Southampton",
@@ -1052,7 +1032,7 @@
   {
     "id": "602234",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Arsenal vs Wolves",
     "home": "Arsenal",
     "away": "Wolves",
@@ -1062,7 +1042,7 @@
   {
     "id": "602235",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Sheffield United vs Burnley",
     "home": "Sheffield United",
     "away": "Burnley",
@@ -1072,7 +1052,7 @@
   {
     "id": "602236",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Aston Villa vs Liverpool",
     "home": "Aston Villa",
     "away": "Liverpool",
@@ -1082,37 +1062,57 @@
   {
     "id": "602237",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Watford vs Chelsea",
     "home": "Watford",
     "away": "Chelsea",
-    "timestamp": 1572706800,
+    "timestamp": 1572715800,
     "about": "English Premier League 2019-11-02 Watford vs Chelsea"
   },
   {
     "id": "602238",
     "date": "2019-11-02",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Bournemouth vs Man United",
     "home": "Bournemouth",
     "away": "Man United",
-    "timestamp": 1572706800,
+    "timestamp": 1572697800,
     "about": "English Premier League 2019-11-02 Bournemouth vs Man United"
   },
   {
+    "id": "602231",
+    "date": "2019-11-03",
+    "time": "14:00:00",
+    "title": "Crystal Palace vs Leicester",
+    "home": "Crystal Palace",
+    "away": "Leicester",
+    "timestamp": 1572789600,
+    "about": "English Premier League 2019-11-02 Crystal Palace vs Leicester"
+  },
+  {
+    "id": "602232",
+    "date": "2019-11-03",
+    "time": "16:30:00",
+    "title": "Everton vs Tottenham",
+    "home": "Everton",
+    "away": "Tottenham",
+    "timestamp": 1572798600,
+    "about": "English Premier League 2019-11-02 Everton vs Tottenham"
+  },
+  {
     "id": "602239",
-    "date": "2019-11-09",
-    "time": "15:00:00+00:00",
+    "date": "2019-11-08",
+    "time": "20:00:00",
     "title": "Norwich vs Watford",
     "home": "Norwich",
     "away": "Watford",
-    "timestamp": 1573311600,
+    "timestamp": 1573243200,
     "about": "English Premier League 2019-11-09 Norwich vs Watford"
   },
   {
     "id": "602240",
     "date": "2019-11-09",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Burnley vs West Ham",
     "home": "Burnley",
     "away": "West Ham",
@@ -1122,7 +1122,7 @@
   {
     "id": "602241",
     "date": "2019-11-09",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Everton",
     "home": "Southampton",
     "away": "Everton",
@@ -1132,17 +1132,17 @@
   {
     "id": "602242",
     "date": "2019-11-09",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Chelsea vs Crystal Palace",
     "home": "Chelsea",
     "away": "Crystal Palace",
-    "timestamp": 1573311600,
+    "timestamp": 1573302600,
     "about": "English Premier League 2019-11-09 Chelsea vs Crystal Palace"
   },
   {
     "id": "602243",
     "date": "2019-11-09",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Tottenham vs Sheffield United",
     "home": "Tottenham",
     "away": "Sheffield United",
@@ -1150,29 +1150,19 @@
     "about": "English Premier League 2019-11-09 Tottenham vs Sheffield United"
   },
   {
-    "id": "602245",
+    "id": "602244",
     "date": "2019-11-09",
-    "time": "15:00:00+00:00",
-    "title": "Wolves vs Aston Villa",
-    "home": "Wolves",
-    "away": "Aston Villa",
-    "timestamp": 1573311600,
-    "about": "English Premier League 2019-11-09 Wolves vs Aston Villa"
-  },
-  {
-    "id": "602246",
-    "date": "2019-11-09",
-    "time": "15:00:00+00:00",
-    "title": "Liverpool vs Man City",
-    "home": "Liverpool",
-    "away": "Man City",
-    "timestamp": 1573311600,
-    "about": "English Premier League 2019-11-09 Liverpool vs Man City"
+    "time": "17:30:00",
+    "title": "Leicester vs Arsenal",
+    "home": "Leicester",
+    "away": "Arsenal",
+    "timestamp": 1573320600,
+    "about": "English Premier League 2019-11-09 Leicester vs Arsenal"
   },
   {
     "id": "602248",
     "date": "2019-11-09",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Bournemouth",
     "home": "Newcastle",
     "away": "Bournemouth",
@@ -1180,29 +1170,39 @@
     "about": "English Premier League 2019-11-09 Newcastle vs Bournemouth"
   },
   {
-    "id": "602244",
+    "id": "602245",
     "date": "2019-11-10",
-    "time": "15:00:00+00:00",
-    "title": "Leicester vs Arsenal",
-    "home": "Leicester",
-    "away": "Arsenal",
-    "timestamp": 1573398000,
-    "about": "English Premier League 2019-11-09 Leicester vs Arsenal"
+    "time": "14:00:00",
+    "title": "Wolves vs Aston Villa",
+    "home": "Wolves",
+    "away": "Aston Villa",
+    "timestamp": 1573394400,
+    "about": "English Premier League 2019-11-09 Wolves vs Aston Villa"
+  },
+  {
+    "id": "602246",
+    "date": "2019-11-10",
+    "time": "16:30:00",
+    "title": "Liverpool vs Man City",
+    "home": "Liverpool",
+    "away": "Man City",
+    "timestamp": 1573403400,
+    "about": "English Premier League 2019-11-09 Liverpool vs Man City"
   },
   {
     "id": "602247",
     "date": "2019-11-10",
-    "time": "15:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man United vs Brighton",
     "home": "Man United",
     "away": "Brighton",
-    "timestamp": 1573398000,
+    "timestamp": 1573394400,
     "about": "English Premier League 2019-11-09 Man United vs Brighton"
   },
   {
     "id": "602249",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Crystal Palace vs Liverpool",
     "home": "Crystal Palace",
     "away": "Liverpool",
@@ -1212,7 +1212,7 @@
   {
     "id": "602250",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Bournemouth vs Wolves",
     "home": "Bournemouth",
     "away": "Wolves",
@@ -1222,7 +1222,7 @@
   {
     "id": "602251",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Everton vs Norwich",
     "home": "Everton",
     "away": "Norwich",
@@ -1232,27 +1232,17 @@
   {
     "id": "602252",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Man City vs Chelsea",
     "home": "Man City",
     "away": "Chelsea",
-    "timestamp": 1574521200,
+    "timestamp": 1574530200,
     "about": "English Premier League 2019-11-23 Man City vs Chelsea"
-  },
-  {
-    "id": "602253",
-    "date": "2019-11-23",
-    "time": "15:00:00+00:00",
-    "title": "Sheffield United vs Man United",
-    "home": "Sheffield United",
-    "away": "Man United",
-    "timestamp": 1574521200,
-    "about": "English Premier League 2019-11-23 Sheffield United vs Man United"
   },
   {
     "id": "602254",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Watford vs Burnley",
     "home": "Watford",
     "away": "Burnley",
@@ -1262,7 +1252,7 @@
   {
     "id": "602255",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Arsenal vs Southampton",
     "home": "Arsenal",
     "away": "Southampton",
@@ -1272,17 +1262,17 @@
   {
     "id": "602256",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "West Ham vs Tottenham",
     "home": "West Ham",
     "away": "Tottenham",
-    "timestamp": 1574521200,
+    "timestamp": 1574512200,
     "about": "English Premier League 2019-11-23 West Ham vs Tottenham"
   },
   {
     "id": "602257",
     "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Brighton vs Leicester",
     "home": "Brighton",
     "away": "Leicester",
@@ -1290,29 +1280,39 @@
     "about": "English Premier League 2019-11-23 Brighton vs Leicester"
   },
   {
+    "id": "602253",
+    "date": "2019-11-24",
+    "time": "16:30:00",
+    "title": "Sheffield United vs Man United",
+    "home": "Sheffield United",
+    "away": "Man United",
+    "timestamp": 1574613000,
+    "about": "English Premier League 2019-11-23 Sheffield United vs Man United"
+  },
+  {
     "id": "602258",
-    "date": "2019-11-23",
-    "time": "15:00:00+00:00",
+    "date": "2019-11-25",
+    "time": "20:00:00",
     "title": "Aston Villa vs Newcastle",
     "home": "Aston Villa",
     "away": "Newcastle",
-    "timestamp": 1574521200,
+    "timestamp": 1574712000,
     "about": "English Premier League 2019-11-23 Aston Villa vs Newcastle"
   },
   {
     "id": "602259",
     "date": "2019-11-30",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Southampton vs Watford",
     "home": "Southampton",
     "away": "Watford",
-    "timestamp": 1575126000,
+    "timestamp": 1575135000,
     "about": "English Premier League 2019-11-30 Southampton vs Watford"
   },
   {
     "id": "602260",
     "date": "2019-11-30",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs West Ham",
     "home": "Chelsea",
     "away": "West Ham",
@@ -1322,7 +1322,7 @@
   {
     "id": "602261",
     "date": "2019-11-30",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Tottenham vs Bournemouth",
     "home": "Tottenham",
     "away": "Bournemouth",
@@ -1330,29 +1330,9 @@
     "about": "English Premier League 2019-11-30 Tottenham vs Bournemouth"
   },
   {
-    "id": "602262",
-    "date": "2019-11-30",
-    "time": "15:00:00+00:00",
-    "title": "Leicester vs Everton",
-    "home": "Leicester",
-    "away": "Everton",
-    "timestamp": 1575126000,
-    "about": "English Premier League 2019-11-30 Leicester vs Everton"
-  },
-  {
-    "id": "602263",
-    "date": "2019-11-30",
-    "time": "15:00:00+00:00",
-    "title": "Wolves vs Sheffield United",
-    "home": "Wolves",
-    "away": "Sheffield United",
-    "timestamp": 1575126000,
-    "about": "English Premier League 2019-11-30 Wolves vs Sheffield United"
-  },
-  {
     "id": "602264",
     "date": "2019-11-30",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Liverpool vs Brighton",
     "home": "Liverpool",
     "away": "Brighton",
@@ -1362,17 +1342,17 @@
   {
     "id": "602266",
     "date": "2019-11-30",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Newcastle vs Man City",
     "home": "Newcastle",
     "away": "Man City",
-    "timestamp": 1575126000,
+    "timestamp": 1575117000,
     "about": "English Premier League 2019-11-30 Newcastle vs Man City"
   },
   {
     "id": "602268",
     "date": "2019-11-30",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Burnley vs Crystal Palace",
     "home": "Burnley",
     "away": "Crystal Palace",
@@ -1380,149 +1360,149 @@
     "about": "English Premier League 2019-11-30 Burnley vs Crystal Palace"
   },
   {
+    "id": "602262",
+    "date": "2019-12-01",
+    "time": "16:30:00",
+    "title": "Leicester vs Everton",
+    "home": "Leicester",
+    "away": "Everton",
+    "timestamp": 1575217800,
+    "about": "English Premier League 2019-11-30 Leicester vs Everton"
+  },
+  {
+    "id": "602263",
+    "date": "2019-12-01",
+    "time": "14:00:00",
+    "title": "Wolves vs Sheffield United",
+    "home": "Wolves",
+    "away": "Sheffield United",
+    "timestamp": 1575208800,
+    "about": "English Premier League 2019-11-30 Wolves vs Sheffield United"
+  },
+  {
     "id": "602265",
     "date": "2019-12-01",
-    "time": "15:00:00+00:00",
+    "time": "16:30:00",
     "title": "Man United vs Aston Villa",
     "home": "Man United",
     "away": "Aston Villa",
-    "timestamp": 1575212400,
+    "timestamp": 1575217800,
     "about": "English Premier League 2019-11-30 Man United vs Aston Villa"
   },
   {
     "id": "602267",
     "date": "2019-12-01",
-    "time": "15:00:00+00:00",
+    "time": "14:00:00",
     "title": "Norwich vs Arsenal",
     "home": "Norwich",
     "away": "Arsenal",
-    "timestamp": 1575212400,
+    "timestamp": 1575208800,
     "about": "English Premier League 2019-11-30 Norwich vs Arsenal"
-  },
-  {
-    "id": "602269",
-    "date": "2019-12-03",
-    "time": "19:45:00+00:00",
-    "title": "Sheffield United vs Newcastle",
-    "home": "Sheffield United",
-    "away": "Newcastle",
-    "timestamp": 1575402300,
-    "about": "English Premier League 2019-12-03 Sheffield United vs Newcastle"
-  },
-  {
-    "id": "602270",
-    "date": "2019-12-03",
-    "time": "19:45:00+00:00",
-    "title": "Wolves vs West Ham",
-    "home": "Wolves",
-    "away": "West Ham",
-    "timestamp": 1575402300,
-    "about": "English Premier League 2019-12-03 Wolves vs West Ham"
-  },
-  {
-    "id": "602271",
-    "date": "2019-12-03",
-    "time": "19:45:00+00:00",
-    "title": "Arsenal vs Brighton",
-    "home": "Arsenal",
-    "away": "Brighton",
-    "timestamp": 1575402300,
-    "about": "English Premier League 2019-12-03 Arsenal vs Brighton"
   },
   {
     "id": "602272",
     "date": "2019-12-03",
-    "time": "19:45:00+00:00",
+    "time": "20:15:00",
     "title": "Burnley vs Man City",
     "home": "Burnley",
     "away": "Man City",
-    "timestamp": 1575402300,
+    "timestamp": 1575404100,
     "about": "English Premier League 2019-12-03 Burnley vs Man City"
   },
   {
-    "id": "602273",
+    "id": "602277",
     "date": "2019-12-03",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
+    "title": "Crystal Palace vs Bournemouth",
+    "home": "Crystal Palace",
+    "away": "Bournemouth",
+    "timestamp": 1575401400,
+    "about": "English Premier League 2019-12-04 Crystal Palace vs Bournemouth"
+  },
+  {
+    "id": "602270",
+    "date": "2019-12-04",
+    "time": "19:30:00",
+    "title": "Wolves vs West Ham",
+    "home": "Wolves",
+    "away": "West Ham",
+    "timestamp": 1575487800,
+    "about": "English Premier League 2019-12-03 Wolves vs West Ham"
+  },
+  {
+    "id": "602273",
+    "date": "2019-12-04",
+    "time": "19:30:00",
     "title": "Leicester vs Watford",
     "home": "Leicester",
     "away": "Watford",
-    "timestamp": 1575402300,
+    "timestamp": 1575487800,
     "about": "English Premier League 2019-12-03 Leicester vs Watford"
   },
   {
     "id": "602274",
-    "date": "2019-12-03",
-    "time": "20:00:00+00:00",
+    "date": "2019-12-04",
+    "time": "19:30:00",
     "title": "Man United vs Tottenham",
     "home": "Man United",
     "away": "Tottenham",
-    "timestamp": 1575403200,
+    "timestamp": 1575487800,
     "about": "English Premier League 2019-12-03 Man United vs Tottenham"
   },
   {
     "id": "602275",
     "date": "2019-12-04",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
     "title": "Chelsea vs Aston Villa",
     "home": "Chelsea",
     "away": "Aston Villa",
-    "timestamp": 1575488700,
+    "timestamp": 1575487800,
     "about": "English Premier League 2019-12-04 Chelsea vs Aston Villa"
   },
   {
     "id": "602276",
     "date": "2019-12-04",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
     "title": "Southampton vs Norwich",
     "home": "Southampton",
     "away": "Norwich",
-    "timestamp": 1575488700,
+    "timestamp": 1575487800,
     "about": "English Premier League 2019-12-04 Southampton vs Norwich"
-  },
-  {
-    "id": "602277",
-    "date": "2019-12-04",
-    "time": "20:00:00+00:00",
-    "title": "Crystal Palace vs Bournemouth",
-    "home": "Crystal Palace",
-    "away": "Bournemouth",
-    "timestamp": 1575489600,
-    "about": "English Premier League 2019-12-04 Crystal Palace vs Bournemouth"
   },
   {
     "id": "602278",
     "date": "2019-12-04",
-    "time": "20:00:00+00:00",
+    "time": "20:15:00",
     "title": "Liverpool vs Everton",
     "home": "Liverpool",
     "away": "Everton",
-    "timestamp": 1575489600,
+    "timestamp": 1575490500,
     "about": "English Premier League 2019-12-04 Liverpool vs Everton"
   },
   {
-    "id": "602279",
-    "date": "2019-12-07",
-    "time": "15:00:00+00:00",
-    "title": "Norwich vs Sheffield United",
-    "home": "Norwich",
-    "away": "Sheffield United",
-    "timestamp": 1575730800,
-    "about": "English Premier League 2019-12-07 Norwich vs Sheffield United"
+    "id": "602269",
+    "date": "2019-12-05",
+    "time": "19:30:00",
+    "title": "Sheffield United vs Newcastle",
+    "home": "Sheffield United",
+    "away": "Newcastle",
+    "timestamp": 1575574200,
+    "about": "English Premier League 2019-12-03 Sheffield United vs Newcastle"
   },
   {
-    "id": "602280",
-    "date": "2019-12-07",
-    "time": "15:00:00+00:00",
-    "title": "Aston Villa vs Leicester",
-    "home": "Aston Villa",
-    "away": "Leicester",
-    "timestamp": 1575730800,
-    "about": "English Premier League 2019-12-07 Aston Villa vs Leicester"
+    "id": "602271",
+    "date": "2019-12-05",
+    "time": "20:15:00",
+    "title": "Arsenal vs Brighton",
+    "home": "Arsenal",
+    "away": "Brighton",
+    "timestamp": 1575576900,
+    "about": "English Premier League 2019-12-03 Arsenal vs Brighton"
   },
   {
     "id": "602281",
     "date": "2019-12-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Tottenham vs Burnley",
     "home": "Tottenham",
     "away": "Burnley",
@@ -1532,7 +1512,7 @@
   {
     "id": "602282",
     "date": "2019-12-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Bournemouth vs Liverpool",
     "home": "Bournemouth",
     "away": "Liverpool",
@@ -1542,7 +1522,7 @@
   {
     "id": "602283",
     "date": "2019-12-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Watford vs Crystal Palace",
     "home": "Watford",
     "away": "Crystal Palace",
@@ -1550,89 +1530,89 @@
     "about": "English Premier League 2019-12-07 Watford vs Crystal Palace"
   },
   {
-    "id": "602284",
-    "date": "2019-12-07",
-    "time": "15:00:00+00:00",
-    "title": "Brighton vs Wolves",
-    "home": "Brighton",
-    "away": "Wolves",
-    "timestamp": 1575730800,
-    "about": "English Premier League 2019-12-07 Brighton vs Wolves"
-  },
-  {
-    "id": "602285",
-    "date": "2019-12-07",
-    "time": "15:00:00+00:00",
-    "title": "West Ham vs Arsenal",
-    "home": "West Ham",
-    "away": "Arsenal",
-    "timestamp": 1575730800,
-    "about": "English Premier League 2019-12-07 West Ham vs Arsenal"
-  },
-  {
     "id": "602286",
     "date": "2019-12-07",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Everton vs Chelsea",
     "home": "Everton",
     "away": "Chelsea",
-    "timestamp": 1575730800,
+    "timestamp": 1575721800,
     "about": "English Premier League 2019-12-07 Everton vs Chelsea"
   },
   {
     "id": "602287",
     "date": "2019-12-07",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Man City vs Man United",
     "home": "Man City",
     "away": "Man United",
-    "timestamp": 1575730800,
+    "timestamp": 1575739800,
     "about": "English Premier League 2019-12-07 Man City vs Man United"
   },
   {
+    "id": "602279",
+    "date": "2019-12-08",
+    "time": "14:00:00",
+    "title": "Norwich vs Sheffield United",
+    "home": "Norwich",
+    "away": "Sheffield United",
+    "timestamp": 1575813600,
+    "about": "English Premier League 2019-12-07 Norwich vs Sheffield United"
+  },
+  {
+    "id": "602280",
+    "date": "2019-12-08",
+    "time": "14:00:00",
+    "title": "Aston Villa vs Leicester",
+    "home": "Aston Villa",
+    "away": "Leicester",
+    "timestamp": 1575813600,
+    "about": "English Premier League 2019-12-07 Aston Villa vs Leicester"
+  },
+  {
+    "id": "602284",
+    "date": "2019-12-08",
+    "time": "16:30:00",
+    "title": "Brighton vs Wolves",
+    "home": "Brighton",
+    "away": "Wolves",
+    "timestamp": 1575822600,
+    "about": "English Premier League 2019-12-07 Brighton vs Wolves"
+  },
+  {
     "id": "602288",
-    "date": "2019-12-07",
-    "time": "15:00:00+00:00",
+    "date": "2019-12-08",
+    "time": "14:00:00",
     "title": "Newcastle vs Southampton",
     "home": "Newcastle",
     "away": "Southampton",
-    "timestamp": 1575730800,
+    "timestamp": 1575813600,
     "about": "English Premier League 2019-12-07 Newcastle vs Southampton"
   },
   {
-    "id": "602289",
-    "date": "2019-12-14",
-    "time": "15:00:00+00:00",
-    "title": "Crystal Palace vs Brighton",
-    "home": "Crystal Palace",
-    "away": "Brighton",
-    "timestamp": 1576335600,
-    "about": "English Premier League 2019-12-14 Crystal Palace vs Brighton"
+    "id": "602285",
+    "date": "2019-12-09",
+    "time": "20:00:00",
+    "title": "West Ham vs Arsenal",
+    "home": "West Ham",
+    "away": "Arsenal",
+    "timestamp": 1575921600,
+    "about": "English Premier League 2019-12-07 West Ham vs Arsenal"
   },
   {
     "id": "602290",
     "date": "2019-12-14",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Southampton vs West Ham",
     "home": "Southampton",
     "away": "West Ham",
-    "timestamp": 1576335600,
+    "timestamp": 1576344600,
     "about": "English Premier League 2019-12-14 Southampton vs West Ham"
-  },
-  {
-    "id": "602291",
-    "date": "2019-12-14",
-    "time": "15:00:00+00:00",
-    "title": "Wolves vs Tottenham",
-    "home": "Wolves",
-    "away": "Tottenham",
-    "timestamp": 1576335600,
-    "about": "English Premier League 2019-12-14 Wolves vs Tottenham"
   },
   {
     "id": "602292",
     "date": "2019-12-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Leicester vs Norwich",
     "home": "Leicester",
     "away": "Norwich",
@@ -1640,29 +1620,19 @@
     "about": "English Premier League 2019-12-14 Leicester vs Norwich"
   },
   {
-    "id": "602293",
-    "date": "2019-12-14",
-    "time": "15:00:00+00:00",
-    "title": "Arsenal vs Man City",
-    "home": "Arsenal",
-    "away": "Man City",
-    "timestamp": 1576335600,
-    "about": "English Premier League 2019-12-14 Arsenal vs Man City"
-  },
-  {
     "id": "602294",
     "date": "2019-12-14",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Liverpool vs Watford",
     "home": "Liverpool",
     "away": "Watford",
-    "timestamp": 1576335600,
+    "timestamp": 1576326600,
     "about": "English Premier League 2019-12-14 Liverpool vs Watford"
   },
   {
     "id": "602295",
     "date": "2019-12-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Burnley vs Newcastle",
     "home": "Burnley",
     "away": "Newcastle",
@@ -1670,19 +1640,9 @@
     "about": "English Premier League 2019-12-14 Burnley vs Newcastle"
   },
   {
-    "id": "602296",
-    "date": "2019-12-14",
-    "time": "15:00:00+00:00",
-    "title": "Man United vs Everton",
-    "home": "Man United",
-    "away": "Everton",
-    "timestamp": 1576335600,
-    "about": "English Premier League 2019-12-14 Man United vs Everton"
-  },
-  {
     "id": "602297",
     "date": "2019-12-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs Bournemouth",
     "home": "Chelsea",
     "away": "Bournemouth",
@@ -1692,7 +1652,7 @@
   {
     "id": "602298",
     "date": "2019-12-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Sheffield United vs Aston Villa",
     "home": "Sheffield United",
     "away": "Aston Villa",
@@ -1700,19 +1660,59 @@
     "about": "English Premier League 2019-12-14 Sheffield United vs Aston Villa"
   },
   {
+    "id": "602291",
+    "date": "2019-12-15",
+    "time": "14:00:00",
+    "title": "Wolves vs Tottenham",
+    "home": "Wolves",
+    "away": "Tottenham",
+    "timestamp": 1576418400,
+    "about": "English Premier League 2019-12-14 Wolves vs Tottenham"
+  },
+  {
+    "id": "602293",
+    "date": "2019-12-15",
+    "time": "16:30:00",
+    "title": "Arsenal vs Man City",
+    "home": "Arsenal",
+    "away": "Man City",
+    "timestamp": 1576427400,
+    "about": "English Premier League 2019-12-14 Arsenal vs Man City"
+  },
+  {
+    "id": "602296",
+    "date": "2019-12-15",
+    "time": "14:00:00",
+    "title": "Man United vs Everton",
+    "home": "Man United",
+    "away": "Everton",
+    "timestamp": 1576418400,
+    "about": "English Premier League 2019-12-14 Man United vs Everton"
+  },
+  {
+    "id": "602289",
+    "date": "2019-12-16",
+    "time": "19:45:00",
+    "title": "Crystal Palace vs Brighton",
+    "home": "Crystal Palace",
+    "away": "Brighton",
+    "timestamp": 1576525500,
+    "about": "English Premier League 2019-12-14 Crystal Palace vs Brighton"
+  },
+  {
     "id": "602299",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Man City vs Leicester",
     "home": "Man City",
     "away": "Leicester",
-    "timestamp": 1576940400,
+    "timestamp": 1576949400,
     "about": "English Premier League 2019-12-21 Man City vs Leicester"
   },
   {
     "id": "602300",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Crystal Palace",
     "home": "Newcastle",
     "away": "Crystal Palace",
@@ -1722,7 +1722,7 @@
   {
     "id": "602301",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Norwich vs Wolves",
     "home": "Norwich",
     "away": "Wolves",
@@ -1732,7 +1732,7 @@
   {
     "id": "602302",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Aston Villa vs Southampton",
     "home": "Aston Villa",
     "away": "Southampton",
@@ -1740,19 +1740,9 @@
     "about": "English Premier League 2019-12-21 Aston Villa vs Southampton"
   },
   {
-    "id": "602303",
-    "date": "2019-12-21",
-    "time": "15:00:00+00:00",
-    "title": "Tottenham vs Chelsea",
-    "home": "Tottenham",
-    "away": "Chelsea",
-    "timestamp": 1576940400,
-    "about": "English Premier League 2019-12-21 Tottenham vs Chelsea"
-  },
-  {
     "id": "602304",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Bournemouth vs Burnley",
     "home": "Bournemouth",
     "away": "Burnley",
@@ -1760,19 +1750,9 @@
     "about": "English Premier League 2019-12-21 Bournemouth vs Burnley"
   },
   {
-    "id": "602305",
-    "date": "2019-12-21",
-    "time": "15:00:00+00:00",
-    "title": "Watford vs Man United",
-    "home": "Watford",
-    "away": "Man United",
-    "timestamp": 1576940400,
-    "about": "English Premier League 2019-12-21 Watford vs Man United"
-  },
-  {
     "id": "602306",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Brighton vs Sheffield United",
     "home": "Brighton",
     "away": "Sheffield United",
@@ -1782,7 +1762,7 @@
   {
     "id": "602307",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "West Ham vs Liverpool",
     "home": "West Ham",
     "away": "Liverpool",
@@ -1792,17 +1772,37 @@
   {
     "id": "602308",
     "date": "2019-12-21",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Everton vs Arsenal",
     "home": "Everton",
     "away": "Arsenal",
-    "timestamp": 1576940400,
+    "timestamp": 1576931400,
     "about": "English Premier League 2019-12-21 Everton vs Arsenal"
+  },
+  {
+    "id": "602303",
+    "date": "2019-12-22",
+    "time": "16:30:00",
+    "title": "Tottenham vs Chelsea",
+    "home": "Tottenham",
+    "away": "Chelsea",
+    "timestamp": 1577032200,
+    "about": "English Premier League 2019-12-21 Tottenham vs Chelsea"
+  },
+  {
+    "id": "602305",
+    "date": "2019-12-22",
+    "time": "14:00:00",
+    "title": "Watford vs Man United",
+    "home": "Watford",
+    "away": "Man United",
+    "timestamp": 1577023200,
+    "about": "English Premier League 2019-12-21 Watford vs Man United"
   },
   {
     "id": "602309",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Aston Villa vs Norwich",
     "home": "Aston Villa",
     "away": "Norwich",
@@ -1812,7 +1812,7 @@
   {
     "id": "602310",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Sheffield United vs Watford",
     "home": "Sheffield United",
     "away": "Watford",
@@ -1822,7 +1822,7 @@
   {
     "id": "602311",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Bournemouth vs Arsenal",
     "home": "Bournemouth",
     "away": "Arsenal",
@@ -1832,17 +1832,17 @@
   {
     "id": "602312",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Tottenham vs Brighton",
     "home": "Tottenham",
     "away": "Brighton",
-    "timestamp": 1577372400,
+    "timestamp": 1577363400,
     "about": "English Premier League 2019-12-26 Tottenham vs Brighton"
   },
   {
     "id": "602313",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs Southampton",
     "home": "Chelsea",
     "away": "Southampton",
@@ -1850,19 +1850,9 @@
     "about": "English Premier League 2019-12-26 Chelsea vs Southampton"
   },
   {
-    "id": "602314",
-    "date": "2019-12-26",
-    "time": "15:00:00+00:00",
-    "title": "Wolves vs Man City",
-    "home": "Wolves",
-    "away": "Man City",
-    "timestamp": 1577372400,
-    "about": "English Premier League 2019-12-26 Wolves vs Man City"
-  },
-  {
     "id": "602315",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Crystal Palace vs West Ham",
     "home": "Crystal Palace",
     "away": "West Ham",
@@ -1872,7 +1862,7 @@
   {
     "id": "602316",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Everton vs Burnley",
     "home": "Everton",
     "away": "Burnley",
@@ -1882,47 +1872,37 @@
   {
     "id": "602317",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "20:00:00",
     "title": "Leicester vs Liverpool",
     "home": "Leicester",
     "away": "Liverpool",
-    "timestamp": 1577372400,
+    "timestamp": 1577390400,
     "about": "English Premier League 2019-12-26 Leicester vs Liverpool"
   },
   {
     "id": "602318",
     "date": "2019-12-26",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Man United vs Newcastle",
     "home": "Man United",
     "away": "Newcastle",
-    "timestamp": 1577372400,
+    "timestamp": 1577381400,
     "about": "English Premier League 2019-12-26 Man United vs Newcastle"
   },
   {
-    "id": "602319",
-    "date": "2019-12-28",
-    "time": "15:00:00+00:00",
-    "title": "Liverpool vs Wolves",
-    "home": "Liverpool",
-    "away": "Wolves",
-    "timestamp": 1577545200,
-    "about": "English Premier League 2019-12-28 Liverpool vs Wolves"
-  },
-  {
-    "id": "602320",
-    "date": "2019-12-28",
-    "time": "15:00:00+00:00",
-    "title": "Man City vs Sheffield United",
-    "home": "Man City",
-    "away": "Sheffield United",
-    "timestamp": 1577545200,
-    "about": "English Premier League 2019-12-28 Man City vs Sheffield United"
+    "id": "602314",
+    "date": "2019-12-27",
+    "time": "19:45:00",
+    "title": "Wolves vs Man City",
+    "home": "Wolves",
+    "away": "Man City",
+    "timestamp": 1577475900,
+    "about": "English Premier League 2019-12-26 Wolves vs Man City"
   },
   {
     "id": "602321",
     "date": "2019-12-28",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Everton",
     "home": "Newcastle",
     "away": "Everton",
@@ -1932,27 +1912,17 @@
   {
     "id": "602322",
     "date": "2019-12-28",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Norwich vs Tottenham",
     "home": "Norwich",
     "away": "Tottenham",
-    "timestamp": 1577545200,
+    "timestamp": 1577554200,
     "about": "English Premier League 2019-12-28 Norwich vs Tottenham"
-  },
-  {
-    "id": "602323",
-    "date": "2019-12-28",
-    "time": "15:00:00+00:00",
-    "title": "Arsenal vs Chelsea",
-    "home": "Arsenal",
-    "away": "Chelsea",
-    "timestamp": 1577545200,
-    "about": "English Premier League 2019-12-28 Arsenal vs Chelsea"
   },
   {
     "id": "602324",
     "date": "2019-12-28",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Crystal Palace",
     "home": "Southampton",
     "away": "Crystal Palace",
@@ -1962,17 +1932,17 @@
   {
     "id": "602325",
     "date": "2019-12-28",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Brighton vs Bournemouth",
     "home": "Brighton",
     "away": "Bournemouth",
-    "timestamp": 1577545200,
+    "timestamp": 1577536200,
     "about": "English Premier League 2019-12-28 Brighton vs Bournemouth"
   },
   {
     "id": "602326",
     "date": "2019-12-28",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Watford vs Aston Villa",
     "home": "Watford",
     "away": "Aston Villa",
@@ -1982,47 +1952,77 @@
   {
     "id": "602327",
     "date": "2019-12-28",
-    "time": "15:00:00+00:00",
+    "time": "19:45:00",
     "title": "Burnley vs Man United",
     "home": "Burnley",
     "away": "Man United",
-    "timestamp": 1577545200,
+    "timestamp": 1577562300,
     "about": "English Premier League 2019-12-28 Burnley vs Man United"
   },
   {
     "id": "602328",
     "date": "2019-12-28",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "West Ham vs Leicester",
     "home": "West Ham",
     "away": "Leicester",
-    "timestamp": 1577545200,
+    "timestamp": 1577554200,
     "about": "English Premier League 2019-12-28 West Ham vs Leicester"
+  },
+  {
+    "id": "602319",
+    "date": "2019-12-29",
+    "time": "16:30:00",
+    "title": "Liverpool vs Wolves",
+    "home": "Liverpool",
+    "away": "Wolves",
+    "timestamp": 1577637000,
+    "about": "English Premier League 2019-12-28 Liverpool vs Wolves"
+  },
+  {
+    "id": "602320",
+    "date": "2019-12-29",
+    "time": "18:00:00",
+    "title": "Man City vs Sheffield United",
+    "home": "Man City",
+    "away": "Sheffield United",
+    "timestamp": 1577642400,
+    "about": "English Premier League 2019-12-28 Man City vs Sheffield United"
+  },
+  {
+    "id": "602323",
+    "date": "2019-12-29",
+    "time": "14:00:00",
+    "title": "Arsenal vs Chelsea",
+    "home": "Arsenal",
+    "away": "Chelsea",
+    "timestamp": 1577628000,
+    "about": "English Premier League 2019-12-28 Arsenal vs Chelsea"
   },
   {
     "id": "602329",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Norwich vs Crystal Palace",
     "home": "Norwich",
     "away": "Crystal Palace",
-    "timestamp": 1577890800,
+    "timestamp": 1577899800,
     "about": "English Premier League 2020-01-01 Norwich vs Crystal Palace"
   },
   {
     "id": "602330",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "20:00:00",
     "title": "Arsenal vs Man United",
     "home": "Arsenal",
     "away": "Man United",
-    "timestamp": 1577890800,
+    "timestamp": 1577908800,
     "about": "English Premier League 2020-01-01 Arsenal vs Man United"
   },
   {
     "id": "602331",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Tottenham",
     "home": "Southampton",
     "away": "Tottenham",
@@ -2032,17 +2032,17 @@
   {
     "id": "602332",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Brighton vs Chelsea",
     "home": "Brighton",
     "away": "Chelsea",
-    "timestamp": 1577890800,
+    "timestamp": 1577881800,
     "about": "English Premier League 2020-01-01 Brighton vs Chelsea"
   },
   {
     "id": "602333",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Watford vs Wolves",
     "home": "Watford",
     "away": "Wolves",
@@ -2052,47 +2052,37 @@
   {
     "id": "602334",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Burnley vs Aston Villa",
     "home": "Burnley",
     "away": "Aston Villa",
-    "timestamp": 1577890800,
+    "timestamp": 1577881800,
     "about": "English Premier League 2020-01-01 Burnley vs Aston Villa"
   },
   {
     "id": "602335",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "West Ham vs Bournemouth",
     "home": "West Ham",
     "away": "Bournemouth",
-    "timestamp": 1577890800,
+    "timestamp": 1577899800,
     "about": "English Premier League 2020-01-01 West Ham vs Bournemouth"
-  },
-  {
-    "id": "602336",
-    "date": "2020-01-01",
-    "time": "15:00:00+00:00",
-    "title": "Liverpool vs Sheffield United",
-    "home": "Liverpool",
-    "away": "Sheffield United",
-    "timestamp": 1577890800,
-    "about": "English Premier League 2020-01-01 Liverpool vs Sheffield United"
   },
   {
     "id": "602337",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Man City vs Everton",
     "home": "Man City",
     "away": "Everton",
-    "timestamp": 1577890800,
+    "timestamp": 1577899800,
     "about": "English Premier League 2020-01-01 Man City vs Everton"
   },
   {
     "id": "602338",
     "date": "2020-01-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Leicester",
     "home": "Newcastle",
     "away": "Leicester",
@@ -2100,9 +2090,29 @@
     "about": "English Premier League 2020-01-01 Newcastle vs Leicester"
   },
   {
+    "id": "602336",
+    "date": "2020-01-02",
+    "time": "20:00:00",
+    "title": "Liverpool vs Sheffield United",
+    "home": "Liverpool",
+    "away": "Sheffield United",
+    "timestamp": 1577995200,
+    "about": "English Premier League 2020-01-01 Liverpool vs Sheffield United"
+  },
+  {
+    "id": "602346",
+    "date": "2020-01-10",
+    "time": "20:00:00",
+    "title": "Sheffield United vs West Ham",
+    "home": "Sheffield United",
+    "away": "West Ham",
+    "timestamp": 1578686400,
+    "about": "English Premier League 2020-01-11 Sheffield United vs West Ham"
+  },
+  {
     "id": "602339",
     "date": "2020-01-11",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs Burnley",
     "home": "Chelsea",
     "away": "Burnley",
@@ -2112,7 +2122,7 @@
   {
     "id": "602340",
     "date": "2020-01-11",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Wolves vs Newcastle",
     "home": "Wolves",
     "away": "Newcastle",
@@ -2122,17 +2132,17 @@
   {
     "id": "602341",
     "date": "2020-01-11",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Crystal Palace vs Arsenal",
     "home": "Crystal Palace",
     "away": "Arsenal",
-    "timestamp": 1578754800,
+    "timestamp": 1578745800,
     "about": "English Premier League 2020-01-11 Crystal Palace vs Arsenal"
   },
   {
     "id": "602342",
     "date": "2020-01-11",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Everton vs Brighton",
     "home": "Everton",
     "away": "Brighton",
@@ -2142,7 +2152,7 @@
   {
     "id": "602343",
     "date": "2020-01-11",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Leicester vs Southampton",
     "home": "Leicester",
     "away": "Southampton",
@@ -2152,7 +2162,7 @@
   {
     "id": "602344",
     "date": "2020-01-11",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man United vs Norwich",
     "home": "Man United",
     "away": "Norwich",
@@ -2160,59 +2170,49 @@
     "about": "English Premier League 2020-01-11 Man United vs Norwich"
   },
   {
-    "id": "602345",
-    "date": "2020-01-11",
-    "time": "15:00:00+00:00",
-    "title": "Aston Villa vs Man City",
-    "home": "Aston Villa",
-    "away": "Man City",
-    "timestamp": 1578754800,
-    "about": "English Premier League 2020-01-11 Aston Villa vs Man City"
-  },
-  {
-    "id": "602346",
-    "date": "2020-01-11",
-    "time": "15:00:00+00:00",
-    "title": "Sheffield United vs West Ham",
-    "home": "Sheffield United",
-    "away": "West Ham",
-    "timestamp": 1578754800,
-    "about": "English Premier League 2020-01-11 Sheffield United vs West Ham"
-  },
-  {
-    "id": "602347",
-    "date": "2020-01-11",
-    "time": "15:00:00+00:00",
-    "title": "Bournemouth vs Watford",
-    "home": "Bournemouth",
-    "away": "Watford",
-    "timestamp": 1578754800,
-    "about": "English Premier League 2020-01-11 Bournemouth vs Watford"
-  },
-  {
     "id": "602348",
     "date": "2020-01-11",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Tottenham vs Liverpool",
     "home": "Tottenham",
     "away": "Liverpool",
-    "timestamp": 1578754800,
+    "timestamp": 1578763800,
     "about": "English Premier League 2020-01-11 Tottenham vs Liverpool"
+  },
+  {
+    "id": "602345",
+    "date": "2020-01-12",
+    "time": "16:30:00",
+    "title": "Aston Villa vs Man City",
+    "home": "Aston Villa",
+    "away": "Man City",
+    "timestamp": 1578846600,
+    "about": "English Premier League 2020-01-11 Aston Villa vs Man City"
+  },
+  {
+    "id": "602347",
+    "date": "2020-01-12",
+    "time": "14:00:00",
+    "title": "Bournemouth vs Watford",
+    "home": "Bournemouth",
+    "away": "Watford",
+    "timestamp": 1578837600,
+    "about": "English Premier League 2020-01-11 Bournemouth vs Watford"
   },
   {
     "id": "602349",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "17:30:00",
     "title": "Newcastle vs Chelsea",
     "home": "Newcastle",
     "away": "Chelsea",
-    "timestamp": 1579359600,
+    "timestamp": 1579368600,
     "about": "English Premier League 2020-01-18 Newcastle vs Chelsea"
   },
   {
     "id": "602350",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Norwich vs Bournemouth",
     "home": "Norwich",
     "away": "Bournemouth",
@@ -2222,7 +2222,7 @@
   {
     "id": "602351",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Arsenal vs Sheffield United",
     "home": "Arsenal",
     "away": "Sheffield United",
@@ -2232,7 +2232,7 @@
   {
     "id": "602352",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Wolves",
     "home": "Southampton",
     "away": "Wolves",
@@ -2242,7 +2242,7 @@
   {
     "id": "602353",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Brighton vs Aston Villa",
     "home": "Brighton",
     "away": "Aston Villa",
@@ -2252,27 +2252,17 @@
   {
     "id": "602354",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "12:30:00",
     "title": "Watford vs Tottenham",
     "home": "Watford",
     "away": "Tottenham",
-    "timestamp": 1579359600,
+    "timestamp": 1579350600,
     "about": "English Premier League 2020-01-18 Watford vs Tottenham"
-  },
-  {
-    "id": "602355",
-    "date": "2020-01-18",
-    "time": "15:00:00+00:00",
-    "title": "Burnley vs Leicester",
-    "home": "Burnley",
-    "away": "Leicester",
-    "timestamp": 1579359600,
-    "about": "English Premier League 2020-01-18 Burnley vs Leicester"
   },
   {
     "id": "602356",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "West Ham vs Everton",
     "home": "West Ham",
     "away": "Everton",
@@ -2280,19 +2270,9 @@
     "about": "English Premier League 2020-01-18 West Ham vs Everton"
   },
   {
-    "id": "602357",
-    "date": "2020-01-18",
-    "time": "15:00:00+00:00",
-    "title": "Liverpool vs Man United",
-    "home": "Liverpool",
-    "away": "Man United",
-    "timestamp": 1579359600,
-    "about": "English Premier League 2020-01-18 Liverpool vs Man United"
-  },
-  {
     "id": "602358",
     "date": "2020-01-18",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man City vs Crystal Palace",
     "home": "Man City",
     "away": "Crystal Palace",
@@ -2300,109 +2280,129 @@
     "about": "English Premier League 2020-01-18 Man City vs Crystal Palace"
   },
   {
+    "id": "602355",
+    "date": "2020-01-19",
+    "time": "14:00:00",
+    "title": "Burnley vs Leicester",
+    "home": "Burnley",
+    "away": "Leicester",
+    "timestamp": 1579442400,
+    "about": "English Premier League 2020-01-18 Burnley vs Leicester"
+  },
+  {
+    "id": "602357",
+    "date": "2020-01-19",
+    "time": "16:30:00",
+    "title": "Liverpool vs Man United",
+    "home": "Liverpool",
+    "away": "Man United",
+    "timestamp": 1579451400,
+    "about": "English Premier League 2020-01-18 Liverpool vs Man United"
+  },
+  {
+    "id": "602368",
+    "date": "2020-01-21",
+    "time": "19:30:00",
+    "title": "Crystal Palace vs Southampton",
+    "home": "Crystal Palace",
+    "away": "Southampton",
+    "timestamp": 1579635000,
+    "about": "English Premier League 2020-01-22 Crystal Palace vs Southampton"
+  },
+  {
     "id": "602359",
     "date": "2020-01-21",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
     "title": "Bournemouth vs Brighton",
     "home": "Bournemouth",
     "away": "Brighton",
-    "timestamp": 1579635900,
+    "timestamp": 1579635000,
     "about": "English Premier League 2020-01-21 Bournemouth vs Brighton"
   },
   {
     "id": "602360",
     "date": "2020-01-21",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
     "title": "Everton vs Newcastle",
     "home": "Everton",
     "away": "Newcastle",
-    "timestamp": 1579635900,
+    "timestamp": 1579635000,
     "about": "English Premier League 2020-01-21 Everton vs Newcastle"
-  },
-  {
-    "id": "602361",
-    "date": "2020-01-21",
-    "time": "19:45:00+00:00",
-    "title": "Leicester vs West Ham",
-    "home": "Leicester",
-    "away": "West Ham",
-    "timestamp": 1579635900,
-    "about": "English Premier League 2020-01-21 Leicester vs West Ham"
   },
   {
     "id": "602362",
     "date": "2020-01-21",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
     "title": "Sheffield United vs Man City",
     "home": "Sheffield United",
     "away": "Man City",
-    "timestamp": 1579635900,
+    "timestamp": 1579635000,
     "about": "English Premier League 2020-01-21 Sheffield United vs Man City"
-  },
-  {
-    "id": "602363",
-    "date": "2020-01-21",
-    "time": "19:45:00+00:00",
-    "title": "Wolves vs Liverpool",
-    "home": "Wolves",
-    "away": "Liverpool",
-    "timestamp": 1579635900,
-    "about": "English Premier League 2020-01-21 Wolves vs Liverpool"
   },
   {
     "id": "602364",
     "date": "2020-01-21",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
     "title": "Aston Villa vs Watford",
     "home": "Aston Villa",
     "away": "Watford",
-    "timestamp": 1579635900,
+    "timestamp": 1579635000,
     "about": "English Premier League 2020-01-21 Aston Villa vs Watford"
   },
   {
-    "id": "602365",
+    "id": "602367",
     "date": "2020-01-21",
-    "time": "20:00:00+00:00",
+    "time": "20:15:00",
+    "title": "Chelsea vs Arsenal",
+    "home": "Chelsea",
+    "away": "Arsenal",
+    "timestamp": 1579637700,
+    "about": "English Premier League 2020-01-22 Chelsea vs Arsenal"
+  },
+  {
+    "id": "602361",
+    "date": "2020-01-22",
+    "time": "19:30:00",
+    "title": "Leicester vs West Ham",
+    "home": "Leicester",
+    "away": "West Ham",
+    "timestamp": 1579721400,
+    "about": "English Premier League 2020-01-21 Leicester vs West Ham"
+  },
+  {
+    "id": "602365",
+    "date": "2020-01-22",
+    "time": "20:15:00",
     "title": "Man United vs Burnley",
     "home": "Man United",
     "away": "Burnley",
-    "timestamp": 1579636800,
+    "timestamp": 1579724100,
     "about": "English Premier League 2020-01-21 Man United vs Burnley"
-  },
-  {
-    "id": "602368",
-    "date": "2020-01-22",
-    "time": "20:00:00+00:00",
-    "title": "Crystal Palace vs Southampton",
-    "home": "Crystal Palace",
-    "away": "Southampton",
-    "timestamp": 1579723200,
-    "about": "English Premier League 2020-01-22 Crystal Palace vs Southampton"
   },
   {
     "id": "602366",
     "date": "2020-01-22",
-    "time": "19:45:00+00:00",
+    "time": "19:30:00",
     "title": "Tottenham vs Norwich",
     "home": "Tottenham",
     "away": "Norwich",
-    "timestamp": 1579722300,
+    "timestamp": 1579721400,
     "about": "English Premier League 2020-01-22 Tottenham vs Norwich"
   },
   {
-    "id": "602367",
-    "date": "2020-01-22",
-    "time": "19:45:00+00:00",
-    "title": "Chelsea vs Arsenal",
-    "home": "Chelsea",
-    "away": "Arsenal",
-    "timestamp": 1579722300,
-    "about": "English Premier League 2020-01-22 Chelsea vs Arsenal"
+    "id": "602363",
+    "date": "2020-01-23",
+    "time": "20:00:00",
+    "title": "Wolves vs Liverpool",
+    "home": "Wolves",
+    "away": "Liverpool",
+    "timestamp": 1579809600,
+    "about": "English Premier League 2020-01-21 Wolves vs Liverpool"
   },
   {
     "id": "602369",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Liverpool vs Southampton",
     "home": "Liverpool",
     "away": "Southampton",
@@ -2412,7 +2412,7 @@
   {
     "id": "602370",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man United vs Wolves",
     "home": "Man United",
     "away": "Wolves",
@@ -2422,7 +2422,7 @@
   {
     "id": "602371",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Norwich",
     "home": "Newcastle",
     "away": "Norwich",
@@ -2432,7 +2432,7 @@
   {
     "id": "602372",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Bournemouth vs Aston Villa",
     "home": "Bournemouth",
     "away": "Aston Villa",
@@ -2442,7 +2442,7 @@
   {
     "id": "602373",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Tottenham vs Man City",
     "home": "Tottenham",
     "away": "Man City",
@@ -2452,7 +2452,7 @@
   {
     "id": "602374",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Burnley vs Arsenal",
     "home": "Burnley",
     "away": "Arsenal",
@@ -2462,7 +2462,7 @@
   {
     "id": "602375",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Watford vs Everton",
     "home": "Watford",
     "away": "Everton",
@@ -2472,7 +2472,7 @@
   {
     "id": "602376",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Crystal Palace vs Sheffield United",
     "home": "Crystal Palace",
     "away": "Sheffield United",
@@ -2482,7 +2482,7 @@
   {
     "id": "602377",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "West Ham vs Brighton",
     "home": "West Ham",
     "away": "Brighton",
@@ -2492,7 +2492,7 @@
   {
     "id": "602378",
     "date": "2020-02-01",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Leicester vs Chelsea",
     "home": "Leicester",
     "away": "Chelsea",
@@ -2502,7 +2502,7 @@
   {
     "id": "602379",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Sheffield United vs Bournemouth",
     "home": "Sheffield United",
     "away": "Bournemouth",
@@ -2512,7 +2512,7 @@
   {
     "id": "602380",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Aston Villa vs Tottenham",
     "home": "Aston Villa",
     "away": "Tottenham",
@@ -2522,7 +2522,7 @@
   {
     "id": "602381",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Burnley",
     "home": "Southampton",
     "away": "Burnley",
@@ -2532,7 +2532,7 @@
   {
     "id": "602382",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Brighton vs Watford",
     "home": "Brighton",
     "away": "Watford",
@@ -2542,7 +2542,7 @@
   {
     "id": "602383",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Wolves vs Leicester",
     "home": "Wolves",
     "away": "Leicester",
@@ -2552,7 +2552,7 @@
   {
     "id": "602384",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs Man United",
     "home": "Chelsea",
     "away": "Man United",
@@ -2562,7 +2562,7 @@
   {
     "id": "602385",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Everton vs Crystal Palace",
     "home": "Everton",
     "away": "Crystal Palace",
@@ -2572,7 +2572,7 @@
   {
     "id": "602386",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man City vs West Ham",
     "home": "Man City",
     "away": "West Ham",
@@ -2582,7 +2582,7 @@
   {
     "id": "602387",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Norwich vs Liverpool",
     "home": "Norwich",
     "away": "Liverpool",
@@ -2592,7 +2592,7 @@
   {
     "id": "602388",
     "date": "2020-02-08",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Arsenal vs Newcastle",
     "home": "Arsenal",
     "away": "Newcastle",
@@ -2602,7 +2602,7 @@
   {
     "id": "602389",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Leicester vs Man City",
     "home": "Leicester",
     "away": "Man City",
@@ -2612,7 +2612,7 @@
   {
     "id": "602390",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Liverpool vs West Ham",
     "home": "Liverpool",
     "away": "West Ham",
@@ -2622,7 +2622,7 @@
   {
     "id": "602391",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man United vs Watford",
     "home": "Man United",
     "away": "Watford",
@@ -2632,7 +2632,7 @@
   {
     "id": "602392",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Arsenal vs Everton",
     "home": "Arsenal",
     "away": "Everton",
@@ -2642,7 +2642,7 @@
   {
     "id": "602393",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Sheffield United vs Brighton",
     "home": "Sheffield United",
     "away": "Brighton",
@@ -2652,7 +2652,7 @@
   {
     "id": "602394",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Burnley vs Bournemouth",
     "home": "Burnley",
     "away": "Bournemouth",
@@ -2662,7 +2662,7 @@
   {
     "id": "602395",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Aston Villa",
     "home": "Southampton",
     "away": "Aston Villa",
@@ -2672,7 +2672,7 @@
   {
     "id": "602396",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs Tottenham",
     "home": "Chelsea",
     "away": "Tottenham",
@@ -2682,7 +2682,7 @@
   {
     "id": "602397",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Wolves vs Norwich",
     "home": "Wolves",
     "away": "Norwich",
@@ -2692,7 +2692,7 @@
   {
     "id": "602398",
     "date": "2020-02-22",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Crystal Palace vs Newcastle",
     "home": "Crystal Palace",
     "away": "Newcastle",
@@ -2702,7 +2702,7 @@
   {
     "id": "602399",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Norwich vs Leicester",
     "home": "Norwich",
     "away": "Leicester",
@@ -2712,7 +2712,7 @@
   {
     "id": "602400",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Aston Villa vs Sheffield United",
     "home": "Aston Villa",
     "away": "Sheffield United",
@@ -2722,7 +2722,7 @@
   {
     "id": "602401",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Tottenham vs Wolves",
     "home": "Tottenham",
     "away": "Wolves",
@@ -2732,7 +2732,7 @@
   {
     "id": "602402",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Bournemouth vs Chelsea",
     "home": "Bournemouth",
     "away": "Chelsea",
@@ -2742,7 +2742,7 @@
   {
     "id": "602403",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Watford vs Liverpool",
     "home": "Watford",
     "away": "Liverpool",
@@ -2752,7 +2752,7 @@
   {
     "id": "602404",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Brighton vs Crystal Palace",
     "home": "Brighton",
     "away": "Crystal Palace",
@@ -2762,7 +2762,7 @@
   {
     "id": "602405",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "West Ham vs Southampton",
     "home": "West Ham",
     "away": "Southampton",
@@ -2772,7 +2772,7 @@
   {
     "id": "602406",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Everton vs Man United",
     "home": "Everton",
     "away": "Man United",
@@ -2782,7 +2782,7 @@
   {
     "id": "602407",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man City vs Arsenal",
     "home": "Man City",
     "away": "Arsenal",
@@ -2792,7 +2792,7 @@
   {
     "id": "602408",
     "date": "2020-02-29",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Burnley",
     "home": "Newcastle",
     "away": "Burnley",
@@ -2802,7 +2802,7 @@
   {
     "id": "602409",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Crystal Palace vs Watford",
     "home": "Crystal Palace",
     "away": "Watford",
@@ -2812,7 +2812,7 @@
   {
     "id": "602410",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Leicester vs Aston Villa",
     "home": "Leicester",
     "away": "Aston Villa",
@@ -2822,7 +2822,7 @@
   {
     "id": "602411",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Sheffield United vs Norwich",
     "home": "Sheffield United",
     "away": "Norwich",
@@ -2832,7 +2832,7 @@
   {
     "id": "602412",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Liverpool vs Bournemouth",
     "home": "Liverpool",
     "away": "Bournemouth",
@@ -2842,7 +2842,7 @@
   {
     "id": "602413",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Newcastle",
     "home": "Southampton",
     "away": "Newcastle",
@@ -2852,7 +2852,7 @@
   {
     "id": "602414",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man United vs Man City",
     "home": "Man United",
     "away": "Man City",
@@ -2862,7 +2862,7 @@
   {
     "id": "602415",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Wolves vs Brighton",
     "home": "Wolves",
     "away": "Brighton",
@@ -2872,7 +2872,7 @@
   {
     "id": "602416",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Arsenal vs West Ham",
     "home": "Arsenal",
     "away": "West Ham",
@@ -2882,7 +2882,7 @@
   {
     "id": "602417",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Burnley vs Tottenham",
     "home": "Burnley",
     "away": "Tottenham",
@@ -2892,7 +2892,7 @@
   {
     "id": "602418",
     "date": "2020-03-07",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs Everton",
     "home": "Chelsea",
     "away": "Everton",
@@ -2902,7 +2902,7 @@
   {
     "id": "602419",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Brighton vs Arsenal",
     "home": "Brighton",
     "away": "Arsenal",
@@ -2912,7 +2912,7 @@
   {
     "id": "602420",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "West Ham vs Wolves",
     "home": "West Ham",
     "away": "Wolves",
@@ -2922,7 +2922,7 @@
   {
     "id": "602421",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Everton vs Liverpool",
     "home": "Everton",
     "away": "Liverpool",
@@ -2932,7 +2932,7 @@
   {
     "id": "602422",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man City vs Burnley",
     "home": "Man City",
     "away": "Burnley",
@@ -2942,7 +2942,7 @@
   {
     "id": "602423",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Sheffield United",
     "home": "Newcastle",
     "away": "Sheffield United",
@@ -2952,7 +2952,7 @@
   {
     "id": "602424",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Norwich vs Southampton",
     "home": "Norwich",
     "away": "Southampton",
@@ -2962,7 +2962,7 @@
   {
     "id": "602425",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Aston Villa vs Chelsea",
     "home": "Aston Villa",
     "away": "Chelsea",
@@ -2972,7 +2972,7 @@
   {
     "id": "602426",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Tottenham vs Man United",
     "home": "Tottenham",
     "away": "Man United",
@@ -2982,7 +2982,7 @@
   {
     "id": "602427",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Bournemouth vs Crystal Palace",
     "home": "Bournemouth",
     "away": "Crystal Palace",
@@ -2992,7 +2992,7 @@
   {
     "id": "602428",
     "date": "2020-03-14",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Watford vs Leicester",
     "home": "Watford",
     "away": "Leicester",
@@ -3002,7 +3002,7 @@
   {
     "id": "602429",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Newcastle vs Aston Villa",
     "home": "Newcastle",
     "away": "Aston Villa",
@@ -3012,7 +3012,7 @@
   {
     "id": "602430",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Norwich vs Everton",
     "home": "Norwich",
     "away": "Everton",
@@ -3022,7 +3022,7 @@
   {
     "id": "602431",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Burnley vs Watford",
     "home": "Burnley",
     "away": "Watford",
@@ -3032,7 +3032,7 @@
   {
     "id": "602432",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Southampton vs Arsenal",
     "home": "Southampton",
     "away": "Arsenal",
@@ -3042,7 +3042,7 @@
   {
     "id": "602433",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Chelsea vs Man City",
     "home": "Chelsea",
     "away": "Man City",
@@ -3052,7 +3052,7 @@
   {
     "id": "602434",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Tottenham vs West Ham",
     "home": "Tottenham",
     "away": "West Ham",
@@ -3062,7 +3062,7 @@
   {
     "id": "602435",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Leicester vs Brighton",
     "home": "Leicester",
     "away": "Brighton",
@@ -3072,7 +3072,7 @@
   {
     "id": "602436",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Wolves vs Bournemouth",
     "home": "Wolves",
     "away": "Bournemouth",
@@ -3082,7 +3082,7 @@
   {
     "id": "602437",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Liverpool vs Crystal Palace",
     "home": "Liverpool",
     "away": "Crystal Palace",
@@ -3092,7 +3092,7 @@
   {
     "id": "602438",
     "date": "2020-03-21",
-    "time": "15:00:00+00:00",
+    "time": "15:00:00",
     "title": "Man United vs Sheffield United",
     "home": "Man United",
     "away": "Sheffield United",
@@ -3102,7 +3102,7 @@
   {
     "id": "602439",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Aston Villa vs Wolves",
     "home": "Aston Villa",
     "away": "Wolves",
@@ -3112,7 +3112,7 @@
   {
     "id": "602440",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs Southampton",
     "home": "Watford",
     "away": "Southampton",
@@ -3122,7 +3122,7 @@
   {
     "id": "602441",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Bournemouth vs Newcastle",
     "home": "Bournemouth",
     "away": "Newcastle",
@@ -3132,7 +3132,7 @@
   {
     "id": "602442",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "West Ham vs Chelsea",
     "home": "West Ham",
     "away": "Chelsea",
@@ -3142,7 +3142,7 @@
   {
     "id": "602443",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs Man United",
     "home": "Brighton",
     "away": "Man United",
@@ -3152,7 +3152,7 @@
   {
     "id": "602444",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Crystal Palace vs Burnley",
     "home": "Crystal Palace",
     "away": "Burnley",
@@ -3162,7 +3162,7 @@
   {
     "id": "602445",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Everton vs Leicester",
     "home": "Everton",
     "away": "Leicester",
@@ -3172,7 +3172,7 @@
   {
     "id": "602446",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man City vs Liverpool",
     "home": "Man City",
     "away": "Liverpool",
@@ -3182,7 +3182,7 @@
   {
     "id": "602447",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Arsenal vs Norwich",
     "home": "Arsenal",
     "away": "Norwich",
@@ -3192,7 +3192,7 @@
   {
     "id": "602448",
     "date": "2020-04-04",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Sheffield United vs Tottenham",
     "home": "Sheffield United",
     "away": "Tottenham",
@@ -3202,7 +3202,7 @@
   {
     "id": "602449",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man United vs Bournemouth",
     "home": "Man United",
     "away": "Bournemouth",
@@ -3212,7 +3212,7 @@
   {
     "id": "602450",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Newcastle vs West Ham",
     "home": "Newcastle",
     "away": "West Ham",
@@ -3222,7 +3222,7 @@
   {
     "id": "602451",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Norwich vs Brighton",
     "home": "Norwich",
     "away": "Brighton",
@@ -3232,7 +3232,7 @@
   {
     "id": "602452",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Burnley vs Sheffield United",
     "home": "Burnley",
     "away": "Sheffield United",
@@ -3242,7 +3242,7 @@
   {
     "id": "602453",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Southampton vs Man City",
     "home": "Southampton",
     "away": "Man City",
@@ -3252,7 +3252,7 @@
   {
     "id": "602454",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Tottenham vs Everton",
     "home": "Tottenham",
     "away": "Everton",
@@ -3262,7 +3262,7 @@
   {
     "id": "602455",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Chelsea vs Watford",
     "home": "Chelsea",
     "away": "Watford",
@@ -3272,7 +3272,7 @@
   {
     "id": "602456",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Wolves vs Arsenal",
     "home": "Wolves",
     "away": "Arsenal",
@@ -3282,7 +3282,7 @@
   {
     "id": "602457",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Leicester vs Crystal Palace",
     "home": "Leicester",
     "away": "Crystal Palace",
@@ -3292,7 +3292,7 @@
   {
     "id": "602458",
     "date": "2020-04-11",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Liverpool vs Aston Villa",
     "home": "Liverpool",
     "away": "Aston Villa",
@@ -3302,7 +3302,7 @@
   {
     "id": "602459",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs Norwich",
     "home": "Watford",
     "away": "Norwich",
@@ -3312,7 +3312,7 @@
   {
     "id": "602460",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Bournemouth vs Tottenham",
     "home": "Bournemouth",
     "away": "Tottenham",
@@ -3322,7 +3322,7 @@
   {
     "id": "602461",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "West Ham vs Burnley",
     "home": "West Ham",
     "away": "Burnley",
@@ -3332,7 +3332,7 @@
   {
     "id": "602462",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs Liverpool",
     "home": "Brighton",
     "away": "Liverpool",
@@ -3342,7 +3342,7 @@
   {
     "id": "602463",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Crystal Palace vs Chelsea",
     "home": "Crystal Palace",
     "away": "Chelsea",
@@ -3352,7 +3352,7 @@
   {
     "id": "602464",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Everton vs Southampton",
     "home": "Everton",
     "away": "Southampton",
@@ -3362,7 +3362,7 @@
   {
     "id": "602465",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man City vs Newcastle",
     "home": "Man City",
     "away": "Newcastle",
@@ -3372,7 +3372,7 @@
   {
     "id": "602466",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Arsenal vs Leicester",
     "home": "Arsenal",
     "away": "Leicester",
@@ -3382,7 +3382,7 @@
   {
     "id": "602467",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Sheffield United vs Wolves",
     "home": "Sheffield United",
     "away": "Wolves",
@@ -3392,7 +3392,7 @@
   {
     "id": "602468",
     "date": "2020-04-18",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Aston Villa vs Man United",
     "home": "Aston Villa",
     "away": "Man United",
@@ -3402,7 +3402,7 @@
   {
     "id": "602469",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man United vs Southampton",
     "home": "Man United",
     "away": "Southampton",
@@ -3412,7 +3412,7 @@
   {
     "id": "602470",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Norwich vs West Ham",
     "home": "Norwich",
     "away": "West Ham",
@@ -3422,7 +3422,7 @@
   {
     "id": "602471",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Sheffield United vs Chelsea",
     "home": "Sheffield United",
     "away": "Chelsea",
@@ -3432,7 +3432,7 @@
   {
     "id": "602472",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Aston Villa vs Crystal Palace",
     "home": "Aston Villa",
     "away": "Crystal Palace",
@@ -3442,7 +3442,7 @@
   {
     "id": "602473",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Tottenham vs Arsenal",
     "home": "Tottenham",
     "away": "Arsenal",
@@ -3452,7 +3452,7 @@
   {
     "id": "602474",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Bournemouth vs Leicester",
     "home": "Bournemouth",
     "away": "Leicester",
@@ -3462,7 +3462,7 @@
   {
     "id": "602475",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs Newcastle",
     "home": "Watford",
     "away": "Newcastle",
@@ -3472,7 +3472,7 @@
   {
     "id": "602476",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs Man City",
     "home": "Brighton",
     "away": "Man City",
@@ -3482,7 +3482,7 @@
   {
     "id": "602477",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Wolves vs Everton",
     "home": "Wolves",
     "away": "Everton",
@@ -3492,7 +3492,7 @@
   {
     "id": "602478",
     "date": "2020-04-25",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Liverpool vs Burnley",
     "home": "Liverpool",
     "away": "Burnley",
@@ -3502,7 +3502,7 @@
   {
     "id": "602479",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Newcastle vs Tottenham",
     "home": "Newcastle",
     "away": "Tottenham",
@@ -3512,7 +3512,7 @@
   {
     "id": "602480",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Burnley vs Wolves",
     "home": "Burnley",
     "away": "Wolves",
@@ -3522,7 +3522,7 @@
   {
     "id": "602481",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Southampton vs Brighton",
     "home": "Southampton",
     "away": "Brighton",
@@ -3532,7 +3532,7 @@
   {
     "id": "602482",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Chelsea vs Norwich",
     "home": "Chelsea",
     "away": "Norwich",
@@ -3542,7 +3542,7 @@
   {
     "id": "602483",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "West Ham vs Watford",
     "home": "West Ham",
     "away": "Watford",
@@ -3552,7 +3552,7 @@
   {
     "id": "602484",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Crystal Palace vs Man United",
     "home": "Crystal Palace",
     "away": "Man United",
@@ -3562,7 +3562,7 @@
   {
     "id": "602485",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Everton vs Aston Villa",
     "home": "Everton",
     "away": "Aston Villa",
@@ -3572,7 +3572,7 @@
   {
     "id": "602486",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Leicester vs Sheffield United",
     "home": "Leicester",
     "away": "Sheffield United",
@@ -3582,7 +3582,7 @@
   {
     "id": "602487",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man City vs Bournemouth",
     "home": "Man City",
     "away": "Bournemouth",
@@ -3592,7 +3592,7 @@
   {
     "id": "602488",
     "date": "2020-05-02",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Arsenal vs Liverpool",
     "home": "Arsenal",
     "away": "Liverpool",
@@ -3602,7 +3602,7 @@
   {
     "id": "602489",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man United vs West Ham",
     "home": "Man United",
     "away": "West Ham",
@@ -3612,7 +3612,7 @@
   {
     "id": "602490",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Norwich vs Burnley",
     "home": "Norwich",
     "away": "Burnley",
@@ -3622,7 +3622,7 @@
   {
     "id": "602491",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Wolves vs Crystal Palace",
     "home": "Wolves",
     "away": "Crystal Palace",
@@ -3632,7 +3632,7 @@
   {
     "id": "602492",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Sheffield United vs Everton",
     "home": "Sheffield United",
     "away": "Everton",
@@ -3642,7 +3642,7 @@
   {
     "id": "602493",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Aston Villa vs Arsenal",
     "home": "Aston Villa",
     "away": "Arsenal",
@@ -3652,7 +3652,7 @@
   {
     "id": "602494",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Tottenham vs Leicester",
     "home": "Tottenham",
     "away": "Leicester",
@@ -3662,7 +3662,7 @@
   {
     "id": "602495",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Bournemouth vs Southampton",
     "home": "Bournemouth",
     "away": "Southampton",
@@ -3672,7 +3672,7 @@
   {
     "id": "602496",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Watford vs Man City",
     "home": "Watford",
     "away": "Man City",
@@ -3682,7 +3682,7 @@
   {
     "id": "602497",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Brighton vs Newcastle",
     "home": "Brighton",
     "away": "Newcastle",
@@ -3692,7 +3692,7 @@
   {
     "id": "602498",
     "date": "2020-05-09",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Liverpool vs Chelsea",
     "home": "Liverpool",
     "away": "Chelsea",
@@ -3702,7 +3702,7 @@
   {
     "id": "602499",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Everton vs Bournemouth",
     "home": "Everton",
     "away": "Bournemouth",
@@ -3712,7 +3712,7 @@
   {
     "id": "602500",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Leicester vs Man United",
     "home": "Leicester",
     "away": "Man United",
@@ -3722,7 +3722,7 @@
   {
     "id": "602501",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Man City vs Norwich",
     "home": "Man City",
     "away": "Norwich",
@@ -3732,7 +3732,7 @@
   {
     "id": "602502",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Arsenal vs Watford",
     "home": "Arsenal",
     "away": "Watford",
@@ -3742,7 +3742,7 @@
   {
     "id": "602503",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Newcastle vs Liverpool",
     "home": "Newcastle",
     "away": "Liverpool",
@@ -3752,7 +3752,7 @@
   {
     "id": "602504",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Burnley vs Brighton",
     "home": "Burnley",
     "away": "Brighton",
@@ -3762,7 +3762,7 @@
   {
     "id": "602505",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Southampton vs Sheffield United",
     "home": "Southampton",
     "away": "Sheffield United",
@@ -3772,7 +3772,7 @@
   {
     "id": "602506",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Chelsea vs Wolves",
     "home": "Chelsea",
     "away": "Wolves",
@@ -3782,7 +3782,7 @@
   {
     "id": "602507",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "West Ham vs Aston Villa",
     "home": "West Ham",
     "away": "Aston Villa",
@@ -3792,7 +3792,7 @@
   {
     "id": "602508",
     "date": "2020-05-17",
-    "time": "14:00:00+00:00",
+    "time": "14:00:00",
     "title": "Crystal Palace vs Tottenham",
     "home": "Crystal Palace",
     "away": "Tottenham",
