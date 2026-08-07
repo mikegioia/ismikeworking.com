@@ -27,7 +27,13 @@ calendar into one of: **Yes.** · **Probably** · **Hmm… maybe?** · **No** ·
 | `npm run compile` | Build `data/daybrief.json` (add `-- --date YYYY-MM-DD` to time-travel) |
 | `npm run build` | Compile + prerender the site into `web/` |
 
-**TheSportsDB key:** By default, the demo key is used; it may return truncated data. For full data, set the `THESPORTSDB_KEY` environment variable with a registered API key before running `npm run fetch`.
+**TheSportsDB key:** The free key (`123`) caps `eventsseason` responses at 15
+events, so the fetcher pages `eventsround.php` per round instead and merges the
+season endpoint in as a backstop — full-season data on the free tier. The sweep
+paces itself under the ~30 req/min rate limit (about 5 minutes; tune with
+`FETCH_DELAY_MS`, default 2500) and backs off once on HTTP 429. A premium key
+via the `THESPORTSDB_KEY` environment variable also works and can be paced
+faster.
 
 ## Tuning the rules
 

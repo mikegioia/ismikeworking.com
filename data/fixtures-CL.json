@@ -148,5 +148,355 @@
     "round": "400",
     "isFinal": false,
     "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T17:30:00Z",
+    "home": "Levski Sofia",
+    "away": "Borac Banja Luka",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T19:00:00Z",
+    "home": "Shamrock Rovers",
+    "away": "Floriana",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T15:00:00Z",
+    "home": "KuPS",
+    "away": "Vardar",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T17:00:00Z",
+    "home": "Győri ETO",
+    "away": "Víkingur Reykjavík",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T16:00:00Z",
+    "home": "Inter Club d'Escaldes",
+    "away": "Lincoln Red Imps",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T16:00:00Z",
+    "home": "Iberia 1999",
+    "away": "Flora Tallinn",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T19:00:00Z",
+    "home": "Larne",
+    "away": "Tre Fiori",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T17:00:00Z",
+    "home": "Riga FC",
+    "away": "Ararat-Armenia",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T18:00:00Z",
+    "home": "Drita",
+    "away": "Kauno Žalgiris",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-15",
+    "kickoffUtc": "2026-07-15T17:30:00Z",
+    "home": "Universitatea Craiova",
+    "away": "Maxline Vitebsk",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-15",
+    "kickoffUtc": "2026-07-15T19:00:00Z",
+    "home": "Sutjeska",
+    "away": "Kairat Almaty",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-15",
+    "kickoffUtc": "2026-07-15T19:00:00Z",
+    "home": "Egnatia",
+    "away": "Petrocub Hîncești",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-15",
+    "kickoffUtc": "2026-07-15T18:15:00Z",
+    "home": "Atert Bissen",
+    "away": "KÍ Klaksvík",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T17:00:00Z",
+    "home": "AGF Aarhus",
+    "away": "Lech Poznań",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T18:00:00Z",
+    "home": "Fenerbahçe",
+    "away": "Górnik Zabrze",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T18:30:00Z",
+    "home": "Sturm Graz",
+    "away": "Heart of Midlothian",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T18:00:00Z",
+    "home": "Thun",
+    "away": "Dinamo Zagreb",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T19:00:00Z",
+    "home": "Víkingur Reykjavík",
+    "away": "Hapoel Be'er Sheva",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T16:00:00Z",
+    "home": "Mjällby",
+    "away": "Lincoln Red Imps",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T16:00:00Z",
+    "home": "Iberia 1999",
+    "away": "Slovan Bratislava",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T16:00:00Z",
+    "home": "Ararat-Armenia",
+    "away": "Shamrock Rovers",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T19:00:00Z",
+    "home": "Larne",
+    "away": "Crvena Zvezda",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T16:00:00Z",
+    "home": "Sabah Baku",
+    "away": "KuPS",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-21",
+    "kickoffUtc": "2026-07-21T18:45:00Z",
+    "home": "KÍ Klaksvík",
+    "away": "Kauno Žalgiris",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-22",
+    "kickoffUtc": "2026-07-22T17:30:00Z",
+    "home": "Levski Sofia",
+    "away": "Universitatea Craiova",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-22",
+    "kickoffUtc": "2026-07-22T19:00:00Z",
+    "home": "Egnatia",
+    "away": "Celje",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-22",
+    "kickoffUtc": "2026-07-22T17:00:00Z",
+    "home": "Omonia Nicosia",
+    "away": "Kairat Almaty",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-28",
+    "kickoffUtc": "2026-07-28T18:45:00Z",
+    "home": "Heart of Midlothian",
+    "away": "Sturm Graz",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-28",
+    "kickoffUtc": "2026-07-28T18:00:00Z",
+    "home": "Dinamo Zagreb",
+    "away": "Thun",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-28",
+    "kickoffUtc": "2026-07-28T19:00:00Z",
+    "home": "Shamrock Rovers",
+    "away": "Ararat-Armenia",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-28",
+    "kickoffUtc": "2026-07-28T16:00:00Z",
+    "home": "Lincoln Red Imps",
+    "away": "Mjällby",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-28",
+    "kickoffUtc": "2026-07-28T15:00:00Z",
+    "home": "KuPS",
+    "away": "Sabah Baku",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-28",
+    "kickoffUtc": "2026-07-28T18:15:00Z",
+    "home": "Celje",
+    "away": "Egnatia",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-29",
+    "kickoffUtc": "2026-07-29T18:00:00Z",
+    "home": "Górnik Zabrze",
+    "away": "Fenerbahçe",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-29",
+    "kickoffUtc": "2026-07-29T17:00:00Z",
+    "home": "Lech Poznań",
+    "away": "AGF Aarhus",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
   }
 ]

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { seasonSlug, normalizeEvents } from '../src/providers/football';
+import { seasonSlug, normalizeEvents, roundCodes, dedupeEvents } from '../src/providers/football';
 import { normalizeForecast } from '../src/providers/weather';
 
 describe('seasonSlug', () => {
@@ -66,6 +66,44 @@ describe('normalizeEvents', () => {
       'EL'
     );
     expect(fx[0].isFinal).toBe(true);
+  });
+});
+
+describe('roundCodes', () => {
+  it('PL is rounds 1 through 38', () => {
+    const codes = roundCodes('PL');
+    expect(codes).toHaveLength(38);
+    expect(codes[0]).toBe('1');
+    expect(codes[37]).toBe('38');
+  });
+
+  it('CL/EL sweep league-phase, knockout, and qualifying codes', () => {
+    for (const comp of ['CL', 'EL'] as const) {
+      const codes = roundCodes(comp);
+      for (const required of ['1', '8', '125', '150', '160', '400']) {
+        expect(codes).toContain(required);
+      }
+    }
+  });
+});
+
+describe('dedupeEvents', () => {
+  it('dedupes by idEvent when present', () => {
+    const events = [
+      { idEvent: '1001', strHomeTeam: 'Liverpool', strAwayTeam: 'Everton', dateEvent: '2026-10-03' },
+      { idEvent: '1001', strHomeTeam: 'Liverpool', strAwayTeam: 'Everton', dateEvent: '2026-10-03' },
+      { idEvent: '1002', strHomeTeam: 'Fulham', strAwayTeam: 'Wolves', dateEvent: '2026-10-03' },
+    ];
+    expect(dedupeEvents(events)).toHaveLength(2);
+  });
+
+  it('falls back to date|home|away when idEvent is missing', () => {
+    const events = [
+      { strHomeTeam: 'Liverpool', strAwayTeam: 'Everton', dateEvent: '2026-10-03' },
+      { strHomeTeam: 'Liverpool', strAwayTeam: 'Everton', dateEvent: '2026-10-03' },
+      { strHomeTeam: 'Liverpool', strAwayTeam: 'Everton', dateEvent: '2027-02-13' },
+    ];
+    expect(dedupeEvents(events)).toHaveLength(2);
   });
 });
 
