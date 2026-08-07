@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "defaultMode": "auto",
+    "allow": [
+      "Bash(*)"
+    ],
+    "ask": [
+      "Bash(rm:*)",
+      "Bash(rmdir:*)",
+      "Bash(trash:*)",
+      "Bash(shred:*)",
+      "Bash(dd:*)",
+      "Bash(mkfs:*)",
+      "Bash(truncate:*)",
+      "Bash(sudo:*)",
+      "Bash(git push:*)",
+      "Bash(git reset --hard:*)",
+      "Bash(git clean:*)",
+      "Bash(git restore:*)",
+      "Bash(git checkout --:*)",
+      "Bash(git branch -D:*)",
+      "Bash(git branch -d:*)",
+      "Bash(git stash drop:*)",
+      "Bash(git stash clear:*)"
+    ]
+  }
+}
