@@ -1,0 +1,152 @@
+[
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T19:00:00Z",
+    "home": "Víkingur Reykjavík",
+    "away": "Győri ETO",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T17:00:00Z",
+    "home": "Vardar",
+    "away": "KuPS",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T16:00:00Z",
+    "home": "Lincoln Red Imps",
+    "away": "Inter Club d'Escaldes",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T18:45:00Z",
+    "home": "KÍ Klaksvík",
+    "away": "Atert Bissen",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T18:30:00Z",
+    "home": "Tre Fiori",
+    "away": "Larne",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T18:30:00Z",
+    "home": "Borac Banja Luka",
+    "away": "Levski Sofia",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T16:00:00Z",
+    "home": "Ararat-Armenia",
+    "away": "Riga FC",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T16:00:00Z",
+    "home": "Kauno Žalgiris",
+    "away": "Drita",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T17:30:00Z",
+    "home": "Floriana",
+    "away": "Shamrock Rovers",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-07",
+    "kickoffUtc": "2026-07-07T16:00:00Z",
+    "home": "Sabah Baku",
+    "away": "The New Saints",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-08",
+    "kickoffUtc": "2026-07-08T15:00:00Z",
+    "home": "Kairat Almaty",
+    "away": "Sutjeska",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-08",
+    "kickoffUtc": "2026-07-08T16:00:00Z",
+    "home": "Flora Tallinn",
+    "away": "Iberia 1999",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-08",
+    "kickoffUtc": "2026-07-08T17:00:00Z",
+    "home": "Petrocub Hîncești",
+    "away": "Egnatia",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-08",
+    "kickoffUtc": "2026-07-08T17:00:00Z",
+    "home": "Maxline Vitebsk",
+    "away": "Universitatea Craiova",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-07-14",
+    "kickoffUtc": "2026-07-14T17:30:00Z",
+    "home": "The New Saints",
+    "away": "Sabah Baku",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  }
+]

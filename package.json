@@ -1,0 +1,18 @@
+{
+  "name": "ismikeworking",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "fetch": "tsx src/build/fetch.ts",
+    "compile": "tsx src/build/compile.ts",
+    "build": "npm run compile && tsx src/build/render.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "esbuild": "^0.28.1",
+    "tsx": "^4.23.11",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.10"
+  }
+}

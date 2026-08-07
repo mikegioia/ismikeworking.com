@@ -1,0 +1,152 @@
+[
+  {
+    "competition": "EL",
+    "date": "2026-07-09",
+    "kickoffUtc": "2026-07-09T16:00:00Z",
+    "home": "Qarabağ",
+    "away": "Vestri",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-09",
+    "kickoffUtc": "2026-07-09T17:00:00Z",
+    "home": "Sheriff Tiraspol",
+    "away": "Aluminij",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-09",
+    "kickoffUtc": "2026-07-09T17:00:00Z",
+    "home": "Dynamo Kyiv",
+    "away": "Universitatea Cluj",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-09",
+    "kickoffUtc": "2026-07-09T18:00:00Z",
+    "home": "Hajduk Split",
+    "away": "Žilina",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-09",
+    "kickoffUtc": "2026-07-09T18:00:00Z",
+    "home": "Vojvodina",
+    "away": "Ferencváros",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-09",
+    "kickoffUtc": "2026-07-09T18:00:00Z",
+    "home": "CSKA Sofia",
+    "away": "Derry City",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-16",
+    "kickoffUtc": "2026-07-16T18:15:00Z",
+    "home": "Ferencváros",
+    "away": "Vojvodina",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-16",
+    "kickoffUtc": "2026-07-16T17:30:00Z",
+    "home": "Derry City",
+    "away": "CSKA Sofia",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-16",
+    "kickoffUtc": "2026-07-16T17:30:00Z",
+    "home": "Universitatea Cluj",
+    "away": "Dynamo Kyiv",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-16",
+    "kickoffUtc": "2026-07-16T18:30:00Z",
+    "home": "Žilina",
+    "away": "Hajduk Split",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-16",
+    "kickoffUtc": "2026-07-16T20:00:00Z",
+    "home": "Vestri",
+    "away": "Qarabağ",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-16",
+    "kickoffUtc": "2026-07-16T18:00:00Z",
+    "home": "Aluminij",
+    "away": "Sheriff Tiraspol",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-23",
+    "kickoffUtc": "2026-07-23T17:00:00Z",
+    "home": "Hammarby",
+    "away": "Anderlecht",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-23",
+    "kickoffUtc": "2026-07-23T18:00:00Z",
+    "home": "Beşiktaş",
+    "away": "FC Midtjylland",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "EL",
+    "date": "2026-07-23",
+    "kickoffUtc": "2026-07-23T18:00:00Z",
+    "home": "St. Gallen",
+    "away": "Benfica",
+    "round": "400",
+    "isFinal": false,
+    "isKnockout": false
+  }
+]

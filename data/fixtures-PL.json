@@ -1,0 +1,152 @@
+[
+  {
+    "competition": "PL",
+    "date": "2026-08-21",
+    "kickoffUtc": "2026-08-21T19:00:00Z",
+    "home": "Arsenal",
+    "away": "Coventry City",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-22",
+    "kickoffUtc": "2026-08-22T11:30:00Z",
+    "home": "Hull City",
+    "away": "Manchester United",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-22",
+    "kickoffUtc": "2026-08-22T14:00:00Z",
+    "home": "Everton",
+    "away": "Crystal Palace",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-22",
+    "kickoffUtc": "2026-08-22T14:00:00Z",
+    "home": "Ipswich Town",
+    "away": "Sunderland",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-22",
+    "kickoffUtc": "2026-08-22T14:00:00Z",
+    "home": "Nottingham Forest",
+    "away": "Leeds United",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-22",
+    "kickoffUtc": "2026-08-22T16:30:00Z",
+    "home": "Brentford",
+    "away": "Tottenham Hotspur",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-23",
+    "kickoffUtc": "2026-08-23T13:00:00Z",
+    "home": "Manchester City",
+    "away": "Bournemouth",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-23",
+    "kickoffUtc": "2026-08-23T13:00:00Z",
+    "home": "Brighton and Hove Albion",
+    "away": "Aston Villa",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-23",
+    "kickoffUtc": "2026-08-23T15:30:00Z",
+    "home": "Newcastle United",
+    "away": "Liverpool",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-24",
+    "kickoffUtc": "2026-08-24T19:00:00Z",
+    "home": "Fulham",
+    "away": "Chelsea",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-28",
+    "kickoffUtc": "2026-08-28T19:00:00Z",
+    "home": "Crystal Palace",
+    "away": "Manchester City",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-29",
+    "kickoffUtc": "2026-08-29T14:00:00Z",
+    "home": "Bournemouth",
+    "away": "Everton",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-29",
+    "kickoffUtc": "2026-08-29T11:30:00Z",
+    "home": "Liverpool",
+    "away": "Nottingham Forest",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-29",
+    "kickoffUtc": "2026-08-29T16:30:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Newcastle United",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-08-29",
+    "kickoffUtc": "2026-08-29T14:00:00Z",
+    "home": "Coventry City",
+    "away": "Hull City",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  }
+]

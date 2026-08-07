@@ -1,4 +1,5 @@
-*.key
-.DS_Store
-archive
+node_modules/
 web/index.html
+web/assets/
+data/daybrief.json
+.superpowers/

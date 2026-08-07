@@ -1,0 +1,58 @@
+{
+  "schoolTerms": [
+    { "start": "2025-09-02", "end": "2026-06-12" },
+    { "start": "2026-09-08", "end": "2027-06-11" }
+  ],
+  "vacations": [
+    { "start": "2025-12-22", "end": "2026-01-02", "title": "Christmas break" },
+    { "start": "2026-03-30", "end": "2026-04-06", "title": "Easter break" }
+  ],
+  "holidays": {
+    "01-01": {
+      "title": "New Year's Day",
+      "reason": "New Year's Day is one of the best days to get stuff done!",
+      "weight": 25
+    },
+    "02-22": {
+      "title": "Steve Irwin's Birthday",
+      "reason": "It's Steve Irwin's Birthday, which Mike observes outdoors!",
+      "weight": -40
+    },
+    "03-03": {
+      "title": "World Wildlife Day",
+      "reason": "It's World Wildlife Day, which Mike observes at a state or national park!",
+      "weight": -40
+    },
+    "04-22": {
+      "title": "Earth Day",
+      "reason": "It's Earth Day, which Mike observes by planting trees outside!",
+      "weight": -40
+    },
+    "08-20": {
+      "title": "Mike's Birthday",
+      "reason": "It's Mike's (and Andrew's) birthday today!!!",
+      "weight": -100,
+      "hardOverride": "NO WAY"
+    },
+    "08-22": {
+      "title": "National Honey Bee Day",
+      "reason": "It's National Honey Bee Day, which Mike observes outdoors in the garden!",
+      "weight": -40
+    },
+    "09-12": {
+      "title": "Ashley's Birthday",
+      "reason": "It's Ashley's birthday today!",
+      "weight": -60
+    },
+    "11-15": {
+      "title": "Steve Irwin Day",
+      "reason": "It's Steve Irwin Day, which Mike observes by repeat-watching his farewell documentary.",
+      "weight": -40
+    },
+    "12-25": {
+      "title": "Christmas",
+      "reason": "Christmas is one of the best days to get stuff done!",
+      "weight": 25
+    }
+  }
+}

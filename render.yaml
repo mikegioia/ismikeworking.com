@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: ismikeworking
+    buildCommand: npm ci && npm run build
+    staticPublishPath: web
