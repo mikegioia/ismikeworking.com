@@ -10,7 +10,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 </head>
-<body class="level-{{LEVEL}}">
+<body class="theme-jewel level-{{LEVEL}}">
   <main>
     <p class="question">Is Mike working?</p>
     <h1 id="verdict">{{VERDICT}}</h1>
@@ -19,7 +19,14 @@
       <summary>why?</summary>
       <div id="breakdown">{{BREAKDOWN}}</div>
     </details>
-    <footer><small id="updated">as of {{TIMESTAMP}}</small></footer>
+    <footer>
+      <small id="updated">as of {{TIMESTAMP}}</small>
+      <div class="themes" id="themes">
+        <button class="swatch-jewel" data-theme="jewel" title="Jewel" aria-label="Jewel theme"></button>
+        <button class="swatch-twilight" data-theme="twilight" title="Twilight" aria-label="Twilight theme"></button>
+        <button class="swatch-soft" data-theme="soft" title="Soft Serve" aria-label="Soft Serve theme"></button>
+      </div>
+    </footer>
   </main>
   <script type="module" src="/assets/main.js"></script>
 </body>

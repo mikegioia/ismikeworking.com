@@ -9,15 +9,46 @@ body {
   font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   text-align: center;
   color: #fff;
-  transition: background-color 0.8s ease;
+  --ink: rgba(255, 255, 255, 1);
+  --line: rgba(255, 255, 255, 0.2);
+  --underline: rgba(255, 255, 255, 0.7);
+  transition: background-color 0.8s ease, color 0.8s ease;
 }
 
-body.level-1 { background: #15803d; }
-body.level-2 { background: #4d7c0f; }
-body.level-3 { background: #b45309; }
-body.level-4 { background: #c2410c; }
-body.level-5 { background: #b91c1c; }
-body.level-6 { background: #7f1d1d; }
+/* Jewel (default) — emerald, sapphire, amethyst, garnet */
+body.theme-jewel.level-1 { background: #065f46; }
+body.theme-jewel.level-2 { background: #155e75; }
+body.theme-jewel.level-3 { background: #5b21b6; }
+body.theme-jewel.level-4 { background: #9d174d; }
+body.theme-jewel.level-5 { background: #991b1b; }
+body.theme-jewel.level-6 { background: #450a0a; }
+
+/* Twilight — one blue -> violet -> magenta -> berry sweep */
+body.theme-twilight.level-1 { background: #2563eb; }
+body.theme-twilight.level-2 { background: #4f46e5; }
+body.theme-twilight.level-3 { background: #7c3aed; }
+body.theme-twilight.level-4 { background: #a21caf; }
+body.theme-twilight.level-5 { background: #be185d; }
+body.theme-twilight.level-6 { background: #881337; }
+
+/* Soft Serve — pastels with ink text; NO WAY stays loud with white text */
+body.theme-soft.level-1 { background: #a7f3d0; }
+body.theme-soft.level-2 { background: #bae6fd; }
+body.theme-soft.level-3 { background: #fde68a; }
+body.theme-soft.level-4 { background: #fed7aa; }
+body.theme-soft.level-5 { background: #fda4af; }
+body.theme-soft.level-6 { background: #f43f5e; }
+
+body.theme-soft {
+  color: #1c1917;
+  --line: rgba(0, 0, 0, 0.25);
+  --underline: rgba(0, 0, 0, 0.6);
+}
+body.theme-soft.level-6 {
+  color: #fff;
+  --line: rgba(255, 255, 255, 0.2);
+  --underline: rgba(255, 255, 255, 0.7);
+}
 
 main { padding: 2rem 1.25rem; max-width: 46rem; }
 
@@ -41,13 +72,35 @@ h1 {
 .reason { font-size: 1.4rem; margin: 0 auto 2rem; max-width: 34ch; text-wrap: balance; }
 
 .why { font-size: 0.95rem; opacity: 0.9; }
-.why summary { cursor: pointer; display: inline-block; border-bottom: 1px dotted rgba(255,255,255,0.7); }
+.why summary { cursor: pointer; display: inline-block; border-bottom: 1px dotted var(--underline); }
 .why[open] summary { margin-bottom: 0.75rem; }
 .why ul { list-style: none; margin: 0 auto; padding: 0; max-width: 24rem; text-align: left; }
 .why li {
   display: flex; justify-content: space-between; gap: 1rem;
-  padding: 0.3rem 0; border-bottom: 1px solid rgba(255,255,255,0.2);
+  padding: 0.3rem 0; border-bottom: 1px solid var(--line);
 }
 .why .math { margin-top: 0.75rem; font-variant-numeric: tabular-nums; }
 
 footer { margin-top: 2.5rem; opacity: 0.6; }
+
+.themes {
+  margin-top: 1.25rem;
+  display: flex;
+  justify-content: center;
+  gap: 0.6rem;
+}
+.themes button {
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 50%;
+  border: 2px solid var(--line);
+  cursor: pointer;
+  padding: 0;
+}
+.themes button[aria-pressed="true"] {
+  border-color: var(--underline);
+  transform: scale(1.15);
+}
+.themes .swatch-jewel { background: linear-gradient(135deg, #065f46 50%, #5b21b6 50%); }
+.themes .swatch-twilight { background: linear-gradient(135deg, #2563eb 50%, #be185d 50%); }
+.themes .swatch-soft { background: linear-gradient(135deg, #a7f3d0 50%, #fde68a 50%); }
