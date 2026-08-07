@@ -19,7 +19,7 @@ const date = dateArgIndex >= 0 ? process.argv[dateArgIndex + 1] : nyDateString(D
 const fixtures: Fixture[] = [
   ...readJson<Fixture[]>('data/fixtures-PL.json', []),
   ...readJson<Fixture[]>('data/fixtures-CL.json', []),
-  ...readJson<Fixture[]>('data/fixtures-EL.json', []),
+  ...readJson<Fixture[]>('data/fixtures-LFC.json', []),
 ];
 
 const brief = buildBrief({

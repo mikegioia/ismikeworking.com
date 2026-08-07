@@ -1,5 +1,11 @@
 import { describe, it, expect } from 'vitest';
-import { seasonSlug, normalizeEvents, roundCodes, dedupeEvents } from '../src/providers/football';
+import {
+  seasonSlug,
+  normalizeEvents,
+  normalizeTeamEvents,
+  roundCodes,
+  dedupeEvents,
+} from '../src/providers/football';
 import { normalizeForecast } from '../src/providers/weather';
 
 describe('seasonSlug', () => {
@@ -66,6 +72,46 @@ describe('normalizeEvents', () => {
       'EL'
     );
     expect(fx[0].isFinal).toBe(true);
+  });
+});
+
+describe('normalizeTeamEvents', () => {
+  const raw = [
+    {
+      strHomeTeam: 'Liverpool', strAwayTeam: 'Monaco',
+      dateEvent: '2026-08-09', strTimestamp: '2026-08-09T13:30:00',
+      intRound: '0', strLeague: 'Club Friendlies',
+    },
+    {
+      strHomeTeam: 'Liverpool', strAwayTeam: 'Everton',
+      dateEvent: '2026-10-03', strTimestamp: '2026-10-03T14:00:00',
+      intRound: '7', strLeague: 'English Premier League',
+    },
+    {
+      strHomeTeam: 'Real Madrid', strAwayTeam: 'Liverpool',
+      dateEvent: '2026-11-04', strTimestamp: '2026-11-04T20:00:00',
+      intRound: '4', strLeague: 'UEFA Champions League',
+    },
+  ];
+
+  it('maps strLeague to the known competitions', () => {
+    const fx = normalizeTeamEvents(raw);
+    expect(fx.map((f) => f.competition)).toEqual(['CUP', 'PL', 'CL']);
+  });
+
+  it('normalizes the same fields as league events', () => {
+    const fx = normalizeTeamEvents(raw);
+    expect(fx[1]).toMatchObject({
+      home: 'Liverpool',
+      away: 'Everton',
+      date: '2026-10-03',
+      kickoffUtc: '2026-10-03T14:00:00Z',
+      round: '7',
+    });
+  });
+
+  it('drops malformed events', () => {
+    expect(normalizeTeamEvents([{ strHomeTeam: null, dateEvent: '2026-08-09' }])).toHaveLength(0);
   });
 });
 

@@ -17,8 +17,16 @@ export function buildBrief(input: BriefInput): DayBrief {
   const { startMs, endMs } = dayBounds(date);
   const weekday = nyParts(startMs + 12 * HOUR_MS).weekday;
 
+  // The Liverpool team feed overlaps the league feeds, so dedupe by matchup.
+  const seen = new Set<string>();
   const matches: Match[] = fixtures
-    .filter((f) => f.date === date)
+    .filter((f) => {
+      if (f.date !== date) return false;
+      const key = `${f.date}|${f.home}|${f.away}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
     .map((f) => ({
       competition: f.competition,
       home: f.home,

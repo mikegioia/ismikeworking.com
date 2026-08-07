@@ -1,5 +1,5 @@
 export interface Fixture {
-  competition: 'PL' | 'CL' | 'EL';
+  competition: 'PL' | 'CL' | 'EL' | 'CUP';
   date: string;
   kickoffUtc: string | null;
   home: string;
@@ -10,6 +10,15 @@ export interface Fixture {
 }
 
 export const LEAGUE_IDS = { PL: 4328, CL: 4480, EL: 4481 } as const;
+
+export const LIVERPOOL_TEAM_ID = 133602;
+
+/** strLeague values from team feeds mapped to our competition codes; anything else is CUP. */
+const LEAGUE_NAMES: Record<string, Fixture['competition']> = {
+  'English Premier League': 'PL',
+  'UEFA Champions League': 'CL',
+  'UEFA Europa League': 'EL',
+};
 
 const KNOCKOUT_ROUNDS = new Set(['125', '150', '160', '200']);
 
@@ -28,6 +37,7 @@ interface RawEvent {
   intRound?: string | null;
   strEvent?: string | null;
   strFilename?: string | null;
+  strLeague?: string | null;
 }
 
 /**
@@ -64,29 +74,45 @@ export function dedupeEvents(events: RawEvent[]): RawEvent[] {
   return unique;
 }
 
+function normalizeEvent(raw: RawEvent, competition: Fixture['competition']): Fixture | null {
+  if (!raw?.strHomeTeam || !raw.strAwayTeam || !raw.dateEvent) return null;
+  const round = raw.intRound ?? '';
+  const nameHasFinal =
+    /\bFinal\b/i.test(raw.strEvent ?? '') || /\bFinal\b/i.test(raw.strFilename ?? '');
+  const isFinal = round === '160' || nameHasFinal;
+  const month = Number(raw.dateEvent.slice(5, 7));
+  const isKnockout =
+    isFinal ||
+    KNOCKOUT_ROUNDS.has(round) ||
+    ((competition === 'CL' || competition === 'EL') && month >= 2 && month <= 6);
+  return {
+    competition,
+    date: raw.dateEvent,
+    kickoffUtc: raw.strTimestamp ? `${raw.strTimestamp.replace(/Z?$/, '')}Z` : null,
+    home: raw.strHomeTeam,
+    away: raw.strAwayTeam,
+    round,
+    isFinal,
+    isKnockout,
+  };
+}
+
 export function normalizeEvents(events: unknown[], competition: Fixture['competition']): Fixture[] {
   const fixtures: Fixture[] = [];
   for (const raw of events as RawEvent[]) {
-    if (!raw?.strHomeTeam || !raw.strAwayTeam || !raw.dateEvent) continue;
-    const round = raw.intRound ?? '';
-    const nameHasFinal =
-      /\bFinal\b/i.test(raw.strEvent ?? '') || /\bFinal\b/i.test(raw.strFilename ?? '');
-    const isFinal = round === '160' || nameHasFinal;
-    const month = Number(raw.dateEvent.slice(5, 7));
-    const isKnockout =
-      isFinal ||
-      KNOCKOUT_ROUNDS.has(round) ||
-      (competition !== 'PL' && month >= 2 && month <= 6);
-    fixtures.push({
-      competition,
-      date: raw.dateEvent,
-      kickoffUtc: raw.strTimestamp ? `${raw.strTimestamp.replace(/Z?$/, '')}Z` : null,
-      home: raw.strHomeTeam,
-      away: raw.strAwayTeam,
-      round,
-      isFinal,
-      isKnockout,
-    });
+    const fixture = normalizeEvent(raw, competition);
+    if (fixture) fixtures.push(fixture);
+  }
+  return fixtures;
+}
+
+/** Normalize a team feed, where each event carries its own competition via strLeague. */
+export function normalizeTeamEvents(events: unknown[]): Fixture[] {
+  const fixtures: Fixture[] = [];
+  for (const raw of events as RawEvent[]) {
+    const competition = LEAGUE_NAMES[raw?.strLeague ?? ''] ?? 'CUP';
+    const fixture = normalizeEvent(raw, competition);
+    if (fixture) fixtures.push(fixture);
   }
   return fixtures;
 }
@@ -118,7 +144,7 @@ async function getEvents(url: string): Promise<RawEvent[]> {
  * whole sweep produced nothing, so the caller keeps its existing data file.
  */
 export async function fetchFixtures(
-  competition: Fixture['competition'],
+  competition: keyof typeof LEAGUE_IDS,
   season: string
 ): Promise<Fixture[]> {
   const key = process.env.THESPORTSDB_KEY ?? '123';
@@ -155,4 +181,17 @@ export async function fetchFixtures(
   }
 
   return fixtures;
+}
+
+/**
+ * Fetches Liverpool's upcoming fixtures across ALL competitions (cups,
+ * friendlies, European games) via the team feed. The free tier returns
+ * only the next handful of events, but the daily refresh keeps that
+ * rolling window covering today, which is all the engine needs.
+ * An empty result is legitimate (e.g. season over), not an error.
+ */
+export async function fetchLiverpoolFixtures(): Promise<Fixture[]> {
+  const key = process.env.THESPORTSDB_KEY ?? '123';
+  const url = `https://www.thesportsdb.com/api/v1/json/${key}/eventsnext.php?id=${LIVERPOOL_TEAM_ID}`;
+  return normalizeTeamEvents(await getEvents(url));
 }

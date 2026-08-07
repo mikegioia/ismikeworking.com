@@ -30,10 +30,17 @@ calendar into one of: **Yes.** · **Probably** · **Hmm… maybe?** · **No** ·
 **TheSportsDB key:** The free key (`123`) caps `eventsseason` responses at 15
 events, so the fetcher pages `eventsround.php` per round instead and merges the
 season endpoint in as a backstop — full-season data on the free tier. The sweep
-paces itself under the ~30 req/min rate limit (about 5 minutes; tune with
-`FETCH_DELAY_MS`, default 2500) and backs off once on HTTP 429. A premium key
-via the `THESPORTSDB_KEY` environment variable also works and can be paced
+paces itself under the ~30 req/min rate limit (~62 calls, about 3 minutes; tune
+with `FETCH_DELAY_MS`, default 2500) and backs off once on HTTP 429. A premium
+key via the `THESPORTSDB_KEY` environment variable also works and can be paced
 faster.
+
+**What gets fetched:** the full Premier League and Champions League seasons,
+plus Liverpool's upcoming fixtures across ALL competitions (`eventsnext` team
+feed — catches cup ties and friendlies the league feeds miss; deduped against
+them at compile time). The Europa League is toggled off for 2026-27 since
+Liverpool aren't in it — re-enable by restoring its lines in
+`src/build/fetch.ts` and `src/build/compile.ts`.
 
 ## Tuning the rules
 

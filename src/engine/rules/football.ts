@@ -5,7 +5,12 @@ export const BIG_TEAMS = [
   'Liverpool', 'Manchester City', 'Arsenal', 'Manchester United', 'Chelsea', 'Tottenham Hotspur',
 ];
 
-const COMP_NAMES = { PL: 'Premier League', CL: 'Champions League', EL: 'Europa League' } as const;
+const COMP_NAMES = {
+  PL: 'Premier League',
+  CL: 'Champions League',
+  EL: 'Europa League',
+  CUP: 'Cup',
+} as const;
 
 function matchWindow(m: Match, brief: DayBrief): { window: TimeWindow; confidence: number } {
   if (m.kickoffMs === null) {

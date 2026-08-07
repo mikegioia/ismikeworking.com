@@ -11,7 +11,7 @@ export interface Signal {
   hardOverride?: VerdictText;
 }
 export interface Match {
-  competition: 'PL' | 'CL' | 'EL';
+  competition: 'PL' | 'CL' | 'EL' | 'CUP';
   home: string;
   away: string;
   kickoffMs: number | null;
