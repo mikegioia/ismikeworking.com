@@ -23,10 +23,25 @@
       "reason": "It's World Wildlife Day, which Mike observes at a state or national park!",
       "weight": -40
     },
+    "03-26": {
+      "title": "Aurelio's Birthday",
+      "reason": "It's Aurelio's birthday today!",
+      "weight": -60
+    },
     "04-22": {
       "title": "Earth Day",
       "reason": "It's Earth Day, which Mike observes by planting trees outside!",
       "weight": -40
+    },
+    "07-22": {
+      "title": "Rocco's Birthday",
+      "reason": "It's Rocco's birthday today!",
+      "weight": -60
+    },
+    "08-09": {
+      "title": "Antonio's Birthday",
+      "reason": "It's Antonio's birthday today!",
+      "weight": -60
     },
     "08-20": {
       "title": "Mike's Birthday",
