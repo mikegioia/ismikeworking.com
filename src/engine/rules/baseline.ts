@@ -15,6 +15,14 @@ export const baselineRule: Rule = (brief) => {
       window: { startMs: at(9), endMs: at(23) },
       reason: 'No school today — a full project day at the desk.',
     });
+    signals.push({
+      id: 'weekday',
+      label: 'Weekday',
+      weight: 20,
+      confidence: 1,
+      window: { startMs: at(9), endMs: at(23) },
+      reason: "It's a weekday and Mike is on the clock.",
+    });
   }
 
   if (isWeekend) {

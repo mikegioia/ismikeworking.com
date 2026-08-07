@@ -51,10 +51,10 @@ describe('assess — full-engine scenarios', () => {
     expect(assess(brief, nyTimeToMs(D, 20, 0)).verdict.text).toBe('Probably'); // +40
   });
 
-  it('plain summer Tuesday afternoon: Probably; 1am: No', () => {
+  it('plain summer Tuesday afternoon: Yes; 1am: No', () => {
     const D = '2026-08-11';
     const brief = makeBrief(D);
-    expect(assess(brief, nyTimeToMs(D, 14, 0)).verdict.text).toBe('Probably'); // +35
+    expect(assess(brief, nyTimeToMs(D, 14, 0)).verdict.text).toBe('Yes.'); // +35 +20
     expect(assess(brief, nyTimeToMs(D, 1, 0)).verdict.text).toBe('No'); // -40
   });
 

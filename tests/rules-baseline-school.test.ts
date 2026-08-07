@@ -6,11 +6,12 @@ import { nyTimeToMs } from '../src/lib/time';
 import { makeBrief } from './helpers';
 
 describe('baselineRule', () => {
-  it('non-school weekday daytime is a project day', () => {
+  it('non-school weekday daytime is a full Yes: project day + weekday bonus', () => {
     const brief = makeBrief('2026-08-07');
     const a = combine(baselineRule(brief), nyTimeToMs('2026-08-07', 14, 0));
-    expect(a.score).toBe(35);
-    expect(a.signals.map((s) => s.id)).toEqual(['no-school-project-day']);
+    expect(a.score).toBe(55);
+    expect(a.signals.map((s) => s.id)).toEqual(['no-school-project-day', 'weekday']);
+    expect(a.verdict.text).toBe('Yes.');
   });
 
   it('weekend daytime is a weak yes', () => {
