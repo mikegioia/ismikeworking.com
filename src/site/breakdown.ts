@@ -1,4 +1,8 @@
-import type { Assessment } from '../engine/types';
+export interface BreakdownView {
+  verdict: { text: string };
+  score: number;
+  signals: { label: string; contribution: number }[];
+}
 
 function fmt(n: number): string {
   return n < 0 ? `−${Math.abs(n)}` : `+${n}`;
@@ -16,7 +20,7 @@ export function escapeHtml(s: string): string {
   return s.replace(/[&<>"']/g, (c) => ESCAPE_MAP[c]);
 }
 
-export function breakdownHtml(a: Assessment): string {
+export function breakdownHtml(a: BreakdownView): string {
   if (a.signals.length === 0) {
     return '<p class="math">No rules fired. The engine shrugs.</p>';
   }

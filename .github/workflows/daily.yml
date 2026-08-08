@@ -7,6 +7,10 @@ on:
     branches: [master]
   workflow_dispatch:
 
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -24,6 +28,8 @@ jobs:
       - run: npm run fetch
         env:
           THESPORTSDB_KEY: ${{ secrets.THESPORTSDB_KEY || '123' }}
+      - run: npm run compile
+      - run: npm run snapshot
       - name: Commit refreshed data
         run: |
           git config user.name "github-actions[bot]"

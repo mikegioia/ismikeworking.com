@@ -1,18 +1,16 @@
 import brief from '../../data/daybrief.json';
-import { assess } from '../engine/evaluate';
-import { breakdownHtml } from './breakdown';
-import { nyDateString } from '../lib/time';
 import { coerceTheme, themeClass, THEME_STORAGE_KEY, type Theme } from './theme';
-import type { Assessment, DayBrief } from '../engine/types';
+import { staleHint } from './stale';
+import {
+  calendarHtml, dayDetailHtml, monthKey, monthLabel, shiftMonth,
+} from './calendar';
+import { parseHistory, type HistoryFile } from '../lib/history';
+import { nyDateString } from '../lib/time';
+import type { DayBrief } from '../engine/types';
 
 const dayBrief = brief as unknown as DayBrief;
 
-const STALE: Assessment = {
-  verdict: { text: 'Probably', level: 2 },
-  score: 0,
-  headline: 'The data robot overslept — Mike is probably working.',
-  signals: [],
-};
+// --- Theme -----------------------------------------------------------------
 
 function loadTheme(): Theme {
   try {
@@ -32,33 +30,12 @@ function setTheme(next: Theme): void {
     // Private browsing or blocked storage — the choice just won't persist.
   }
   applyTheme();
-  render();
 }
 
 function applyTheme(): void {
   const html = document.documentElement;
   const ready = html.classList.contains('ready');
   html.className = themeClass(theme) + (ready ? ' ready' : '');
-}
-
-function currentAssessment(): Assessment {
-  const now = Date.now();
-  return nyDateString(now) === dayBrief.date ? assess(dayBrief, now) : STALE;
-}
-
-function render(): void {
-  const a = currentAssessment();
-  document.body.className = `level-${a.verdict.level}`;
-  document.getElementById('verdict')!.textContent = a.verdict.text;
-  document.getElementById('reason')!.textContent = a.headline;
-  document.getElementById('breakdown')!.innerHTML = breakdownHtml(a);
-  document.getElementById('updated')!.textContent =
-    'as of ' +
-    new Intl.DateTimeFormat('en-US', {
-      timeZone: 'America/New_York',
-      dateStyle: 'full',
-      timeStyle: 'short',
-    }).format(new Date());
   document.querySelectorAll<HTMLButtonElement>('#themes button').forEach((button) => {
     button.setAttribute('aria-pressed', String(button.dataset.theme === theme));
   });
@@ -69,8 +46,92 @@ document.querySelectorAll<HTMLButtonElement>('#themes button').forEach((button) 
 });
 
 applyTheme();
-render();
-setInterval(render, 60_000);
+
+// --- Stale hint ------------------------------------------------------------
+
+const hintEl = document.getElementById('stale-hint') as HTMLElement;
+function updateHint(): void {
+  const hint = staleHint(dayBrief.date, Date.now());
+  hintEl.textContent = hint ?? '';
+  hintEl.hidden = hint === null;
+}
+updateHint();
+document.addEventListener('visibilitychange', () => {
+  if (!document.hidden) updateHint();
+});
+
+// --- History calendar ------------------------------------------------------
+
+const section = document.getElementById('history') as HTMLElement;
+const toggleBtn = document.getElementById('history-toggle') as HTMLButtonElement;
+const titleEl = document.getElementById('cal-title') as HTMLElement;
+const gridEl = document.getElementById('cal-grid') as HTMLElement;
+const detailEl = document.getElementById('cal-detail') as HTMLElement;
+const prevBtn = document.getElementById('cal-prev') as HTMLButtonElement;
+const nextBtn = document.getElementById('cal-next') as HTMLButtonElement;
+
+let history: HistoryFile | null = null;
+let selected: string | null = null;
+const today = () => nyDateString(Date.now());
+let view = { year: Number(today().slice(0, 4)), month: Number(today().slice(5, 7)) };
+
+function viewKey(): string {
+  return `${view.year}-${String(view.month).padStart(2, '0')}`;
+}
+
+function renderCalendar(): void {
+  if (!history) return;
+  const dates = Object.keys(history.days).sort();
+  const earliest = dates.length ? monthKey(dates[0]) : monthKey(today());
+  const latest = monthKey(today());
+  titleEl.textContent = monthLabel(view.year, view.month);
+  gridEl.innerHTML = calendarHtml(history.days, view.year, view.month, selected);
+  prevBtn.disabled = viewKey() <= earliest;
+  nextBtn.disabled = viewKey() >= latest;
+  const entry = selected ? history.days[selected] : undefined;
+  detailEl.innerHTML =
+    selected && entry
+      ? `<div class="cal-detail-panel">${dayDetailHtml(selected, entry)}</div>`
+      : '';
+}
+
+async function openHistory(): Promise<void> {
+  if (!history) {
+    try {
+      const res = await fetch('/assets/history.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      history = parseHistory(await res.text());
+    } catch {
+      gridEl.innerHTML = '<p class="math">history unavailable</p>';
+      return;
+    }
+  }
+  renderCalendar();
+}
+
+toggleBtn.addEventListener('click', () => {
+  const opening = section.hidden;
+  section.hidden = !opening;
+  toggleBtn.setAttribute('aria-expanded', String(opening));
+  if (opening) void openHistory();
+});
+
+prevBtn.addEventListener('click', () => {
+  view = shiftMonth(view.year, view.month, -1);
+  renderCalendar();
+});
+
+nextBtn.addEventListener('click', () => {
+  view = shiftMonth(view.year, view.month, 1);
+  renderCalendar();
+});
+
+gridEl.addEventListener('click', (e) => {
+  const cell = (e.target as HTMLElement).closest<HTMLButtonElement>('button.cal-day');
+  if (!cell?.dataset.date) return;
+  selected = selected === cell.dataset.date ? null : cell.dataset.date;
+  renderCalendar();
+});
 
 // Arm the crossfade only after the first frame has painted, so theme and
 // verdict colors can never animate in during page load.

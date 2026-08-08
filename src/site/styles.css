@@ -21,28 +21,26 @@ html.ready body {
 }
 
 /* Jewel (default) — emerald, sapphire, amethyst, garnet */
-html.theme-jewel body.level-1 { background: #065f46; }
-html.theme-jewel body.level-2 { background: #155e75; }
-html.theme-jewel body.level-3 { background: #5b21b6; }
-html.theme-jewel body.level-4 { background: #9d174d; }
-html.theme-jewel body.level-5 { background: #991b1b; }
-html.theme-jewel body.level-6 { background: #450a0a; }
-
+html.theme-jewel {
+  --lvl-1: #065f46; --lvl-2: #155e75; --lvl-3: #5b21b6;
+  --lvl-4: #9d174d; --lvl-5: #991b1b; --lvl-6: #450a0a;
+}
 /* Twilight — one blue -> violet -> magenta -> berry sweep */
-html.theme-twilight body.level-1 { background: #2563eb; }
-html.theme-twilight body.level-2 { background: #4f46e5; }
-html.theme-twilight body.level-3 { background: #7c3aed; }
-html.theme-twilight body.level-4 { background: #a21caf; }
-html.theme-twilight body.level-5 { background: #be185d; }
-html.theme-twilight body.level-6 { background: #881337; }
-
+html.theme-twilight {
+  --lvl-1: #2563eb; --lvl-2: #4f46e5; --lvl-3: #7c3aed;
+  --lvl-4: #a21caf; --lvl-5: #be185d; --lvl-6: #881337;
+}
 /* Soft Serve — pastels with ink text; NO WAY stays loud with white text */
-html.theme-soft body.level-1 { background: #a7f3d0; }
-html.theme-soft body.level-2 { background: #bae6fd; }
-html.theme-soft body.level-3 { background: #fde68a; }
-html.theme-soft body.level-4 { background: #fed7aa; }
-html.theme-soft body.level-5 { background: #fda4af; }
-html.theme-soft body.level-6 { background: #f43f5e; }
+html.theme-soft {
+  --lvl-1: #a7f3d0; --lvl-2: #bae6fd; --lvl-3: #fde68a;
+  --lvl-4: #fed7aa; --lvl-5: #fda4af; --lvl-6: #f43f5e;
+}
+body.level-1 { background: var(--lvl-1); }
+body.level-2 { background: var(--lvl-2); }
+body.level-3 { background: var(--lvl-3); }
+body.level-4 { background: var(--lvl-4); }
+body.level-5 { background: var(--lvl-5); }
+body.level-6 { background: var(--lvl-6); }
 
 html.theme-soft body {
   color: #1c1917;
@@ -88,6 +86,8 @@ h1 {
 
 footer { margin-top: 2.5rem; opacity: 0.6; }
 
+.stale-hint:not([hidden]) { display: block; margin-top: 0.35rem; opacity: 0.8; }
+
 .themes {
   margin-top: 1.25rem;
   display: flex;
@@ -109,3 +109,43 @@ footer { margin-top: 2.5rem; opacity: 0.6; }
 .themes .swatch-jewel { background: linear-gradient(135deg, #065f46 50%, #5b21b6 50%); }
 .themes .swatch-twilight { background: linear-gradient(135deg, #2563eb 50%, #be185d 50%); }
 .themes .swatch-soft { background: linear-gradient(135deg, #a7f3d0 50%, #fde68a 50%); }
+
+.history-link {
+  background: none; border: none; color: inherit; font: inherit;
+  cursor: pointer; opacity: 0.7; border-bottom: 1px dotted var(--underline);
+  padding: 0;
+}
+.history-link:hover { opacity: 1; }
+
+.history { margin-top: 1.5rem; }
+.cal-nav {
+  display: flex; align-items: center; justify-content: center;
+  gap: 1rem; margin-bottom: 0.75rem;
+}
+.cal-nav button {
+  background: none; border: none; color: inherit; font: inherit;
+  cursor: pointer; opacity: 0.7;
+}
+.cal-nav button:disabled { opacity: 0.2; cursor: default; }
+
+.cal-grid {
+  display: grid; grid-template-columns: repeat(7, 2.2rem);
+  gap: 0.25rem; justify-content: center;
+}
+.cal-dow { font-size: 0.7rem; opacity: 0.6; text-align: center; }
+.cal-cell {
+  height: 2.2rem; display: flex; align-items: center; justify-content: center;
+  font-size: 0.8rem; border-radius: 0.35rem; border: none; color: inherit;
+}
+.cal-blank { opacity: 0.35; }
+.cal-day { cursor: pointer; border: 2px solid transparent; }
+.cal-day.lvl-1 { background: var(--lvl-1); }
+.cal-day.lvl-2 { background: var(--lvl-2); }
+.cal-day.lvl-3 { background: var(--lvl-3); }
+.cal-day.lvl-4 { background: var(--lvl-4); }
+.cal-day.lvl-5 { background: var(--lvl-5); }
+.cal-day.lvl-6 { background: var(--lvl-6); }
+.cal-day.cal-selected { border-color: var(--underline); }
+
+.cal-detail-panel { margin-top: 1rem; }
+.cal-detail-panel h2 { font-size: 1rem; margin-bottom: 0.25rem; }

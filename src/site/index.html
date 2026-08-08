@@ -21,13 +21,24 @@
       <div id="breakdown">{{BREAKDOWN}}</div>
     </details>
     <footer>
-      <small id="updated">as of {{TIMESTAMP}}</small>
+      <small id="updated">report for {{REPORT_DATE}}</small>
+      <small class="stale-hint" id="stale-hint" hidden></small>
       <div class="themes" id="themes">
         <button class="swatch-jewel" data-theme="jewel" title="Jewel" aria-label="Jewel theme"></button>
         <button class="swatch-twilight" data-theme="twilight" title="Twilight" aria-label="Twilight theme"></button>
         <button class="swatch-soft" data-theme="soft" title="Soft Serve" aria-label="Soft Serve theme"></button>
       </div>
+      <button class="history-link" id="history-toggle" aria-expanded="false">history</button>
     </footer>
+    <section class="history" id="history" hidden>
+      <div class="cal-nav">
+        <button id="cal-prev" aria-label="Previous month">◀</button>
+        <span id="cal-title"></span>
+        <button id="cal-next" aria-label="Next month">▶</button>
+      </div>
+      <div id="cal-grid"></div>
+      <div id="cal-detail"></div>
+    </section>
   </main>
   <script type="module" src="/assets/main.js"></script>
 </body>

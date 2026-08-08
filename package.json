@@ -6,6 +6,7 @@
     "test": "vitest run",
     "fetch": "tsx src/build/fetch.ts",
     "compile": "tsx src/build/compile.ts",
+    "snapshot": "tsx src/build/snapshot.ts",
     "build": "npm run compile && tsx src/build/render.ts"
   },
   "devDependencies": {
