@@ -2,7 +2,7 @@ name: Daily data refresh
 
 on:
   schedule:
-    - cron: "30 8 * * *" # 4:30am EDT / 3:30am EST
+    - cron: "17 6 * * *" # 2:17am EDT / 1:17am EST — must stay after midnight ET year-round
   push:
     branches: [master]
   workflow_dispatch:
