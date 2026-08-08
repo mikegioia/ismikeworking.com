@@ -2,7 +2,7 @@ import brief from '../../data/daybrief.json';
 import { assess } from '../engine/evaluate';
 import { breakdownHtml } from './breakdown';
 import { nyDateString } from '../lib/time';
-import { bodyClass, coerceTheme, THEME_STORAGE_KEY, type Theme } from './theme';
+import { coerceTheme, themeClass, THEME_STORAGE_KEY, type Theme } from './theme';
 import type { Assessment, DayBrief } from '../engine/types';
 
 const dayBrief = brief as unknown as DayBrief;
@@ -31,7 +31,14 @@ function setTheme(next: Theme): void {
   } catch {
     // Private browsing or blocked storage — the choice just won't persist.
   }
+  applyTheme();
   render();
+}
+
+function applyTheme(): void {
+  const html = document.documentElement;
+  const ready = html.classList.contains('ready');
+  html.className = themeClass(theme) + (ready ? ' ready' : '');
 }
 
 function currentAssessment(): Assessment {
@@ -41,7 +48,7 @@ function currentAssessment(): Assessment {
 
 function render(): void {
   const a = currentAssessment();
-  document.body.className = bodyClass(theme, a.verdict.level);
+  document.body.className = `level-${a.verdict.level}`;
   document.getElementById('verdict')!.textContent = a.verdict.text;
   document.getElementById('reason')!.textContent = a.headline;
   document.getElementById('breakdown')!.innerHTML = breakdownHtml(a);
@@ -61,5 +68,12 @@ document.querySelectorAll<HTMLButtonElement>('#themes button').forEach((button) 
   button.addEventListener('click', () => setTheme(coerceTheme(button.dataset.theme)));
 });
 
+applyTheme();
 render();
 setInterval(render, 60_000);
+
+// Arm the crossfade only after the first frame has painted, so theme and
+// verdict colors can never animate in during page load.
+requestAnimationFrame(() => {
+  requestAnimationFrame(() => document.documentElement.classList.add('ready'));
+});

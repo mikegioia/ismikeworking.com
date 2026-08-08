@@ -4,7 +4,7 @@ import {
   DEFAULT_THEME,
   THEME_STORAGE_KEY,
   coerceTheme,
-  bodyClass,
+  themeClass,
   themeBootScript,
 } from '../src/site/theme';
 
@@ -22,14 +22,15 @@ describe('themes', () => {
     expect(coerceTheme(undefined)).toBe('jewel');
   });
 
-  it('composes the body class from theme and level', () => {
-    expect(bodyClass('jewel', 6)).toBe('theme-jewel level-6');
-    expect(bodyClass('soft', 1)).toBe('theme-soft level-1');
+  it('names the html theme class', () => {
+    expect(themeClass('jewel')).toBe('theme-jewel');
+    expect(themeClass('soft')).toBe('theme-soft');
   });
 
-  it('generates a boot script carrying the storage key and every theme', () => {
+  it('generates a boot script targeting documentElement with the storage key and every theme', () => {
     const script = themeBootScript();
     expect(script).toContain(THEME_STORAGE_KEY);
+    expect(script).toContain('documentElement');
     for (const theme of THEMES) {
       expect(script).toContain(theme);
     }
