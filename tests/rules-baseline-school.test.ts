@@ -14,6 +14,23 @@ describe('baselineRule', () => {
     expect(a.verdict.text).toBe('Yes.');
   });
 
+  it('summer weekdays get the summer copy', () => {
+    const brief = makeBrief('2026-08-07'); // August, out of term
+    const a = combine(baselineRule(brief), nyTimeToMs('2026-08-07', 14, 0));
+    const projectDay = a.signals.find((s) => s.id === 'no-school-project-day')!;
+    expect(projectDay.label).toBe('Summer weekday');
+    expect(projectDay.reason).toBe('Summer weekday — a full project day at the desk.');
+  });
+
+  it('non-summer no-school weekdays keep the no-school copy', () => {
+    // Christmas break: not in term, but December is not summer
+    const brief = makeBrief('2025-12-29');
+    const a = combine(baselineRule(brief), nyTimeToMs('2025-12-29', 14, 0));
+    const projectDay = a.signals.find((s) => s.id === 'no-school-project-day')!;
+    expect(projectDay.label).toBe('No school today');
+    expect(projectDay.reason).toBe('No school today — a full project day at the desk.');
+  });
+
   it('weekend daytime is a weak yes', () => {
     const brief = makeBrief('2026-08-08');
     const a = combine(baselineRule(brief), nyTimeToMs('2026-08-08', 14, 0));

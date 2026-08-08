@@ -7,13 +7,19 @@ export const baselineRule: Rule = (brief) => {
   const isWeekend = brief.weekday >= 6;
 
   if (!isWeekend && !brief.schoolDay) {
+    // June–August out of term reads as summer; a holy day off or a December
+    // break is still "no school", not summer.
+    const month = Number(brief.date.slice(5, 7));
+    const isSummer = !brief.inSchoolTerm && month >= 6 && month <= 8;
     signals.push({
       id: 'no-school-project-day',
-      label: 'No school today',
+      label: isSummer ? 'Summer weekday' : 'No school today',
       weight: 35,
       confidence: 1,
       window: { startMs: at(9), endMs: at(23) },
-      reason: 'No school today — a full project day at the desk.',
+      reason: isSummer
+        ? 'Summer weekday — a full project day at the desk.'
+        : 'No school today — a full project day at the desk.',
     });
     signals.push({
       id: 'weekday',
