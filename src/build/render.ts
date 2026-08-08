@@ -2,6 +2,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { build } from 'esbuild';
 import { assess } from '../engine/evaluate';
 import { breakdownHtml, escapeHtml } from '../site/breakdown';
+import { themeBootScript } from '../site/theme';
 import { nyDateString } from '../lib/time';
 import type { DayBrief } from '../engine/types';
 
@@ -39,7 +40,8 @@ const html = readFileSync(`${root}src/site/index.html`, 'utf8')
   .replace('{{VERDICT}}', () => a.verdict.text)
   .replace('{{REASON}}', () => escapeHtml(a.headline))
   .replace('{{BREAKDOWN}}', () => breakdownHtml(a))
-  .replace('{{TIMESTAMP}}', () => timestamp);
+  .replace('{{TIMESTAMP}}', () => timestamp)
+  .replace('{{THEME_BOOT}}', () => themeBootScript());
 
 writeFileSync(`${root}web/index.html`, html);
 console.log(`rendered web/index.html: ${a.verdict.text} (score ${a.score})`);

@@ -1,5 +1,12 @@
 import { describe, it, expect } from 'vitest';
-import { THEMES, DEFAULT_THEME, coerceTheme, bodyClass } from '../src/site/theme';
+import {
+  THEMES,
+  DEFAULT_THEME,
+  THEME_STORAGE_KEY,
+  coerceTheme,
+  bodyClass,
+  themeBootScript,
+} from '../src/site/theme';
 
 describe('themes', () => {
   it('offers jewel, twilight, and soft, defaulting to jewel', () => {
@@ -18,5 +25,14 @@ describe('themes', () => {
   it('composes the body class from theme and level', () => {
     expect(bodyClass('jewel', 6)).toBe('theme-jewel level-6');
     expect(bodyClass('soft', 1)).toBe('theme-soft level-1');
+  });
+
+  it('generates a boot script carrying the storage key and every theme', () => {
+    const script = themeBootScript();
+    expect(script).toContain(THEME_STORAGE_KEY);
+    for (const theme of THEMES) {
+      expect(script).toContain(theme);
+    }
+    expect(script).not.toContain('{{');
   });
 });

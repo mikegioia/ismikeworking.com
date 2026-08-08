@@ -2,12 +2,10 @@ import brief from '../../data/daybrief.json';
 import { assess } from '../engine/evaluate';
 import { breakdownHtml } from './breakdown';
 import { nyDateString } from '../lib/time';
-import { bodyClass, coerceTheme, type Theme } from './theme';
+import { bodyClass, coerceTheme, THEME_STORAGE_KEY, type Theme } from './theme';
 import type { Assessment, DayBrief } from '../engine/types';
 
 const dayBrief = brief as unknown as DayBrief;
-
-const THEME_STORAGE_KEY = 'imw-theme';
 
 const STALE: Assessment = {
   verdict: { text: 'Probably', level: 2 },
