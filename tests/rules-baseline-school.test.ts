@@ -18,7 +18,7 @@ describe('baselineRule', () => {
     const brief = makeBrief('2026-08-07'); // August, out of term
     const a = combine(baselineRule(brief), nyTimeToMs('2026-08-07', 14, 0));
     const projectDay = a.signals.find((s) => s.id === 'no-school-project-day')!;
-    expect(projectDay.label).toBe('Summer weekday');
+    expect(projectDay.label).toBe('Summer break');
     expect(projectDay.reason).toBe('Summer weekday — a full project day at the desk.');
   });
 

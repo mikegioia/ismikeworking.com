@@ -13,7 +13,7 @@ export const baselineRule: Rule = (brief) => {
     const isSummer = !brief.inSchoolTerm && month >= 6 && month <= 8;
     signals.push({
       id: 'no-school-project-day',
-      label: isSummer ? 'Summer weekday' : 'No school today',
+      label: isSummer ? 'Summer break' : 'No school today',
       weight: 35,
       confidence: 1,
       window: { startMs: at(9), endMs: at(23) },
