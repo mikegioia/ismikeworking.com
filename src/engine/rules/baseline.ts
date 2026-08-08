@@ -42,23 +42,5 @@ export const baselineRule: Rule = (brief) => {
     });
   }
 
-  signals.push({
-    id: 'late-night',
-    label: 'Late night',
-    weight: -40,
-    confidence: 1,
-    window: { startMs: at(23), endMs: brief.dayEndMs },
-    reason: "It's late. Mike should be asleep.",
-  });
-
-  signals.push({
-    id: 'early-morning',
-    label: 'Early morning',
-    weight: -40,
-    confidence: 1,
-    window: { startMs: brief.dayStartMs, endMs: at(7) },
-    reason: 'Mike is asleep. Probably.',
-  });
-
   return signals;
 };

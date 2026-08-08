@@ -37,17 +37,10 @@ describe('baselineRule', () => {
     expect(a.score).toBe(10);
   });
 
-  it('late night goes negative', () => {
-    const brief = makeBrief('2026-08-07');
-    const a = combine(baselineRule(brief), nyTimeToMs('2026-08-07', 23, 30));
-    expect(a.signals.map((s) => s.id)).toEqual(['late-night']);
-    expect(a.score).toBe(-40);
-  });
-
-  it('early morning goes negative', () => {
+  it('emits no time-of-day signals: nothing fires outside the daytime window', () => {
     const brief = makeBrief('2026-08-08');
-    const a = combine(baselineRule(brief), nyTimeToMs('2026-08-08', 3, 0));
-    expect(a.signals.map((s) => s.id)).toEqual(['early-morning']);
+    expect(combine(baselineRule(brief), nyTimeToMs('2026-08-08', 3, 0)).signals).toHaveLength(0);
+    expect(combine(baselineRule(brief), nyTimeToMs('2026-08-08', 23, 30)).signals).toHaveLength(0);
   });
 
   it('emits nothing extra on a school day daytime', () => {
@@ -66,14 +59,8 @@ describe('schoolRule', () => {
     expect(a.verdict.text).toBe('NO WAY');
   });
 
-  it('school evening is prime project time', () => {
-    const a = combine(schoolRule(brief), nyTimeToMs('2026-03-10', 19, 0));
-    expect(a.score).toBe(40);
-  });
-
-  it('the gap between school and evening emits nothing', () => {
-    const a = combine(schoolRule(brief), nyTimeToMs('2026-03-10', 16, 0));
-    expect(a.signals).toHaveLength(0);
+  it('emits only the teaching signal — no evening signal', () => {
+    expect(schoolRule(brief).map((s) => s.id)).toEqual(['teaching']);
   });
 
   it('emits nothing when not a school day', () => {

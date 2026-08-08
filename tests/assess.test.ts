@@ -44,18 +44,19 @@ describe('assess — full-engine scenarios', () => {
     expect(assess(sunny, nyTimeToMs(D, 14, 0)).verdict.text).toBe('No'); // -30 + 10
   });
 
-  it('school day: NO WAY-level at 2pm, positive at 8pm', () => {
+  it('school day: teaching dominates the day-level verdict', () => {
     const D = '2026-03-10'; // term-time Tuesday
     const brief = makeBrief(D, { inSchoolTerm: true, schoolDay: true });
     expect(assess(brief, nyTimeToMs(D, 14, 0)).verdict.text).toBe('NO WAY'); // teaching -80
-    expect(assess(brief, nyTimeToMs(D, 20, 0)).verdict.text).toBe('Probably'); // +40
+    // Off-hours instants carry no signals now — the engine shrugs.
+    expect(assess(brief, nyTimeToMs(D, 20, 0)).verdict.text).toBe('Hmm… maybe?');
   });
 
-  it('plain summer Tuesday afternoon: Yes; 1am: No', () => {
+  it('plain summer Tuesday: Yes at the day anchor; off-hours are signal-free', () => {
     const D = '2026-08-11';
     const brief = makeBrief(D);
     expect(assess(brief, nyTimeToMs(D, 14, 0)).verdict.text).toBe('Yes.'); // +35 +20
-    expect(assess(brief, nyTimeToMs(D, 1, 0)).verdict.text).toBe('No'); // -40
+    expect(assess(brief, nyTimeToMs(D, 1, 0)).signals).toHaveLength(0);
   });
 
   it('birthday + Liverpool match: hard override with the biggest weight wins', () => {
