@@ -21,6 +21,40 @@
           "reason": "It's 87° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-09": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -140,
+      "headline": "It's Antonio's birthday today!",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "personal-antonio-s-birthday",
+          "label": "Antonio's Birthday",
+          "contribution": -60,
+          "reason": "It's Antonio's birthday today!"
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Monaco today — the whole day orbits kickoff."
+        },
+        {
+          "id": "nice-weather",
+          "label": "86° and clear",
+          "contribution": -30,
+          "reason": "It's 86° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
