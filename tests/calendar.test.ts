@@ -80,4 +80,9 @@ describe('dayDetailHtml', () => {
     expect(html).toContain('anything can happen');
     expect(html).toContain('Weekend');
   });
+
+  it('lists each signal number before its label', () => {
+    const html = dayDetailHtml('2026-08-08', entry);
+    expect(html).toContain('<li><b>+10</b><span>Weekend</span></li>');
+  });
 });

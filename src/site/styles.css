@@ -149,3 +149,23 @@ footer { margin-top: 2.5rem; opacity: 0.6; }
 
 .cal-detail-panel { margin-top: 1rem; }
 .cal-detail-panel h2 { font-size: 1rem; margin-bottom: 0.25rem; }
+.cal-detail-panel .reason { font-size: 1.1rem; margin-bottom: 1rem; }
+.cal-detail-panel ul {
+  list-style: none;
+  display: table; /* shrink-wrap so margin auto centers the block */
+  margin: 0 auto;
+  padding: 0;
+  text-align: left;
+}
+.cal-detail-panel li {
+  display: flex;
+  gap: 0.75rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.cal-detail-panel li b {
+  min-width: 2.4rem;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.cal-detail-panel .math { margin-top: 0.75rem; font-variant-numeric: tabular-nums; opacity: 0.9; }

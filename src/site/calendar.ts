@@ -64,6 +64,6 @@ export function dayDetailHtml(date: string, entry: HistoryEntry): string {
   return (
     `<h2>${escapeHtml(label)} — ${escapeHtml(entry.verdict.text)}</h2>` +
     `<p class="reason">${escapeHtml(entry.headline)}</p>` +
-    breakdownHtml(entry)
+    breakdownHtml(entry, { numberFirst: true })
   );
 }

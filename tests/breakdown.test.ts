@@ -27,6 +27,24 @@ describe('breakdownHtml', () => {
     expect(html).toContain('Nope');
   });
 
+  it('puts the number before the label when numberFirst is set', () => {
+    const a: Assessment = {
+      verdict: { text: 'Nope', level: 5 },
+      score: -60,
+      headline: 'x',
+      signals: [
+        {
+          id: 'a', label: 'Liverpool matchday', weight: -60, confidence: 1,
+          window: { startMs: 0, endMs: 1 }, reason: 'r', contribution: -60,
+        },
+      ],
+    };
+    expect(breakdownHtml(a, { numberFirst: true }))
+      .toContain('<li><b>−60</b><span>Liverpool matchday</span></li>');
+    expect(breakdownHtml(a))
+      .toContain('<li><span>Liverpool matchday</span><b>−60</b></li>');
+  });
+
   it('handles an empty signal list', () => {
     const a: Assessment = {
       verdict: { text: 'Hmm… maybe?', level: 3 }, score: 0, headline: 'x', signals: [],

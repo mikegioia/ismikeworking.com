@@ -72,6 +72,9 @@ const nextBtn = document.getElementById('cal-next') as HTMLButtonElement;
 
 let history: HistoryFile | null = null;
 let selected: string | null = null;
+// Today's verdict level, baked into the page at build time — restored when no
+// past day is selected.
+const todayBodyClass = document.body.className;
 const today = () => nyDateString(Date.now());
 let view = { year: Number(today().slice(0, 4)), month: Number(today().slice(5, 7)) };
 
@@ -93,6 +96,7 @@ function renderCalendar(): void {
     selected && entry
       ? `<div class="cal-detail-panel">${dayDetailHtml(selected, entry)}</div>`
       : '';
+  document.body.className = entry ? `level-${entry.verdict.level}` : todayBodyClass;
 }
 
 async function openHistory(): Promise<void> {
@@ -113,7 +117,12 @@ toggleBtn.addEventListener('click', () => {
   const opening = section.hidden;
   section.hidden = !opening;
   toggleBtn.setAttribute('aria-expanded', String(opening));
-  if (opening) void openHistory();
+  if (opening) {
+    void openHistory();
+  } else {
+    selected = null;
+    if (history) renderCalendar();
+  }
 });
 
 prevBtn.addEventListener('click', () => {
