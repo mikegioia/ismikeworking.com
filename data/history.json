@@ -50,9 +50,9 @@
         },
         {
           "id": "nice-weather",
-          "label": "86° and clear",
+          "label": "87° and clear",
           "contribution": -30,
-          "reason": "It's 86° and gorgeous out — Mike is outside."
+          "reason": "It's 87° and gorgeous out — Mike is outside."
         }
       ]
     }
