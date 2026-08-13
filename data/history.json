@@ -139,6 +139,34 @@
           "reason": "It's 84° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-13": {
+      "verdict": {
+        "text": "Probably",
+        "level": 2
+      },
+      "score": 25,
+      "headline": "Summer weekday — a full project day at the desk.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "Summer break",
+          "contribution": 35,
+          "reason": "Summer weekday — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "nice-weather",
+          "label": "85° and clear",
+          "contribution": -30,
+          "reason": "It's 85° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
