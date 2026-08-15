@@ -195,6 +195,28 @@
           "reason": "It's 86° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-15": {
+      "verdict": {
+        "text": "No",
+        "level": 4
+      },
+      "score": -20,
+      "headline": "It's 84° and gorgeous out — Mike is outside.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "nice-weather",
+          "label": "84° and clear",
+          "contribution": -30,
+          "reason": "It's 84° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
