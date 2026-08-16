@@ -217,6 +217,34 @@
           "reason": "It's 84° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-16": {
+      "verdict": {
+        "text": "Hmm… maybe?",
+        "level": 3
+      },
+      "score": -15,
+      "headline": "Liverpool play Como today — the whole day orbits kickoff.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Como today — the whole day orbits kickoff."
+        },
+        {
+          "id": "bad-weather",
+          "label": "Miserable weather",
+          "contribution": 35,
+          "reason": "It's miserable out — perfect coding weather."
+        }
+      ]
     }
   }
 }
