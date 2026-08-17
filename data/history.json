@@ -245,6 +245,34 @@
           "reason": "It's miserable out — perfect coding weather."
         }
       ]
+    },
+    "2026-08-17": {
+      "verdict": {
+        "text": "Yes.",
+        "level": 1
+      },
+      "score": 90,
+      "headline": "Summer weekday — a full project day at the desk.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "Summer break",
+          "contribution": 35,
+          "reason": "Summer weekday — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "bad-weather",
+          "label": "Miserable weather",
+          "contribution": 35,
+          "reason": "It's miserable out — perfect coding weather."
+        }
+      ]
     }
   }
 }

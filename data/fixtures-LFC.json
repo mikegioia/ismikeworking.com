@@ -1,11 +1,11 @@
 [
   {
-    "competition": "CUP",
-    "date": "2026-08-16",
-    "kickoffUtc": "2026-08-16T17:00:00Z",
-    "home": "Liverpool",
-    "away": "Como",
-    "round": "0",
+    "competition": "PL",
+    "date": "2026-08-23",
+    "kickoffUtc": "2026-08-23T15:30:00Z",
+    "home": "Newcastle United",
+    "away": "Liverpool",
+    "round": "1",
     "isFinal": false,
     "isKnockout": false
   }
