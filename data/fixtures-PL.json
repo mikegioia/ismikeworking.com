@@ -502,7 +502,7 @@
   {
     "competition": "PL",
     "date": "2026-10-10",
-    "kickoffUtc": "2026-10-10T14:00:00Z",
+    "kickoffUtc": "2026-10-10T16:30:00Z",
     "home": "Manchester United",
     "away": "Tottenham Hotspur",
     "round": "6",
@@ -512,17 +512,7 @@
   {
     "competition": "PL",
     "date": "2026-10-10",
-    "kickoffUtc": "2026-10-10T14:00:00Z",
-    "home": "Liverpool",
-    "away": "Manchester City",
-    "round": "6",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-10",
-    "kickoffUtc": "2026-10-10T14:00:00Z",
+    "kickoffUtc": "2026-10-10T11:30:00Z",
     "home": "Arsenal",
     "away": "Leeds United",
     "round": "6",
@@ -543,28 +533,8 @@
     "competition": "PL",
     "date": "2026-10-10",
     "kickoffUtc": "2026-10-10T14:00:00Z",
-    "home": "Crystal Palace",
-    "away": "Nottingham Forest",
-    "round": "6",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-10",
-    "kickoffUtc": "2026-10-10T14:00:00Z",
     "home": "Ipswich Town",
     "away": "Fulham",
-    "round": "6",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-10",
-    "kickoffUtc": "2026-10-10T14:00:00Z",
-    "home": "Hull City",
-    "away": "Everton",
     "round": "6",
     "isFinal": false,
     "isKnockout": false
@@ -591,8 +561,38 @@
   },
   {
     "competition": "PL",
-    "date": "2026-10-10",
-    "kickoffUtc": "2026-10-10T14:00:00Z",
+    "date": "2026-10-11",
+    "kickoffUtc": "2026-10-11T15:30:00Z",
+    "home": "Liverpool",
+    "away": "Manchester City",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-11",
+    "kickoffUtc": "2026-10-11T13:00:00Z",
+    "home": "Crystal Palace",
+    "away": "Nottingham Forest",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-11",
+    "kickoffUtc": "2026-10-11T13:00:00Z",
+    "home": "Hull City",
+    "away": "Everton",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-12",
+    "kickoffUtc": "2026-10-12T19:00:00Z",
     "home": "Coventry City",
     "away": "Newcastle United",
     "round": "6",
@@ -602,19 +602,9 @@
   {
     "competition": "PL",
     "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
+    "kickoffUtc": "2026-10-17T16:30:00Z",
     "home": "Newcastle United",
     "away": "Aston Villa",
-    "round": "7",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
-    "home": "Bournemouth",
-    "away": "Sunderland",
     "round": "7",
     "isFinal": false,
     "isKnockout": false
@@ -632,19 +622,9 @@
   {
     "competition": "PL",
     "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
+    "kickoffUtc": "2026-10-17T11:30:00Z",
     "home": "Everton",
     "away": "Chelsea",
-    "round": "7",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
-    "home": "Tottenham Hotspur",
-    "away": "Coventry City",
     "round": "7",
     "isFinal": false,
     "isKnockout": false
@@ -663,16 +643,6 @@
     "competition": "PL",
     "date": "2026-10-17",
     "kickoffUtc": "2026-10-17T14:00:00Z",
-    "home": "Brighton and Hove Albion",
-    "away": "Crystal Palace",
-    "round": "7",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
     "home": "Brentford",
     "away": "Liverpool",
     "round": "7",
@@ -681,8 +651,28 @@
   },
   {
     "competition": "PL",
-    "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
+    "date": "2026-10-18",
+    "kickoffUtc": "2026-10-18T13:00:00Z",
+    "home": "Bournemouth",
+    "away": "Sunderland",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-18",
+    "kickoffUtc": "2026-10-18T13:00:00Z",
+    "home": "Brighton and Hove Albion",
+    "away": "Crystal Palace",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-18",
+    "kickoffUtc": "2026-10-18T13:00:00Z",
     "home": "Leeds United",
     "away": "Manchester United",
     "round": "7",
@@ -691,8 +681,8 @@
   },
   {
     "competition": "PL",
-    "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
+    "date": "2026-10-18",
+    "kickoffUtc": "2026-10-18T15:30:00Z",
     "home": "Nottingham Forest",
     "away": "Arsenal",
     "round": "7",
@@ -701,10 +691,20 @@
   },
   {
     "competition": "PL",
-    "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
-    "home": "Manchester United",
-    "away": "Bournemouth",
+    "date": "2026-10-19",
+    "kickoffUtc": "2026-10-19T19:00:00Z",
+    "home": "Tottenham Hotspur",
+    "away": "Coventry City",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-23",
+    "kickoffUtc": "2026-10-23T19:00:00Z",
+    "home": "Ipswich Town",
+    "away": "Nottingham Forest",
     "round": "8",
     "isFinal": false,
     "isKnockout": false
@@ -732,7 +732,7 @@
   {
     "competition": "PL",
     "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
+    "kickoffUtc": "2026-10-24T16:30:00Z",
     "home": "Chelsea",
     "away": "Tottenham Hotspur",
     "round": "8",
@@ -742,49 +742,9 @@
   {
     "competition": "PL",
     "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
-    "home": "Crystal Palace",
-    "away": "Newcastle United",
-    "round": "8",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
-    "home": "Ipswich Town",
-    "away": "Nottingham Forest",
-    "round": "8",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
-    "home": "Hull City",
-    "away": "Brentford",
-    "round": "8",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
+    "kickoffUtc": "2026-10-24T11:30:00Z",
     "home": "Aston Villa",
     "away": "Manchester City",
-    "round": "8",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
-    "home": "Sunderland",
-    "away": "Leeds United",
     "round": "8",
     "isFinal": false,
     "isKnockout": false
@@ -801,11 +761,41 @@
   },
   {
     "competition": "PL",
-    "date": "2026-10-31",
-    "kickoffUtc": "2026-10-31T15:00:00Z",
-    "home": "Newcastle United",
-    "away": "Everton",
-    "round": "9",
+    "date": "2026-10-25",
+    "kickoffUtc": "2026-10-25T14:00:00Z",
+    "home": "Manchester United",
+    "away": "Bournemouth",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-25",
+    "kickoffUtc": "2026-10-25T14:00:00Z",
+    "home": "Crystal Palace",
+    "away": "Newcastle United",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-25",
+    "kickoffUtc": "2026-10-25T14:00:00Z",
+    "home": "Hull City",
+    "away": "Brentford",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-25",
+    "kickoffUtc": "2026-10-25T16:30:00Z",
+    "home": "Sunderland",
+    "away": "Leeds United",
+    "round": "8",
     "isFinal": false,
     "isKnockout": false
   },
@@ -822,17 +812,7 @@
   {
     "competition": "PL",
     "date": "2026-10-31",
-    "kickoffUtc": "2026-10-31T15:00:00Z",
-    "home": "Liverpool",
-    "away": "Arsenal",
-    "round": "9",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-31",
-    "kickoffUtc": "2026-10-31T15:00:00Z",
+    "kickoffUtc": "2026-10-31T17:30:00Z",
     "home": "Tottenham Hotspur",
     "away": "Crystal Palace",
     "round": "9",
@@ -842,7 +822,7 @@
   {
     "competition": "PL",
     "date": "2026-10-31",
-    "kickoffUtc": "2026-10-31T15:00:00Z",
+    "kickoffUtc": "2026-10-31T12:30:00Z",
     "home": "Chelsea",
     "away": "Manchester United",
     "round": "9",
@@ -883,6 +863,26 @@
     "competition": "PL",
     "date": "2026-10-31",
     "kickoffUtc": "2026-10-31T15:00:00Z",
+    "home": "Coventry City",
+    "away": "Sunderland",
+    "round": "9",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-11-01",
+    "kickoffUtc": "2026-11-01T16:30:00Z",
+    "home": "Liverpool",
+    "away": "Arsenal",
+    "round": "9",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-11-01",
+    "kickoffUtc": "2026-11-01T14:00:00Z",
     "home": "Aston Villa",
     "away": "Fulham",
     "round": "9",
@@ -891,10 +891,10 @@
   },
   {
     "competition": "PL",
-    "date": "2026-10-31",
-    "kickoffUtc": "2026-10-31T15:00:00Z",
-    "home": "Coventry City",
-    "away": "Sunderland",
+    "date": "2026-11-02",
+    "kickoffUtc": "2026-11-02T20:00:00Z",
+    "home": "Newcastle United",
+    "away": "Everton",
     "round": "9",
     "isFinal": false,
     "isKnockout": false
