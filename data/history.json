@@ -329,6 +329,40 @@
           "reason": "It's 83° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-20": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -10,
+      "headline": "It's Mike's (and Andrew's) birthday today!!!",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "Summer break",
+          "contribution": 35,
+          "reason": "Summer weekday — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "personal-mike-s-birthday",
+          "label": "Mike's Birthday",
+          "contribution": -100,
+          "reason": "It's Mike's (and Andrew's) birthday today!!!"
+        },
+        {
+          "id": "bad-weather",
+          "label": "Miserable weather",
+          "contribution": 35,
+          "reason": "It's miserable out — perfect coding weather."
+        }
+      ]
     }
   }
 }
