@@ -363,6 +363,40 @@
           "reason": "It's miserable out — perfect coding weather."
         }
       ]
+    },
+    "2026-08-21": {
+      "verdict": {
+        "text": "Hmm… maybe?",
+        "level": 3
+      },
+      "score": 15,
+      "headline": "Summer weekday — a full project day at the desk.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "Summer break",
+          "contribution": 35,
+          "reason": "Summer weekday — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "78° and clear",
+          "contribution": -30,
+          "reason": "It's 78° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
