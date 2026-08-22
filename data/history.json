@@ -397,6 +397,46 @@
           "reason": "It's 78° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-22": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -95,
+      "headline": "It's National Honey Bee Day, which Mike observes outdoors in the garden!",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "personal-national-honey-bee-day",
+          "label": "National Honey Bee Day",
+          "contribution": -40,
+          "reason": "It's National Honey Bee Day, which Mike observes outdoors in the garden!"
+        },
+        {
+          "id": "big-team",
+          "label": "Tottenham Hotspur are playing",
+          "contribution": -25,
+          "reason": "Brentford v Tottenham Hotspur is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "75° and clear",
+          "contribution": -30,
+          "reason": "It's 75° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
