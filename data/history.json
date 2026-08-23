@@ -437,6 +437,40 @@
           "reason": "It's 75° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-23": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -155,
+      "headline": "Liverpool are playing Newcastle United RIGHT NOW. Put it on!",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "lfc-live",
+          "label": "Liverpool are playing",
+          "contribution": -95,
+          "reason": "Liverpool are playing Newcastle United RIGHT NOW. Put it on!"
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Newcastle United today — the whole day orbits kickoff."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        }
+      ]
     }
   }
 }
