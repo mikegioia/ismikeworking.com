@@ -561,6 +561,28 @@
           "reason": "It's 82° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-27": {
+      "verdict": {
+        "text": "Yes.",
+        "level": 1
+      },
+      "score": 55,
+      "headline": "Summer weekday — a full project day at the desk.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "Summer break",
+          "contribution": 35,
+          "reason": "Summer weekday — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        }
+      ]
     }
   }
 }
