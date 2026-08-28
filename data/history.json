@@ -583,6 +583,40 @@
           "reason": "It's a weekday and Mike is on the clock."
         }
       ]
+    },
+    "2026-08-28": {
+      "verdict": {
+        "text": "Hmm… maybe?",
+        "level": 3
+      },
+      "score": 15,
+      "headline": "Summer weekday — a full project day at the desk.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "Summer break",
+          "contribution": 35,
+          "reason": "Summer weekday — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "81° and clear",
+          "contribution": -30,
+          "reason": "It's 81° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
