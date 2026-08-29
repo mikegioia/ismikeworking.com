@@ -443,16 +443,6 @@
     "competition": "PL",
     "date": "2026-09-19",
     "kickoffUtc": "2026-09-19T14:00:00Z",
-    "home": "Manchester City",
-    "away": "Sunderland",
-    "round": "5",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-09-19",
-    "kickoffUtc": "2026-09-19T14:00:00Z",
     "home": "Brighton and Hove Albion",
     "away": "Arsenal",
     "round": "5",
@@ -495,6 +485,16 @@
     "kickoffUtc": "2026-09-20T15:30:00Z",
     "home": "Fulham",
     "away": "Manchester United",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-09-20",
+    "kickoffUtc": "2026-09-20T13:00:00Z",
+    "home": "Manchester City",
+    "away": "Sunderland",
     "round": "5",
     "isFinal": false,
     "isKnockout": false

@@ -617,6 +617,46 @@
           "reason": "It's 81° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-08-29": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -115,
+      "headline": "Liverpool play Nottingham Forest today — the whole day orbits kickoff.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Nottingham Forest today — the whole day orbits kickoff."
+        },
+        {
+          "id": "big-team",
+          "label": "Tottenham Hotspur are playing",
+          "contribution": -25,
+          "reason": "Tottenham Hotspur v Newcastle United is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "76° and clear",
+          "contribution": -30,
+          "reason": "It's 76° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
