@@ -281,6 +281,186 @@
   },
   {
     "competition": "CL",
+    "date": "2026-09-08",
+    "kickoffUtc": "2026-09-08T19:00:00Z",
+    "home": "Lille",
+    "away": "Real Betis",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-08",
+    "kickoffUtc": "2026-09-08T19:00:00Z",
+    "home": "Borussia Dortmund",
+    "away": "Villarreal",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-08",
+    "kickoffUtc": "2026-09-08T19:00:00Z",
+    "home": "Porto",
+    "away": "Manchester City",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-08",
+    "kickoffUtc": "2026-09-08T19:00:00Z",
+    "home": "Real Madrid",
+    "away": "Inter Milan",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-08",
+    "kickoffUtc": "2026-09-08T16:45:00Z",
+    "home": "Club Brugge",
+    "away": "Aston Villa",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-08",
+    "kickoffUtc": "2026-09-08T16:45:00Z",
+    "home": "AEK Athens",
+    "away": "LASK",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-09",
+    "kickoffUtc": "2026-09-09T19:00:00Z",
+    "home": "Liverpool",
+    "away": "Atlético Madrid",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-09",
+    "kickoffUtc": "2026-09-09T19:00:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Slovan Bratislava",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-09",
+    "kickoffUtc": "2026-09-09T16:45:00Z",
+    "home": "Stuttgart",
+    "away": "Viking",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-09",
+    "kickoffUtc": "2026-09-09T19:00:00Z",
+    "home": "Sporting CP",
+    "away": "Galatasaray",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-09",
+    "kickoffUtc": "2026-09-09T19:00:00Z",
+    "home": "Napoli",
+    "away": "Arsenal",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-09",
+    "kickoffUtc": "2026-09-09T16:45:00Z",
+    "home": "Barcelona",
+    "away": "Feyenoord",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-10",
+    "kickoffUtc": "2026-09-10T19:00:00Z",
+    "home": "Manchester United",
+    "away": "Sabah Baku",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-10",
+    "kickoffUtc": "2026-09-10T19:00:00Z",
+    "home": "Bayern Munich",
+    "away": "Bodø/Glimt",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-10",
+    "kickoffUtc": "2026-09-10T16:45:00Z",
+    "home": "PSV Eindhoven",
+    "away": "Shakhtar Donetsk",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-10",
+    "kickoffUtc": "2026-09-10T19:00:00Z",
+    "home": "Slavia Prague",
+    "away": "Lens",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-10",
+    "kickoffUtc": "2026-09-10T16:45:00Z",
+    "home": "Fenerbahçe",
+    "away": "Roma",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-09-10",
+    "kickoffUtc": "2026-09-10T19:00:00Z",
+    "home": "Como",
+    "away": "RB Leipzig",
+    "round": "1",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
     "date": "2026-07-21",
     "kickoffUtc": "2026-07-21T17:00:00Z",
     "home": "AGF Aarhus",
@@ -561,6 +741,186 @@
   },
   {
     "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T19:00:00Z",
+    "home": "Arsenal",
+    "away": "Lille",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T16:45:00Z",
+    "home": "Lens",
+    "away": "Sporting CP",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T19:00:00Z",
+    "home": "RB Leipzig",
+    "away": "PSV Eindhoven",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T19:00:00Z",
+    "home": "Inter Milan",
+    "away": "Club Brugge",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T19:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Manchester United",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T19:00:00Z",
+    "home": "Villarreal",
+    "away": "Napoli",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T19:00:00Z",
+    "home": "Galatasaray",
+    "away": "Barcelona",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T19:00:00Z",
+    "home": "Viking",
+    "away": "Bayern Munich",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-13",
+    "kickoffUtc": "2026-10-13T16:45:00Z",
+    "home": "Sabah Baku",
+    "away": "Slavia Prague",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T19:00:00Z",
+    "home": "Manchester City",
+    "away": "Paris Saint-Germain",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T19:00:00Z",
+    "home": "Aston Villa",
+    "away": "Fenerbahçe",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T16:45:00Z",
+    "home": "Feyenoord",
+    "away": "Como",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T19:00:00Z",
+    "home": "Bodø/Glimt",
+    "away": "Borussia Dortmund",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T19:00:00Z",
+    "home": "Roma",
+    "away": "Real Madrid",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T19:00:00Z",
+    "home": "Real Betis",
+    "away": "Porto",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T19:00:00Z",
+    "home": "Shakhtar Donetsk",
+    "away": "AEK Athens",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T19:00:00Z",
+    "home": "Slovan Bratislava",
+    "away": "Stuttgart",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-14",
+    "kickoffUtc": "2026-10-14T16:45:00Z",
+    "home": "LASK",
+    "away": "Liverpool",
+    "round": "2",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
     "date": "2026-08-04",
     "kickoffUtc": "2026-08-04T18:00:00Z",
     "home": "Olympiacos",
@@ -756,6 +1116,1086 @@
     "home": "Sabah Baku",
     "away": "AGF Aarhus",
     "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Liverpool",
+    "away": "Villarreal",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Manchester City",
+    "away": "AEK Athens",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Barcelona",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Stuttgart",
+    "away": "Atlético Madrid",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Porto",
+    "away": "PSV Eindhoven",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Napoli",
+    "away": "Bodø/Glimt",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Roma",
+    "away": "Slovan Bratislava",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T16:45:00Z",
+    "home": "Fenerbahçe",
+    "away": "Slavia Prague",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T16:45:00Z",
+    "home": "Sabah Baku",
+    "away": "Borussia Dortmund",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T19:00:00Z",
+    "home": "Aston Villa",
+    "away": "Viking",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T16:45:00Z",
+    "home": "Lille",
+    "away": "Galatasaray",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T19:00:00Z",
+    "home": "Bayern Munich",
+    "away": "Arsenal",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T19:00:00Z",
+    "home": "Sporting CP",
+    "away": "LASK",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T19:00:00Z",
+    "home": "Inter Milan",
+    "away": "Shakhtar Donetsk",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T19:00:00Z",
+    "home": "Real Madrid",
+    "away": "RB Leipzig",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T19:00:00Z",
+    "home": "Real Betis",
+    "away": "Feyenoord",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T19:00:00Z",
+    "home": "Club Brugge",
+    "away": "Lens",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-10-21",
+    "kickoffUtc": "2026-10-21T16:45:00Z",
+    "home": "Como",
+    "away": "Manchester United",
+    "round": "3",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T20:00:00Z",
+    "home": "Manchester United",
+    "away": "Roma",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T20:00:00Z",
+    "home": "Feyenoord",
+    "away": "Inter Milan",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T20:00:00Z",
+    "home": "Bodø/Glimt",
+    "away": "Lille",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T20:00:00Z",
+    "home": "Barcelona",
+    "away": "Aston Villa",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T20:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Bayern Munich",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T20:00:00Z",
+    "home": "Villarreal",
+    "away": "Paris Saint-Germain",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T17:45:00Z",
+    "home": "Shakhtar Donetsk",
+    "away": "Sporting CP",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T17:45:00Z",
+    "home": "Galatasaray",
+    "away": "Stuttgart",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-03",
+    "kickoffUtc": "2026-11-03T20:00:00Z",
+    "home": "LASK",
+    "away": "Slovan Bratislava",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T20:00:00Z",
+    "home": "Lens",
+    "away": "Como",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T20:00:00Z",
+    "home": "Borussia Dortmund",
+    "away": "Real Betis",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T20:00:00Z",
+    "home": "RB Leipzig",
+    "away": "Manchester City",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T20:00:00Z",
+    "home": "PSV Eindhoven",
+    "away": "Club Brugge",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T20:00:00Z",
+    "home": "Porto",
+    "away": "Napoli",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T20:00:00Z",
+    "home": "Slavia Prague",
+    "away": "Arsenal",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T17:45:00Z",
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T17:45:00Z",
+    "home": "Fenerbahçe",
+    "away": "Liverpool",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T20:00:00Z",
+    "home": "Viking",
+    "away": "Sabah Baku",
+    "round": "4",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T20:00:00Z",
+    "home": "Arsenal",
+    "away": "Borussia Dortmund",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T20:00:00Z",
+    "home": "Manchester City",
+    "away": "Napoli",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T20:00:00Z",
+    "home": "RB Leipzig",
+    "away": "Lens",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T20:00:00Z",
+    "home": "Feyenoord",
+    "away": "Porto",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T17:45:00Z",
+    "home": "Bodø/Glimt",
+    "away": "LASK",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T20:00:00Z",
+    "home": "Real Madrid",
+    "away": "PSV Eindhoven",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T17:45:00Z",
+    "home": "Galatasaray",
+    "away": "Aston Villa",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T20:00:00Z",
+    "home": "Slovan Bratislava",
+    "away": "Real Betis",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-24",
+    "kickoffUtc": "2026-11-24T20:00:00Z",
+    "home": "Como",
+    "away": "AEK Athens",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Lille",
+    "away": "Bayern Munich",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Roma",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Sporting CP",
+    "away": "Manchester United",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Inter Milan",
+    "away": "Stuttgart",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Viking",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Shakhtar Donetsk",
+    "away": "Fenerbahçe",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T17:45:00Z",
+    "home": "Slavia Prague",
+    "away": "Villarreal",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Club Brugge",
+    "away": "Liverpool",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T17:45:00Z",
+    "home": "Sabah Baku",
+    "away": "Barcelona",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T20:00:00Z",
+    "home": "Manchester United",
+    "away": "RB Leipzig",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T20:00:00Z",
+    "home": "Aston Villa",
+    "away": "Paris Saint-Germain",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T20:00:00Z",
+    "home": "Bayern Munich",
+    "away": "Slavia Prague",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T20:00:00Z",
+    "home": "Napoli",
+    "away": "Club Brugge",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T20:00:00Z",
+    "home": "Roma",
+    "away": "Sporting CP",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T20:00:00Z",
+    "home": "Barcelona",
+    "away": "Manchester City",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T17:45:00Z",
+    "home": "Villarreal",
+    "away": "Sabah Baku",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T20:00:00Z",
+    "home": "AEK Athens",
+    "away": "Galatasaray",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-08",
+    "kickoffUtc": "2026-12-08T17:45:00Z",
+    "home": "Viking",
+    "away": "Feyenoord",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T20:00:00Z",
+    "home": "Liverpool",
+    "away": "Porto",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T20:00:00Z",
+    "home": "Arsenal",
+    "away": "Real Madrid",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T20:00:00Z",
+    "home": "Lens",
+    "away": "Bodø/Glimt",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T20:00:00Z",
+    "home": "Borussia Dortmund",
+    "away": "Inter Milan",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T20:00:00Z",
+    "home": "Stuttgart",
+    "away": "Lille",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T20:00:00Z",
+    "home": "PSV Eindhoven",
+    "away": "Atlético Madrid",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T17:45:00Z",
+    "home": "Real Betis",
+    "away": "Como",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T17:45:00Z",
+    "home": "Slovan Bratislava",
+    "away": "Shakhtar Donetsk",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2026-12-09",
+    "kickoffUtc": "2026-12-09T20:00:00Z",
+    "home": "LASK",
+    "away": "Fenerbahçe",
+    "round": "6",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Aston Villa",
+    "away": "Borussia Dortmund",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Lille",
+    "away": "Slovan Bratislava",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Stuttgart",
+    "away": "Club Brugge",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Porto",
+    "away": "Slavia Prague",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T17:45:00Z",
+    "home": "Bodø/Glimt",
+    "away": "Atlético Madrid",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Inter Milan",
+    "away": "Liverpool",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Real Madrid",
+    "away": "LASK",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "AEK Athens",
+    "away": "Roma",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T17:45:00Z",
+    "home": "Galatasaray",
+    "away": "Feyenoord",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Manchester United",
+    "away": "Bayern Munich",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Lens",
+    "away": "Manchester City",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "RB Leipzig",
+    "away": "Shakhtar Donetsk",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Sporting CP",
+    "away": "Barcelona",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Real Betis",
+    "away": "Arsenal",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T17:45:00Z",
+    "home": "Fenerbahçe",
+    "away": "Villarreal",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Viking",
+    "away": "PSV Eindhoven",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Como",
+    "away": "Paris Saint-Germain",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T17:45:00Z",
+    "home": "Sabah Baku",
+    "away": "Napoli",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Liverpool",
+    "away": "Lens",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Arsenal",
+    "away": "Sabah Baku",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Manchester City",
+    "away": "Sporting CP",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Galatasaray",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Bayern Munich",
+    "away": "Real Betis",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Borussia Dortmund",
+    "away": "AEK Athens",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "PSV Eindhoven",
+    "away": "Stuttgart",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Feyenoord",
+    "away": "RB Leipzig",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Napoli",
+    "away": "Viking",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Roma",
+    "away": "Lille",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Barcelona",
+    "away": "Como",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Fenerbahçe",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Villarreal",
+    "away": "Manchester United",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Shakhtar Donetsk",
+    "away": "Real Madrid",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Slavia Prague",
+    "away": "Aston Villa",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Club Brugge",
+    "away": "Bodø/Glimt",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Slovan Bratislava",
+    "away": "Inter Milan",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "LASK",
+    "away": "Porto",
+    "round": "8",
     "isFinal": false,
     "isKnockout": false
   }
