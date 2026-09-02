@@ -452,16 +452,6 @@
   {
     "competition": "PL",
     "date": "2026-09-19",
-    "kickoffUtc": "2026-09-19T14:00:00Z",
-    "home": "Leeds United",
-    "away": "Crystal Palace",
-    "round": "5",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-09-19",
     "kickoffUtc": "2026-09-19T16:30:00Z",
     "home": "Nottingham Forest",
     "away": "Coventry City",
@@ -495,6 +485,16 @@
     "kickoffUtc": "2026-09-20T13:00:00Z",
     "home": "Manchester City",
     "away": "Sunderland",
+    "round": "5",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-09-20",
+    "kickoffUtc": "2026-09-20T13:00:00Z",
+    "home": "Leeds United",
+    "away": "Crystal Palace",
     "round": "5",
     "isFinal": false,
     "isKnockout": false
@@ -713,16 +713,6 @@
     "competition": "PL",
     "date": "2026-10-24",
     "kickoffUtc": "2026-10-24T14:00:00Z",
-    "home": "Liverpool",
-    "away": "Brighton and Hove Albion",
-    "round": "8",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-10-24",
-    "kickoffUtc": "2026-10-24T14:00:00Z",
     "home": "Arsenal",
     "away": "Everton",
     "round": "8",
@@ -765,6 +755,16 @@
     "kickoffUtc": "2026-10-25T14:00:00Z",
     "home": "Manchester United",
     "away": "Bournemouth",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-25",
+    "kickoffUtc": "2026-10-25T14:00:00Z",
+    "home": "Liverpool",
+    "away": "Brighton and Hove Albion",
     "round": "8",
     "isFinal": false,
     "isKnockout": false
@@ -862,6 +862,16 @@
   {
     "competition": "PL",
     "date": "2026-10-31",
+    "kickoffUtc": "2026-10-31T20:00:00Z",
+    "home": "Aston Villa",
+    "away": "Fulham",
+    "round": "9",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "PL",
+    "date": "2026-10-31",
     "kickoffUtc": "2026-10-31T15:00:00Z",
     "home": "Coventry City",
     "away": "Sunderland",
@@ -875,16 +885,6 @@
     "kickoffUtc": "2026-11-01T16:30:00Z",
     "home": "Liverpool",
     "away": "Arsenal",
-    "round": "9",
-    "isFinal": false,
-    "isKnockout": false
-  },
-  {
-    "competition": "PL",
-    "date": "2026-11-01",
-    "kickoffUtc": "2026-11-01T14:00:00Z",
-    "home": "Aston Villa",
-    "away": "Fulham",
     "round": "9",
     "isFinal": false,
     "isKnockout": false

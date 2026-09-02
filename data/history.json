@@ -747,6 +747,34 @@
           "reason": "It's a weekday and Mike is on the clock."
         }
       ]
+    },
+    "2026-09-02": {
+      "verdict": {
+        "text": "Probably",
+        "level": 2
+      },
+      "score": 25,
+      "headline": "No school today — a full project day at the desk.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "No school today",
+          "contribution": 35,
+          "reason": "No school today — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "nice-weather",
+          "label": "77° and clear",
+          "contribution": -30,
+          "reason": "It's 77° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
