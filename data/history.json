@@ -775,6 +775,34 @@
           "reason": "It's 77° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-09-03": {
+      "verdict": {
+        "text": "Yes.",
+        "level": 1
+      },
+      "score": 90,
+      "headline": "No school today — a full project day at the desk.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "No school today",
+          "contribution": 35,
+          "reason": "No school today — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "bad-weather",
+          "label": "Miserable weather",
+          "contribution": 35,
+          "reason": "It's miserable out — perfect coding weather."
+        }
+      ]
     }
   }
 }
