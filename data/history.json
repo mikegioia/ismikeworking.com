@@ -803,6 +803,46 @@
           "reason": "It's miserable out — perfect coding weather."
         }
       ]
+    },
+    "2026-09-04": {
+      "verdict": {
+        "text": "No",
+        "level": 4
+      },
+      "score": -45,
+      "headline": "Liverpool play Ipswich Town today — the whole day orbits kickoff.",
+      "signals": [
+        {
+          "id": "no-school-project-day",
+          "label": "No school today",
+          "contribution": 35,
+          "reason": "No school today — a full project day at the desk."
+        },
+        {
+          "id": "weekday",
+          "label": "Weekday",
+          "contribution": 20,
+          "reason": "It's a weekday and Mike is on the clock."
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Ipswich Town today — the whole day orbits kickoff."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "83° and clear",
+          "contribution": -30,
+          "reason": "It's 83° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
