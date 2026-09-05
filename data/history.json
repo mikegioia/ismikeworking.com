@@ -843,6 +843,46 @@
           "reason": "It's 83° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-09-05": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -80,
+      "headline": "It's 78° and gorgeous out — Mike is outside.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-team",
+          "label": "Manchester City are playing",
+          "contribution": -25,
+          "reason": "Manchester City v Coventry City is on and Mike is watching."
+        },
+        {
+          "id": "big-team",
+          "label": "Tottenham Hotspur are playing",
+          "contribution": -25,
+          "reason": "Nottingham Forest v Tottenham Hotspur is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "78° and clear",
+          "contribution": -30,
+          "reason": "It's 78° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }

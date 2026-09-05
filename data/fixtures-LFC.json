@@ -1,11 +1,11 @@
 [
   {
-    "competition": "PL",
-    "date": "2026-09-04",
-    "kickoffUtc": "2026-09-04T19:00:00Z",
-    "home": "Ipswich Town",
-    "away": "Liverpool",
-    "round": "3",
+    "competition": "CL",
+    "date": "2026-09-09",
+    "kickoffUtc": "2026-09-09T19:00:00Z",
+    "home": "Liverpool",
+    "away": "Atlético Madrid",
+    "round": "1",
     "isFinal": false,
     "isKnockout": false
   }
