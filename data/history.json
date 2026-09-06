@@ -883,6 +883,40 @@
           "reason": "It's 78° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-09-06": {
+      "verdict": {
+        "text": "Nope",
+        "level": 5
+      },
+      "score": -70,
+      "headline": "Arsenal v Chelsea — Mike is definitely watching that.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-v-big",
+          "label": "Arsenal v Chelsea",
+          "contribution": -40,
+          "reason": "Arsenal v Chelsea — Mike is definitely watching that."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "76° and clear",
+          "contribution": -30,
+          "reason": "It's 76° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
