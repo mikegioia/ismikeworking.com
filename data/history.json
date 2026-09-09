@@ -961,6 +961,28 @@
           "reason": "Mike is at school molding young minds."
         }
       ]
+    },
+    "2026-09-09": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -140,
+      "headline": "Mike is at school molding young minds.",
+      "signals": [
+        {
+          "id": "teaching",
+          "label": "Teaching",
+          "contribution": -80,
+          "reason": "Mike is at school molding young minds."
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Atlético Madrid today — the whole day orbits kickoff."
+        }
+      ]
     }
   }
 }
