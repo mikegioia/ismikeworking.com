@@ -1,11 +1,11 @@
 [
   {
-    "competition": "CL",
-    "date": "2026-09-09",
-    "kickoffUtc": "2026-09-09T19:00:00Z",
+    "competition": "PL",
+    "date": "2026-09-12",
+    "kickoffUtc": "2026-09-12T14:00:00Z",
     "home": "Liverpool",
-    "away": "Atlético Madrid",
-    "round": "1",
+    "away": "Fulham",
+    "round": "4",
     "isFinal": false,
     "isKnockout": false
   }
