@@ -1015,6 +1015,64 @@
           "reason": "Mike is at school molding young minds."
         }
       ]
+    },
+    "2026-09-12": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -295,
+      "headline": "Liverpool are playing Fulham RIGHT NOW. Put it on!",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "personal-ashley-s-birthday",
+          "label": "Ashley's Birthday",
+          "contribution": -60,
+          "reason": "It's Ashley's birthday today!"
+        },
+        {
+          "id": "lfc-live",
+          "label": "Liverpool are playing",
+          "contribution": -95,
+          "reason": "Liverpool are playing Fulham RIGHT NOW. Put it on!"
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Fulham today — the whole day orbits kickoff."
+        },
+        {
+          "id": "big-team",
+          "label": "Tottenham Hotspur are playing",
+          "contribution": -25,
+          "reason": "Tottenham Hotspur v Everton is on and Mike is watching."
+        },
+        {
+          "id": "big-team",
+          "label": "Chelsea are playing",
+          "contribution": -25,
+          "reason": "Chelsea v Hull City is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "80° and clear",
+          "contribution": -30,
+          "reason": "It's 80° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
