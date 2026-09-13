@@ -1,11 +1,11 @@
 [
   {
-    "competition": "PL",
-    "date": "2026-09-12",
-    "kickoffUtc": "2026-09-12T14:00:00Z",
+    "competition": "CUP",
+    "date": "2026-09-15",
+    "kickoffUtc": "2026-09-15T19:00:00Z",
     "home": "Liverpool",
-    "away": "Fulham",
-    "round": "4",
+    "away": "Tottenham Hotspur",
+    "round": "32",
     "isFinal": false,
     "isKnockout": false
   }

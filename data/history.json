@@ -1073,6 +1073,40 @@
           "reason": "It's 80° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-09-13": {
+      "verdict": {
+        "text": "Hmm… maybe?",
+        "level": 3
+      },
+      "score": -5,
+      "headline": "Manchester United v Manchester City — Mike is definitely watching that.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-v-big",
+          "label": "Manchester United v Manchester City",
+          "contribution": -40,
+          "reason": "Manchester United v Manchester City — Mike is definitely watching that."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "bad-weather",
+          "label": "Miserable weather",
+          "contribution": 35,
+          "reason": "It's miserable out — perfect coding weather."
+        }
+      ]
     }
   }
 }
