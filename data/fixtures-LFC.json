@@ -1,11 +1,11 @@
 [
   {
-    "competition": "CUP",
-    "date": "2026-09-15",
-    "kickoffUtc": "2026-09-15T19:00:00Z",
-    "home": "Liverpool",
-    "away": "Tottenham Hotspur",
-    "round": "32",
+    "competition": "PL",
+    "date": "2026-09-20",
+    "kickoffUtc": "2026-09-20T13:00:00Z",
+    "home": "Bournemouth",
+    "away": "Liverpool",
+    "round": "5",
     "isFinal": false,
     "isKnockout": false
   }
