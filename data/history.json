@@ -1183,6 +1183,28 @@
           "reason": "Mike is at school molding young minds."
         }
       ]
+    },
+    "2026-09-18": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -90,
+      "headline": "Mike is at school molding young minds.",
+      "signals": [
+        {
+          "id": "teaching",
+          "label": "Teaching",
+          "contribution": -80,
+          "reason": "Mike is at school molding young minds."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        }
+      ]
     }
   }
 }
