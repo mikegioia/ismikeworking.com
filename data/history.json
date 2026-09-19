@@ -1205,6 +1205,40 @@
           "reason": "It's a Premier League matchday."
         }
       ]
+    },
+    "2026-09-19": {
+      "verdict": {
+        "text": "Nope",
+        "level": 5
+      },
+      "score": -55,
+      "headline": "It's 75° and gorgeous out — Mike is outside.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-team",
+          "label": "Arsenal are playing",
+          "contribution": -25,
+          "reason": "Brighton and Hove Albion v Arsenal is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "75° and clear",
+          "contribution": -30,
+          "reason": "It's 75° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
