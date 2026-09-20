@@ -1239,6 +1239,40 @@
           "reason": "It's 75° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-09-20": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -85,
+      "headline": "Liverpool play Bournemouth today — the whole day orbits kickoff.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Bournemouth today — the whole day orbits kickoff."
+        },
+        {
+          "id": "big-team",
+          "label": "Manchester United are playing",
+          "contribution": -25,
+          "reason": "Fulham v Manchester United is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        }
+      ]
     }
   }
 }
