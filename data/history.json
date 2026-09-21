@@ -1273,6 +1273,22 @@
           "reason": "It's a Premier League matchday."
         }
       ]
+    },
+    "2026-09-21": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -80,
+      "headline": "Mike is at school molding young minds.",
+      "signals": [
+        {
+          "id": "teaching",
+          "label": "Teaching",
+          "contribution": -80,
+          "reason": "Mike is at school molding young minds."
+        }
+      ]
     }
   }
 }

@@ -1,11 +1,11 @@
 [
   {
     "competition": "PL",
-    "date": "2026-09-20",
-    "kickoffUtc": "2026-09-20T13:00:00Z",
-    "home": "Bournemouth",
-    "away": "Liverpool",
-    "round": "5",
+    "date": "2026-10-11",
+    "kickoffUtc": "2026-10-11T15:30:00Z",
+    "home": "Liverpool",
+    "away": "Manchester City",
+    "round": "6",
     "isFinal": false,
     "isKnockout": false
   }
