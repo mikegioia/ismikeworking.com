@@ -1337,6 +1337,22 @@
           "reason": "Mike is at school molding young minds."
         }
       ]
+    },
+    "2026-09-25": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -80,
+      "headline": "Mike is at school molding young minds.",
+      "signals": [
+        {
+          "id": "teaching",
+          "label": "Teaching",
+          "contribution": -80,
+          "reason": "Mike is at school molding young minds."
+        }
+      ]
     }
   }
 }
