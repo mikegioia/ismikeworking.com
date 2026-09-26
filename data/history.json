@@ -1353,6 +1353,28 @@
           "reason": "Mike is at school molding young minds."
         }
       ]
+    },
+    "2026-09-26": {
+      "verdict": {
+        "text": "Probably",
+        "level": 2
+      },
+      "score": 45,
+      "headline": "It's miserable out — perfect coding weather.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "bad-weather",
+          "label": "Miserable weather",
+          "contribution": 35,
+          "reason": "It's miserable out — perfect coding weather."
+        }
+      ]
     }
   }
 }
