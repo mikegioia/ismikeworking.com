@@ -1499,6 +1499,28 @@
           "reason": "It's 69° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-10-04": {
+      "verdict": {
+        "text": "No",
+        "level": 4
+      },
+      "score": -20,
+      "headline": "It's 60° and gorgeous out — Mike is outside.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "nice-weather",
+          "label": "60° and clear",
+          "contribution": -30,
+          "reason": "It's 60° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
