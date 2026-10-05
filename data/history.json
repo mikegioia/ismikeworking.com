@@ -1521,6 +1521,22 @@
           "reason": "It's 60° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-10-05": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -80,
+      "headline": "Mike is at school molding young minds.",
+      "signals": [
+        {
+          "id": "teaching",
+          "label": "Teaching",
+          "contribution": -80,
+          "reason": "Mike is at school molding young minds."
+        }
+      ]
     }
   }
 }
