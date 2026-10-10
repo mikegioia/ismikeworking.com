@@ -1601,6 +1601,46 @@
           "reason": "Mike is at school molding young minds."
         }
       ]
+    },
+    "2026-10-10": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -95,
+      "headline": "Manchester United v Tottenham Hotspur — Mike is definitely watching that.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-v-big",
+          "label": "Manchester United v Tottenham Hotspur",
+          "contribution": -40,
+          "reason": "Manchester United v Tottenham Hotspur — Mike is definitely watching that."
+        },
+        {
+          "id": "big-team",
+          "label": "Chelsea are playing",
+          "contribution": -25,
+          "reason": "Chelsea v Bournemouth is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "70° and clear",
+          "contribution": -30,
+          "reason": "It's 70° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
