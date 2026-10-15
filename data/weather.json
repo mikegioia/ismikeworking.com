@@ -1,37 +1,37 @@
 [
   {
-    "date": "2026-10-14",
-    "highF": 77,
-    "precipProb": 16
-  },
-  {
     "date": "2026-10-15",
-    "highF": 67,
-    "precipProb": 19
+    "highF": 70,
+    "precipProb": 17
   },
   {
     "date": "2026-10-16",
-    "highF": 75,
-    "precipProb": 66
+    "highF": 74,
+    "precipProb": 57
   },
   {
     "date": "2026-10-17",
-    "highF": 59,
-    "precipProb": 35
+    "highF": 60,
+    "precipProb": 57
   },
   {
     "date": "2026-10-18",
-    "highF": 58,
-    "precipProb": 1
+    "highF": 56,
+    "precipProb": 5
   },
   {
     "date": "2026-10-19",
-    "highF": 63,
-    "precipProb": 1
+    "highF": 61,
+    "precipProb": 10
   },
   {
     "date": "2026-10-20",
-    "highF": 66,
-    "precipProb": 2
+    "highF": 64,
+    "precipProb": 10
+  },
+  {
+    "date": "2026-10-21",
+    "highF": 62,
+    "precipProb": 4
   }
 ]

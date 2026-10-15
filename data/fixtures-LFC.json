@@ -1,11 +1,11 @@
 [
   {
-    "competition": "CL",
-    "date": "2026-10-14",
-    "kickoffUtc": "2026-10-14T16:45:00Z",
-    "home": "LASK",
+    "competition": "PL",
+    "date": "2026-10-17",
+    "kickoffUtc": "2026-10-17T14:00:00Z",
+    "home": "Brentford",
     "away": "Liverpool",
-    "round": "2",
+    "round": "7",
     "isFinal": false,
     "isKnockout": false
   }
