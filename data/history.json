@@ -1819,6 +1819,34 @@
           "reason": "It's 61° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-10-18": {
+      "verdict": {
+        "text": "No",
+        "level": 4
+      },
+      "score": -25,
+      "headline": "Nottingham Forest v Arsenal is on and Mike is watching.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-team",
+          "label": "Arsenal are playing",
+          "contribution": -25,
+          "reason": "Nottingham Forest v Arsenal is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        }
+      ]
     }
   }
 }

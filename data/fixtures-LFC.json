@@ -1,11 +1,11 @@
 [
   {
-    "competition": "PL",
-    "date": "2026-10-17",
-    "kickoffUtc": "2026-10-17T14:00:00Z",
-    "home": "Brentford",
-    "away": "Liverpool",
-    "round": "7",
+    "competition": "CL",
+    "date": "2026-10-20",
+    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "home": "Liverpool",
+    "away": "Villarreal",
+    "round": "3",
     "isFinal": false,
     "isKnockout": false
   }
