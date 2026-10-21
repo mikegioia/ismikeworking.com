@@ -1,11 +1,11 @@
 [
   {
-    "competition": "CL",
-    "date": "2026-10-20",
-    "kickoffUtc": "2026-10-20T19:00:00Z",
+    "competition": "PL",
+    "date": "2026-10-25",
+    "kickoffUtc": "2026-10-25T14:00:00Z",
     "home": "Liverpool",
-    "away": "Villarreal",
-    "round": "3",
+    "away": "Brighton and Hove Albion",
+    "round": "8",
     "isFinal": false,
     "isKnockout": false
   }
