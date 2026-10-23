@@ -1,12 +1,7 @@
 [
   {
-    "date": "2026-10-22",
-    "highF": 65,
-    "precipProb": 0
-  },
-  {
     "date": "2026-10-23",
-    "highF": 56,
+    "highF": 60,
     "precipProb": 0
   },
   {
@@ -26,12 +21,17 @@
   },
   {
     "date": "2026-10-27",
-    "highF": 60,
+    "highF": 65,
     "precipProb": 0
   },
   {
     "date": "2026-10-28",
-    "highF": 58,
-    "precipProb": 3
+    "highF": 60,
+    "precipProb": 1
+  },
+  {
+    "date": "2026-10-29",
+    "highF": 64,
+    "precipProb": 2
   }
 ]
