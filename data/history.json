@@ -1945,6 +1945,46 @@
           "reason": "It's a Premier League matchday."
         }
       ]
+    },
+    "2026-10-24": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -95,
+      "headline": "Chelsea v Tottenham Hotspur — Mike is definitely watching that.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-team",
+          "label": "Arsenal are playing",
+          "contribution": -25,
+          "reason": "Arsenal v Everton is on and Mike is watching."
+        },
+        {
+          "id": "big-v-big",
+          "label": "Chelsea v Tottenham Hotspur",
+          "contribution": -40,
+          "reason": "Chelsea v Tottenham Hotspur — Mike is definitely watching that."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "60° and clear",
+          "contribution": -30,
+          "reason": "It's 60° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }

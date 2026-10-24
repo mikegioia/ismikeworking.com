@@ -2018,5 +2018,185 @@
     "round": "7",
     "isFinal": false,
     "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Liverpool",
+    "away": "Lens",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Arsenal",
+    "away": "Sabah Baku",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Manchester City",
+    "away": "Sporting CP",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Paris Saint-Germain",
+    "away": "Galatasaray",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Bayern Munich",
+    "away": "Real Betis",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Borussia Dortmund",
+    "away": "AEK Athens",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "PSV Eindhoven",
+    "away": "Stuttgart",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Feyenoord",
+    "away": "RB Leipzig",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Napoli",
+    "away": "Viking",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Roma",
+    "away": "Lille",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Barcelona",
+    "away": "Como",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Atlético Madrid",
+    "away": "Fenerbahçe",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Villarreal",
+    "away": "Manchester United",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Shakhtar Donetsk",
+    "away": "Real Madrid",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Slavia Prague",
+    "away": "Aston Villa",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Club Brugge",
+    "away": "Bodø/Glimt",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "Slovan Bratislava",
+    "away": "Inter Milan",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-27",
+    "kickoffUtc": "2027-01-27T20:00:00Z",
+    "home": "LASK",
+    "away": "Porto",
+    "round": "8",
+    "isFinal": false,
+    "isKnockout": false
   }
 ]
