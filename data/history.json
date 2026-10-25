@@ -1985,6 +1985,52 @@
           "reason": "It's 60° and gorgeous out — Mike is outside."
         }
       ]
+    },
+    "2026-10-25": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -210,
+      "headline": "Liverpool are playing Brighton and Hove Albion RIGHT NOW. Put it on!",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-team",
+          "label": "Manchester United are playing",
+          "contribution": -25,
+          "reason": "Manchester United v Bournemouth is on and Mike is watching."
+        },
+        {
+          "id": "lfc-live",
+          "label": "Liverpool are playing",
+          "contribution": -95,
+          "reason": "Liverpool are playing Brighton and Hove Albion RIGHT NOW. Put it on!"
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Brighton and Hove Albion today — the whole day orbits kickoff."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        },
+        {
+          "id": "nice-weather",
+          "label": "62° and clear",
+          "contribution": -30,
+          "reason": "It's 62° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
