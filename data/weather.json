@@ -1,27 +1,22 @@
 [
   {
-    "date": "2026-10-25",
-    "highF": 62,
-    "precipProb": 0
-  },
-  {
     "date": "2026-10-26",
     "highF": 67,
     "precipProb": 1
   },
   {
     "date": "2026-10-27",
-    "highF": 60,
-    "precipProb": 0
+    "highF": 61,
+    "precipProb": 4
   },
   {
     "date": "2026-10-28",
-    "highF": 59,
+    "highF": 62,
     "precipProb": 0
   },
   {
     "date": "2026-10-29",
-    "highF": 65,
+    "highF": 67,
     "precipProb": 0
   },
   {
@@ -31,7 +26,12 @@
   },
   {
     "date": "2026-10-31",
-    "highF": 69,
-    "precipProb": 0
+    "highF": 61,
+    "precipProb": 1
+  },
+  {
+    "date": "2026-11-01",
+    "highF": 64,
+    "precipProb": 23
   }
 ]
