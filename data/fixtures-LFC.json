@@ -1,11 +1,11 @@
 [
   {
-    "competition": "CUP",
-    "date": "2026-10-28",
-    "kickoffUtc": "2026-10-28T20:00:00Z",
+    "competition": "PL",
+    "date": "2026-11-01",
+    "kickoffUtc": "2026-11-01T16:30:00Z",
     "home": "Liverpool",
-    "away": "Chelsea",
-    "round": "16",
+    "away": "Arsenal",
+    "round": "9",
     "isFinal": false,
     "isKnockout": false
   }
