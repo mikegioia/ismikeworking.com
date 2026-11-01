@@ -1841,6 +1841,186 @@
   },
   {
     "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Aston Villa",
+    "away": "Borussia Dortmund",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Lille",
+    "away": "Slovan Bratislava",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Stuttgart",
+    "away": "Club Brugge",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Porto",
+    "away": "Slavia Prague",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T17:45:00Z",
+    "home": "Bodø/Glimt",
+    "away": "Atlético Madrid",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Inter Milan",
+    "away": "Liverpool",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "Real Madrid",
+    "away": "LASK",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T20:00:00Z",
+    "home": "AEK Athens",
+    "away": "Roma",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-19",
+    "kickoffUtc": "2027-01-19T17:45:00Z",
+    "home": "Galatasaray",
+    "away": "Feyenoord",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Manchester United",
+    "away": "Bayern Munich",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Lens",
+    "away": "Manchester City",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "RB Leipzig",
+    "away": "Shakhtar Donetsk",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Sporting CP",
+    "away": "Barcelona",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Real Betis",
+    "away": "Arsenal",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T17:45:00Z",
+    "home": "Fenerbahçe",
+    "away": "Villarreal",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Viking",
+    "away": "PSV Eindhoven",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T20:00:00Z",
+    "home": "Como",
+    "away": "Paris Saint-Germain",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
+    "date": "2027-01-20",
+    "kickoffUtc": "2027-01-20T17:45:00Z",
+    "home": "Sabah Baku",
+    "away": "Napoli",
+    "round": "7",
+    "isFinal": false,
+    "isKnockout": false
+  },
+  {
+    "competition": "CL",
     "date": "2027-01-27",
     "kickoffUtc": "2027-01-27T20:00:00Z",
     "home": "Liverpool",
