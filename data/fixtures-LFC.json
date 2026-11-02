@@ -1,11 +1,11 @@
 [
   {
-    "competition": "PL",
-    "date": "2026-11-01",
-    "kickoffUtc": "2026-11-01T16:30:00Z",
-    "home": "Liverpool",
-    "away": "Arsenal",
-    "round": "9",
+    "competition": "CL",
+    "date": "2026-11-04",
+    "kickoffUtc": "2026-11-04T17:45:00Z",
+    "home": "Fenerbahçe",
+    "away": "Liverpool",
+    "round": "4",
     "isFinal": false,
     "isKnockout": false
   }
