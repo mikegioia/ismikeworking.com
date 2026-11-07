@@ -2289,6 +2289,40 @@
           "reason": "It's a Premier League matchday."
         }
       ]
+    },
+    "2026-11-07": {
+      "verdict": {
+        "text": "Nope",
+        "level": 5
+      },
+      "score": -50,
+      "headline": "Arsenal v Hull City is on and Mike is watching.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-team",
+          "label": "Arsenal are playing",
+          "contribution": -25,
+          "reason": "Arsenal v Hull City is on and Mike is watching."
+        },
+        {
+          "id": "big-team",
+          "label": "Manchester City are playing",
+          "contribution": -25,
+          "reason": "Nottingham Forest v Manchester City is on and Mike is watching."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        }
+      ]
     }
   }
 }
