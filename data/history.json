@@ -2323,6 +2323,40 @@
           "reason": "It's a Premier League matchday."
         }
       ]
+    },
+    "2026-11-08": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -85,
+      "headline": "Liverpool play Crystal Palace today — the whole day orbits kickoff.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "big-team",
+          "label": "Manchester United are playing",
+          "contribution": -25,
+          "reason": "Manchester United v Aston Villa is on and Mike is watching."
+        },
+        {
+          "id": "lfc-today",
+          "label": "Liverpool matchday",
+          "contribution": -60,
+          "reason": "Liverpool play Crystal Palace today — the whole day orbits kickoff."
+        },
+        {
+          "id": "pl-matchday",
+          "label": "Premier League matchday",
+          "contribution": -10,
+          "reason": "It's a Premier League matchday."
+        }
+      ]
     }
   }
 }
