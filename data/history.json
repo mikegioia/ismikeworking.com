@@ -2459,6 +2459,28 @@
           "reason": "It's miserable out — perfect coding weather."
         }
       ]
+    },
+    "2026-11-15": {
+      "verdict": {
+        "text": "No",
+        "level": 4
+      },
+      "score": -30,
+      "headline": "It's Steve Irwin Day, which Mike observes by repeat-watching his farewell documentary.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "personal-steve-irwin-day",
+          "label": "Steve Irwin Day",
+          "contribution": -40,
+          "reason": "It's Steve Irwin Day, which Mike observes by repeat-watching his farewell documentary."
+        }
+      ]
     }
   }
 }
