@@ -2481,6 +2481,22 @@
           "reason": "It's Steve Irwin Day, which Mike observes by repeat-watching his farewell documentary."
         }
       ]
+    },
+    "2026-11-16": {
+      "verdict": {
+        "text": "NO WAY",
+        "level": 6
+      },
+      "score": -80,
+      "headline": "Mike is at school molding young minds.",
+      "signals": [
+        {
+          "id": "teaching",
+          "label": "Teaching",
+          "contribution": -80,
+          "reason": "Mike is at school molding young minds."
+        }
+      ]
     }
   }
 }
