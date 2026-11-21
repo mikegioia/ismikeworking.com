@@ -2561,6 +2561,28 @@
           "reason": "Mike is at school molding young minds."
         }
       ]
+    },
+    "2026-11-21": {
+      "verdict": {
+        "text": "No",
+        "level": 4
+      },
+      "score": -20,
+      "headline": "It's 63° and gorgeous out — Mike is outside.",
+      "signals": [
+        {
+          "id": "weekend-baseline",
+          "label": "Weekend",
+          "contribution": 10,
+          "reason": "It's the weekend — anything can happen."
+        },
+        {
+          "id": "nice-weather",
+          "label": "63° and clear",
+          "contribution": -30,
+          "reason": "It's 63° and gorgeous out — Mike is outside."
+        }
+      ]
     }
   }
 }
