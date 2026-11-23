@@ -1,11 +1,11 @@
 [
   {
-    "competition": "PL",
-    "date": "2026-11-22",
-    "kickoffUtc": "2026-11-22T16:30:00Z",
-    "home": "Liverpool",
-    "away": "Manchester United",
-    "round": "11",
+    "competition": "CL",
+    "date": "2026-11-25",
+    "kickoffUtc": "2026-11-25T20:00:00Z",
+    "home": "Club Brugge",
+    "away": "Liverpool",
+    "round": "5",
     "isFinal": false,
     "isKnockout": false
   }
